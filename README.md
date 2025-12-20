@@ -61,11 +61,15 @@ This is an unofficial archive for educational and research purposes only. **For 
 
 ## License
 
-The BC legislation content is used under the [King's Printer License – British Columbia](https://www.bclaws.ca/standards/Licence.html).
+This repository uses a dual licensing structure:
+
+### Code (Scraper)
+The scraper code and scripts in this repository are licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### Data (BC Laws)
+All BC legislation content in the `laws/` directory is subject to the [King's Printer License – British Columbia](https://www.bclaws.ca/standards/Licence.html) and belongs to the Province of British Columbia.
 
 The content is provided "as is" without warranty. The Province of British Columbia disclaims all liability for errors, omissions, or damages resulting from use of this information.
-
-The scraper code in this repository is provided as-is for educational purposes.
 
 ## Contributing
 
