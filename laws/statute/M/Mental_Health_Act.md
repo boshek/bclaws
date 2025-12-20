@@ -50,12 +50,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **28** Emergency procedures
 - **29** Prisoners and youth custody centre inmates
 - **30** Detention underCriminal Code
-- **31** Deemed consent to treatment and request for a second opinion
+- **31** Request for second opinion
 - **32** Direction and discipline of patients
 - **33** Application to court for discharge
 - **34** Notice to involuntary patient
 - **34.1** Notice to patient under 16 years of age
 - **34.2** Advice to near relative
+- **34.3** Rights advice
 - **35** Transfers
 - **36** Discharge
 - **37** Leave
@@ -65,6 +66,18 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **41** Unauthorized absences
 - **42** Transfer from another province
 - **43** Power to make regulations
+- **44** Interpretation
+- **45** Rights advice service
+- **46** Rights advisors
+- **47** Notice of event
+- **48** Duties of director
+- **49** Contact and communication
+- **50** General duties of rights advisor
+- **51** Matters that rights advisors must discuss
+- **52** Authority to collect and disclose personal information
+- **53** Record-keeping requirements
+- **54** Offence Actdoes not apply
+- **55** Regulations respecting rights advice
 
 ---
 
@@ -74,7 +87,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **1** In this Act:
 
-"approved home" means a home selected and approved under the regulations made under this Act;
+"approved home" means a home selected and approved under the regulations made under section 43;
 
 "chair" means the chair appointed under section 24.1 (1) (a);
 
@@ -82,7 +95,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "designated facility" means a Provincial mental health facility, psychiatric unit or observation unit;
 
-"director" means a person appointed under the regulations to be in charge of a designated facility and includes a person authorized by a director to exercise a power or carry out a duty conferred or imposed on the director under this Act or the Patients Property Act;
+"director" means a person appointed under the regulations made under section 43 to be in charge of a designated facility and includes a person authorized by a director to exercise a power or carry out a duty conferred or imposed on the director under this Act or the Patients Property Act;
 
 "near relative" means a grandparent, parent, child, spouse, sibling, half sibling, friend, caregiver or companion designated by a patient and includes the legal guardian of a minor and a representative under an agreement made under the Representation Agreement Act and a committee having custody of the person of a patient under the Patients Property Act;
 
@@ -115,6 +128,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 "resident of British Columbia" means a person who has resided in British Columbia for a period determined by the Lieutenant Governor in Council;
 
 "review panel" means a review panel established under section 24.1 (2);
+
+"rights advisor" means a person designated as a rights advisor under section 46;
 
 "society" means
 
@@ -172,7 +187,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Persons entitled to service
 
 
-**6** Subject to sections 12 and 18, every resident of British Columbia is entitled to receive service and accommodation in the facilities provided under this Act in accordance with this Act and its regulations.
+**6** Subject to sections 12 and 18, every resident of British Columbia is entitled to receive service and accommodation in the facilities provided under this Act in accordance with this Act and the regulations made under section 43.
 
 
 ## Repealed
@@ -266,6 +281,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b.3) if the person is the director, authorizing treatment or signing a consent to treatment form;
 
+  - (b.4) providing to a patient a professional service, or care or treatment, authorized by the director under this Act to be given to the patient, including treatment described in a consent to treatment form signed under section 8 (a);
+
   - (c) signing a medical certificate or making a report if the person is a physician or nurse practitioner;
 
   - (d) making an order if the person is a justice of the court;
@@ -282,9 +299,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (g) [Repealed 2004-45-116.]
 
-  - (h) if a director, releasing a patient under section 37, transferring or accepting the transfer of a patient under section 35 or 38 or recalling a patient under section 39 in a manner not contrary to the regulations;
+  - (h) if a director, releasing a patient under section 37, transferring or accepting the transfer of a patient under section 35 or 38 or recalling a patient under section 39 in a manner not contrary to the regulations made under section 43;
 
-  - (i) providing in a manner not contrary to the regulations the care, supervision, treatment, maintenance or rehabilitation of a patient on leave or transferred to an approved home under section 37 or 38.
+  - (i) providing in a manner not contrary to the regulations made under section 43 the care, supervision, treatment, maintenance or rehabilitation of a patient on leave or transferred to an approved home under section 37 or 38.
 
 
 ## Offence
@@ -743,12 +760,12 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 **30** A person who, under the Criminal Code, is found not criminally responsible on account of mental disorder or is found unfit on account of mental disorder to stand trial, and who is ordered to be detained in a Provincial mental health facility, must receive care and treatment appropriate to the condition of the person as authorized by the director.
 
 
-## Deemed consent to treatment and request for a second opinion
+## Request for second opinion
 
 
-**31(1)** If a patient is detained in a designated facility under section 22, 28, 29, 30 or 42 or is released on leave or is transferred to an approved home under section 37 or 38, treatment authorized by the director is deemed to be given with the consent of the patient.
+**31(1)** [Repealed 2025-28-2.]
 
-  (2) A patient to whom subsection (1) applies, or a person on the patient's behalf, may request a second medical opinion on the appropriateness of the treatment authorized by the director once in each of the following periods:
+  (2) A patient who is detained in a designated facility under section 22, 28, 29, 30 or 42 or is released on leave or is transferred to an approved home under section 37 or 38, or a person on the patient's behalf, may request a second medical opinion on the appropriateness of the treatment authorized by the director once in each of the following periods:
 
   - (a) a one month period referred to in section 23 or 24 (1) (a);
 
@@ -913,6 +930,20 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (4) If the director or chair has no information about the identity of the patient's near relatives, this section is sufficiently complied with if the notice is sent to the Public Guardian and Trustee.
 
 
+## Rights advice
+
+
+**34.3(1)** A director who gives a notice under section 34, 34.1 or 34.2 must include the information that the patient is entitled to meet with an independent rights advisor.
+
+  (2) On giving a notice to a patient under section 34 or 34.1, a director
+
+  - (a) must ask the patient whether the patient desires to be contacted by a rights advisor, and
+
+  - (b) must, if the patient requests to be contacted by a rights advisor, comply with the director's duties under Part 5.
+
+  (3) A request under subsection (2) (b) may be made orally or in writing.
+
+
 ## Transfers
 
 
@@ -940,13 +971,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Leave
 
 
-**37** Subject to section 40 and the regulations, if the director considers that leave would benefit a patient detained in the designated facility, the director may release the patient on leave from the designated facility providing appropriate support exists in the community to meet the conditions of the leave.
+**37** Subject to section 40 and the regulations made under section 43, if the director considers that leave would benefit a patient detained in the designated facility, the director may release the patient on leave from the designated facility providing appropriate support exists in the community to meet the conditions of the leave.
 
 
 ## Approved homes
 
 
-**38** Subject to section 40 and the regulations, if the director considers that the transfer would benefit a patient detained in the designated facility, the director may transfer the patient to an approved home.
+**38** Subject to section 40 and the regulations made under section 43, if the director considers that the transfer would benefit a patient detained in the designated facility, the director may transfer the patient to an approved home.
 
 
 ## Authority to detain continues despite leave or transfer
@@ -954,13 +985,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **39(1)** The release of a patient on leave or the patient's transfer to an approved home under section 37 or 38 does not, of itself, impair the authority for the patient's detention under this Act and that authority may be continued, according to the same procedures and to the same extent, as if the patient were detained in a designated facility.
 
-  (2) Subject to the regulations, a patient who is on leave or has been transferred to an approved home under section 37 or 38 may, if the conditions of the patient's leave or transfer are not being met, be recalled
+  (2) Subject to the regulations made under section 43, a patient who is on leave or has been transferred to an approved home under section 37 or 38 may, if the conditions of the patient's leave or transfer are not being met, be recalled
 
   - (a) to the designated facility from which the patient was released or transferred, or
 
   - (b) to another designated facility, if the transfer to that facility is authorized and agreed to under section 35.
 
-  (3) Subject to the regulations, the director of a designated facility who recalls a patient under subsection (2), or to which a patient is recalled under subsection (2) as a result of a transfer under section 35, may issue a warrant in the prescribed form for the patient's apprehension and transportation to the designated facility to which the patient is recalled.
+  (3) Subject to the regulations made under section 43, the director of a designated facility who recalls a patient under subsection (2), or to which a patient is recalled under subsection (2) as a result of a transfer under section 35, may issue a warrant in the prescribed form for the patient's apprehension and transportation to the designated facility to which the patient is recalled.
 
   (4) A patient who is recalled under subsection (2) while on leave that has lasted 6 or more consecutive months is deemed, for the purposes of sections 23 to 25, to have been admitted under section 22 (1) on the date of return to a designated facility as a result of the recall.
 
@@ -1006,7 +1037,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **43(1)** The Lieutenant Governor in Council may make regulations referred to in section 41 of the Interpretation Act.
 
-  (2) Without limiting subsection (1), the Lieutenant Governor in Council may make regulations as follows:
+  (2) Without limiting subsection (1), the Lieutenant Governor in Council may make regulations for the purposes of Parts 1 to 3 as follows:
 
   - (a) prescribing forms, including the form of the warrant under section 28, 39 or 41;
 
@@ -1043,3 +1074,197 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   - (p) governing the appointment of directors;
 
   - (q) governing the preparation of second medical opinions under section 31.
+
+
+## Interpretation
+
+
+**44** In this Part:
+
+"agreement" means an agreement made under section 45 (1);
+
+"care", in relation to a patient, means the care, supervision, treatment, maintenance or rehabilitation of the patient;
+
+"event" means a request or a prescribed event as described in section 47 (1);
+
+"notice of event" means a notice of event given under section 47 (1);
+
+"rights advice service" means a person with whom the Attorney General makes an agreement.
+
+
+## Rights advice service
+
+
+**45(1)** The Attorney General may make one or more agreements with respect to providing rights information and related services to patients.
+
+  (2) A person with whom the Attorney General makes an agreement under subsection (1)
+
+  - (a) is a rights advice service for the purposes of this Part, and
+
+  - (b) must comply with the duties of rights advice services imposed under this Part and the agreement.
+
+
+## Rights advisors
+
+
+**46(1)** A rights advice service must designate one or more rights advisors.
+
+  (2) Designations under subsection (1) must
+
+  - (a) be in writing, and
+
+  - (b) designate only persons who
+
+(i) are employees, volunteers or contractors of the rights advice service, and
+
+(ii) meet the prescribed criteria, if any, to be eligible for designation as a rights advisor.
+
+
+## Notice of event
+
+
+**47(1)** A director must give a notice of event to a rights advice service as soon as reasonably practicable after
+
+  - (a) a request is made as described in section 34.3 (2) (b), or
+
+  - (b) the occurrence of a prescribed event.
+
+  (2) A notice of event must be given in the prescribed form and manner.
+
+
+## Duties of director
+
+
+**48(1)** A director must make reasonable efforts to provide, in the director's designated facility, a private space and appropriate furnishings and equipment, including communications equipment, for rights advisors to communicate with patients.
+
+  (2) A director must make reasonable efforts to facilitate communication between rights advisors and patients, including
+
+  - (a) assisting patients to initiate communication with or to receive communication from rights advisors,
+
+  - (b) accommodating any special needs of patients, and
+
+  - (c) providing to rights advisors any information, including personal information, required for a purpose referred to in section 52.
+
+  (3) A director must comply with the regulations made under section 55 for the purposes of this section.
+
+
+## Contact and communication
+
+
+**49(1)** A rights advice service that receives a notice of event must assign a rights advisor to review the notice.
+
+  (2) The assigned rights advisor must contact the patient as soon as reasonably practicable on being assigned, unless, in the case of a prescribed event, the notice of event states that the patient does not wish to be contacted.
+
+  (3) A rights advisor who contacts a patient may
+
+  - (a) communicate with the patient in person, in writing or by any other means, and
+
+  - (b) permit other persons to be present during oral communication, if any and if the patient agrees to the presence of those persons.
+
+
+## General duties of rights advisor
+
+
+**50(1)** A rights advisor must give to patients prescribed information or materials.
+
+  (2) A rights advisor must perform duties imposed on rights advisors under this Part in accordance with this Part and the regulations made under section 55.
+
+
+## Matters that rights advisors must discuss
+
+
+**51(1)** A rights advisor who contacts a patient in response to a notice of event must make reasonable efforts to explain to and discuss with the patient all the matters described in this section with respect to the event that is the subject of the notice.
+
+  (2) A rights advisor must explain and discuss the legal processes that are relevant to the event, including
+
+  - (a) the actions that may be taken or the decisions that may be made by or with respect to the patient, and
+
+  - (b) applicable timelines.
+
+  (3) A rights advisor must explain and discuss the effects that the event may have on the patient's exercise of autonomy, including with respect to decisions
+
+  - (a) to move about or leave the designated facility, and
+
+  - (b) to give, refuse or revoke consent to one or more types of care.
+
+  (4) A rights advisor must explain and discuss the information given by the director under section 34 or 34.1, as applicable, including, in particular, the patient's rights.
+
+
+## Authority to collect and disclose personal information
+
+
+**52(1)** In this section:
+
+"director" includes a person assigned by a director to prepare a notice of event or to communicate with rights advice services and rights advisors with respect to patients;
+
+"personal information" means personal information about the following:
+
+  - (a) the patient who is the subject of a notice of event, as required by a rights advisor to perform duties imposed on the rights advisor under this Part;
+
+  - (b) a near relative of the patient, or another person, as required by a rights advisor to contact or to facilitate the attendance or participation of the near relative or other person for the purposes of section 49 (3) (b).
+
+  (2) Subject to the regulations, a director may collect personal information from, and disclose personal information to, a rights advice service for one or more of the following purposes:
+
+  - (a) to give or respond to a notice of event;
+
+  - (b) to facilitate communication between a rights advisor and a patient;
+
+  - (c) to facilitate contact with or the attendance or participation of a near relative or other person for the purposes of section 49 (3) (b);
+
+  - (d) to advise or receive advice that, due to the condition of a patient or for another reason,
+
+(i) contact with the patient must be postponed, or
+
+(ii) communication with the patient must be conducted in a particular manner to protect the safety of any person;
+
+  - (e) to assist a patient to exercise the patient's rights;
+
+  - (f) to exercise a power or perform a duty under this Part.
+
+  (3) A rights advisor may disclose personal information to a director if the rights advisor is of the opinion that the information is relevant to a patient's exercise of the patient's rights under this Act.
+
+
+## Record-keeping requirements
+
+
+**53(1)** A director must keep records in accordance with the regulations made under section 55.
+
+  (2) A rights advice service must keep records in accordance with the regulations made under section 55.
+
+
+## Offence Actdoes not apply
+
+
+**54** Section 5 of the Offence Act does not apply in respect of this Part or the regulations made under section 55.
+
+
+## Regulations respecting rights advice
+
+
+**55(1)** For the purposes of this Part, the Lieutenant Governor in Council may make regulations referred to in section 41 of the Interpretation Act.
+
+  (2) Without limiting subsection (1), the Lieutenant Governor in Council may make regulations for the purposes of this Part as follows:
+
+  - (a) respecting eligibility for designation or continued designation of rights advisors, including respecting
+
+(i) mandatory training or qualifications, and
+
+(ii) actual or perceived conflicts of interest;
+
+  - (b) prescribing the form and manner for giving a notice of event;
+
+  - (c) prescribing additional events for which a director must give a notice of event, including, without limitation,
+
+(i) a request made by a patient, or
+
+(ii) events associated with a type of process or a set of circumstances;
+
+  - (d) respecting circumstances in which a director is authorized not to give a notice of event when a notice is otherwise required;
+
+  - (e) respecting standards and requirements for the purposes of section 48;
+
+  - (f) respecting the performance of duties by rights advisors and imposing additional duties on rights advisors;
+
+  - (g) respecting the types of personal information that may or must be collected or disclosed under this Part;
+
+  - (h) respecting the content of records that a director and a rights advice service must keep and the periods for which records must be kept.

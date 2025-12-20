@@ -34,7 +34,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **13** Annual report
 - **14-20** Repealed
 - **21** Application of this Part
-- **21.1** Provision of electricity service for the purpose of cryptocurrency mining
+- **21.1** Provision of electricity service to listed facilities
 - **22** Exemptions
 - **23** General supervision of public utilities
 - **24** Commission must make examinations and inquiries
@@ -520,46 +520,74 @@ but does not include
   (2) The provision by a public utility of a class of service in respect of which the public utility is not subject to the legislative authority of the Province does not make this Part inapplicable to that public utility in respect of any other class of service.
 
 
-## Provision of electricity service for the purpose of cryptocurrency mining
+## Provision of electricity service to listed facilities
 
 
-**21.1(1)** The Lieutenant Governor in Council may make regulations respecting the provision by a public utility of electricity service for the purpose of cryptocurrency mining.
+**21.1(1)** In this section, "listed purpose" means a purpose listed in subsection (2).
 
-  (2) Without limiting subsection (1), the Lieutenant Governor in Council may make regulations as follows:
+  (2) The Lieutenant Governor in Council may make regulations respecting the provision by a public utility of electricity service for any of the following purposes:
 
-  - (a) prohibiting, for a specified period or indefinitely, a public utility from supplying service to a person for the purpose of cryptocurrency mining;
+  - (a) to mine cryptocurrency;
+
+  - (b) to store or process electronic data, including electronic data used for artificial intelligence;
+
+  - (c) to produce hydrogen for use outside Canada.
+
+  (3) Without limiting subsection (2), the Lieutenant Governor in Council may make regulations as follows:
+
+  - (a) prohibiting, for a specified period or indefinitely, a public utility from supplying electricity service for a listed purpose;
 
   - (b) setting a rate, or requiring the commission to set a rate, that does any of the following:
 
-(i) establishes the charge to be paid for energy or capacity supplied to a person for the purpose of cryptocurrency mining;
+(i) establishes the charge to be paid for energy or capacity supplied for a listed purpose;
 
-(ii) establishes limits on the amount of energy or capacity that may be supplied to a person for the purpose of cryptocurrency mining;
+(ii) establishes limits on the amount of energy or capacity that may be supplied for a listed purpose;
 
-(iii) establishes when service may be supplied to a person for the purpose of cryptocurrency mining;
+(iii) establishes when electricity service may be supplied for a listed purpose;
 
-(iv) establishes conditions that must be met to be entitled to receive service from a public utility for the purpose of cryptocurrency mining;
+(iv) establishes terms or conditions under which electricity service may be supplied for a listed purpose;
 
-  - (c) enabling a public utility to collect from its customers the costs it incurs or the revenue forecasted to be lost as a result of a regulation under this section;
+  - (c) establishing a limit on the amount of energy or capacity that a public utility may make available for a listed purpose;
 
-  - (d) defining cryptocurrency to include a specified digital medium of exchange, unit of account or store of value;
+  - (d) establishing a procedure or rules by which a public utility must select which persons are eligible to receive electricity service for a listed purpose;
 
-  - (e) defining cryptocurrency mining to include or not include a specified activity respecting cryptocurrency.
+  - (e) without limiting paragraph (d),
 
-  (3) In making regulations under this section, the Lieutenant Governor in Council may make different regulations in relation to different persons, places, activities or circumstances or different classes of persons, places, activities or circumstances.
+(i) requiring a public utility to conduct a competitive process to select which persons are eligible to receive electricity service for a listed purpose and determine the charges to be paid in relation to that service, and
 
-  (4) A rate set under subsection (2) (b) or (c) is deemed to be set by order of the commission under section 58.
+(ii) establishing criteria or rules for conducting the competitive process;
 
-  (5) A regulation made under subsection (2) (c), insofar as it does not set a rate, is deemed to be an order of the commission under this Part.
+  - (f) enabling a public utility to collect from its customers the costs it incurs or the revenue forecasted to be lost as a result of a regulation under this section;
 
-  (6) A public utility or the commission, as applicable, must comply with a regulation made under this section despite
+  - (g) defining "cryptocurrency" to include a specified digital medium of exchange, unit of account or store of value;
+
+  - (h) defining "mine" to include or exclude a specified activity respecting cryptocurrency;
+
+  - (i) establishing rules or criteria for determining whether hydrogen is produced for use outside Canada.
+
+  (4) In making regulations under this section, the Lieutenant Governor in Council may do any of the following:
+
+  - (a) delegate a matter to the commission or a public utility;
+
+  - (b) confer a discretion on the commission or a public utility;
+
+  - (c) establish a procedure;
+
+  - (d) make different regulations in relation to different facilities, persons, places, activities, circumstances or periods or different classes of facilities, persons, places, activities or circumstances.
+
+  (5) A rate set under subsection (3) is deemed to be set by an order of the commission under section 58.
+
+  (6) A regulation made under subsection (3) (f), insofar as it does not set a rate, is deemed to be an order of the commission under this Part.
+
+  (7) A public utility or the commission, as applicable, must comply with a regulation made under this section despite
 
   - (a) any other provision of this Act, except section 3,
 
-  - (b) any provision of a regulation under this Act, except a direction under section 3, or
+  - (b) a regulation under this Act, except a direction under section 3, or
 
   - (c) any previous decision of the commission.
 
-  (7) A regulation made under this section applies in relation to the provision of electricity service by a public utility despite
+  (8) A regulation made under this section applies in relation to the provision of electricity service by a public utility despite
 
   - (a) a regulation under section 22 made before the date this section comes into force, or
 
@@ -2137,9 +2165,9 @@ but does not include
 
   (2) This section does not apply in relation to the following:
 
-  - (a) a rate that, under section 21.1 (4), is deemed to be set by order of the commission;
+  - (a) a rate that, under section 21.1 (5), is deemed to be set by order of the commission;
 
-  - (b) a regulation that, under section 21.1 (5), is deemed to be an order of the commission.
+  - (b) a regulation that, under section 21.1 (6), is deemed to be an order of the commission.
 
 
 ## Requirement for hearing
@@ -2155,7 +2183,7 @@ but does not include
 
   - (a) a decision of the commission under section 109.1 or 109.2 to the Supreme Court, and
 
-  - (b) any other decision or order of the commission, other than an order deemed under section 21.1 (4) or (5) to have been made by the commission, to the Court of Appeal, with leave of a justice of that court.
+  - (b) any other decision or order of the commission, other than an order deemed under section 21.1 (5) or (6) to have been made by the commission, to the Court of Appeal, with leave of a justice of that court.
 
   (2) The party appealing under subsection (1) (b) must give notice of the application for leave to appeal, stating the grounds of appeal, to the commission, to the Attorney General and to any party adverse in interest, at least 2 clear days before the hearing of the application.
 
