@@ -4,14 +4,14 @@ BC Laws Scraper
 Fetches all BC legislation from bclaws.gov.bc.ca and converts to markdown
 """
 
-import requests
-import xml.etree.ElementTree as ET
-import time
 import logging
-from pathlib import Path
-from typing import List, Dict, Optional
-from bs4 import BeautifulSoup
 import re
+import time
+import xml.etree.ElementTree as ET
+from pathlib import Path
+
+import requests
+from bs4 import BeautifulSoup
 
 # Set up logging
 logging.basicConfig(
@@ -64,7 +64,7 @@ class BCLawsScraper:
 
         return text.strip()
 
-    def fetch_document_metadata(self, doc_id: str) -> Optional[Dict[str, str]]:
+    def fetch_document_metadata(self, doc_id: str) -> dict[str, str] | None:
         """Fetch metadata for a document (returns title and full doc ID)"""
         url = f"{self.METADATA_URL}/{doc_id}"
         try:
@@ -98,7 +98,7 @@ class BCLawsScraper:
             logger.error(f"Unexpected error for {doc_id}: {e}")
             return None
 
-    def fetch_document_content(self, doc_id: str) -> Optional[str]:
+    def fetch_document_content(self, doc_id: str) -> str | None:
         """Fetch the actual XHTML content of a document"""
         url = f"{self.DOCUMENT_URL}/{doc_id}"
         try:
@@ -278,7 +278,7 @@ class BCLawsScraper:
                           f"{successful} found | {not_found} not found | {errors} errors")
 
         logger.info(f"\n{'='*60}")
-        logger.info(f"Scraping complete!")
+        logger.info("Scraping complete!")
         logger.info(f"  Successfully scraped: {successful} documents")
         logger.info(f"  Not found (expected): {not_found} documents")
         logger.info(f"  Errors (investigate): {errors} documents")
