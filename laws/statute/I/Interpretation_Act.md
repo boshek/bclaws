@@ -566,7 +566,7 @@ but does not include an order of a court made in the course of an action or an o
 
 "Executive Council" means the Executive Council appointed under the Constitution Act;
 
-"Gazette" means The British Columbia Gazette published under the Queen's Printer Act;
+"Gazette" means The British Columbia Gazette published under the King's Printer Act;
 
 "government" or "government of British Columbia" means Her Majesty in right of British Columbia;
 
@@ -860,7 +860,7 @@ which agreement is in effect, and, in relation to a specific treaty first nation
 
   (4) A reference in an enactment to regulations is a reference to regulations made under the enactment in which the reference occurs.
 
-  (5) A reference in an enactment by number or letter to a section, subsection, paragraph, subparagraph, clause or other division or line of another enactment must be construed as a reference to the division or line of the other enactment as printed under the Queen's Printer Act.
+  (5) A reference in an enactment by number or letter to a section, subsection, paragraph, subparagraph, clause or other division or line of another enactment must be construed as a reference to the division or line of the other enactment as printed under the King's Printer Act.
 
   (6) If an enactment refers to a matter "under" a named or unnamed Act, an Act in that reference includes regulations enacted under the authority of that Act.
 
