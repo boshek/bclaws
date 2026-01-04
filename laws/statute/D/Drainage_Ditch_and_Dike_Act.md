@@ -1501,7 +1501,7 @@ and includes the legal representative of the owner, the receiver or liquidator o
 ## Evidence of appointment
 
 
-**169** The production of a copy of the Gazette purporting to be printed by the Queen's Printer containing a notice of the order in council under section 166 (1) is conclusive evidence in all courts and in all proceedings of the transfer of the powers and duties of the commissioners for the district to the inspector of dikes and of the regularity of all proceedings leading up to it.
+**169** The production of a copy of the Gazette purporting to be printed by the King's Printer containing a notice of the order in council under section 166 (1) is conclusive evidence in all courts and in all proceedings of the transfer of the powers and duties of the commissioners for the district to the inspector of dikes and of the regularity of all proceedings leading up to it.
 
 
 ## Dissolving development districts

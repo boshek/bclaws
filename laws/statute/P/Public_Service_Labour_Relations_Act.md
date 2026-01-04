@@ -133,7 +133,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 (i) a Crown corporation;
 
-(ii) the Queen's Printer under the Queen's Printer Act, other than clerical or administrative employees;
+(ii) the King's Printer under the King's Printer Act, other than clerical or administrative employees;
 
 (iii) the British Columbia Utilities Commission under the Utilities Commission Act;
 

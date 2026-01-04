@@ -547,13 +547,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "imperial" means, as applied to state documents, of or pertaining to the United Kingdom of Great Britain and Northern Ireland, or any former kingdom that included England whether the former kingdom was known as the United Kingdom of Great Britain and Ireland or otherwise;
 
+"King's Printer" includes the government printer or other official printer;
+
 "legislature" includes any legislative body or authority competent to make laws for a dominion;
 
 "province" has, if used in respect of federal or provincial state documents, a corresponding meaning to "provincial";
 
 "provincial" means, as applied to state documents, of or pertaining to any province, colony or territory which, or some portion of which, forms part of Canada;
-
-"Queen's Printer" includes the government printer or other official printer;
 
 "state document" includes any Act or ordinance enacted or made or purporting to have been enacted or made by a legislature, and any order, regulation, notice, appointment, warrant, licence, certificate, letters patent, official record, rule of court or other instrument issued or made or purporting to have been issued or made under any Act or ordinance so enacted or made or purporting to have been enacted or made, and any official gazette, journal, proclamation, treaty or other public document or act of state issued or made or purporting to have been issued or made.
 
@@ -571,7 +571,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) by producing a copy of the Canada Gazette or a volume of the Acts of the Parliament of Canada purporting to contain a copy of or an extract from it or a notice of it,
 
-  - (c) by producing a copy of it or an extract from it purporting to be printed by the Queen's Printer for Canada or for a province of Canada,
+  - (c) by producing a copy of it or an extract from it purporting to be printed by the King's Printer for Canada or for a province of Canada,
 
   - (d) by producing a copy of it or an extract from it purporting to be
 
@@ -595,7 +595,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - purporting to contain a copy of the state document or an extract from it or a notice of it,
 
-  - (b) a copy of it or an extract from it purporting to be printed by the Queen's Printer for Canada or for a province,
+  - (b) a copy of it or an extract from it purporting to be printed by the King's Printer for Canada or for a province,
 
   - (c) a copy of it or an extract from it, whether printed or not, purporting to be
 
@@ -611,7 +611,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (5) The existence and the contents, in whole or in part, of a state document of a British possession or foreign state may be proved by producing a copy of it or an extract from it,
 
-  - (a) purporting to be printed by the legislature, government, Queen's Printer, government printer or other official printer of the British possession or of the foreign state,
+  - (a) purporting to be printed by the legislature, government, King's Printer, government printer or other official printer of the British possession or of the foreign state,
 
   - (b) whether printed or not, purporting to be certified as a true copy or extract by
 
@@ -627,7 +627,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) that the original document or the public records from which the copy or extract purports to be made were deposited or kept in the custody of the person certifying.
 
-  (7) If a copy or extract, tendered in evidence under this section, purports to be printed by a legislature, government, Queen's Printer, government printer or other official printer, it is not necessary to prove the authority, status or official position of the legislature, government, Queen's Printer, government printer or other official printer.
+  (7) If a copy or extract, tendered in evidence under this section, purports to be printed by a legislature, government, King's Printer, government printer or other official printer, it is not necessary to prove the authority, status or official position of the legislature, government, King's Printer, government printer or other official printer.
 
 
 ## Evidence of proceedings in courts in Canada and elsewhere
