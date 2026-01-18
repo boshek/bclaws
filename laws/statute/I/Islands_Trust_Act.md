@@ -200,7 +200,9 @@ and includes those islands, if any, within boundaries surrounding an island or g
 
   (6) The following provisions of the Local Government Act apply to local trustees:
 
-  - (a) section 202 [oath or affirmation of office];
+  - (a) section 201.1 [acting electoral area directors];
+
+  - (a.1) section 202 [oath or affirmation of office];
 
   - (b) section 203 [resignation from office];
 

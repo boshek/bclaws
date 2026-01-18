@@ -44,6 +44,15 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **17** If director is denied access to child
 - **18** If location of child is not disclosed
 - **19** Orders for access or warrants may be obtained by telephone
+- **19.1** When safety plan agreement may be made
+- **19.2** Parties to safety plan agreement
+- **19.3** Content of safety plan agreement
+- **19.4** Making a safety plan agreement
+- **19.5** Director's withdrawal from safety plan agreement
+- **19.6** Withdrawal from safety plan agreement by other parties
+- **19.7** Termination of safety plan agreement
+- **19.8** Director's duty
+- **19.9** Other matters
 - **20** Family conference
 - **21** Plan of care
 - **22** Mediation or other alternative dispute resolution mechanisms
@@ -318,6 +327,8 @@ but does not include a caregiver, prospective adoptive parent or director;
 "residential service" means accommodation and associated supervision provided for a child in a foster home or other place away from the home of the child's parent;
 
 "restraining order" means an order made under section 98;
+
+"safety plan agreement" means an agreement made under Division 1.1 of Part 3;
 
 "specified adult" means a person 19 years of age or over for whom any of the following services were provided while the person was a child:
 
@@ -897,7 +908,7 @@ but does not include a caregiver, prospective adoptive parent or director;
 
   (2) After the assessment under subsection (1.2) (b) or (1.4), the director may
 
-  - (a) offer support services and agreements to the child and family,
+  - (a) offer support services and agreements, other than a safety plan agreement, to the child and family,
 
   - (b) refer the child and family to any of the following:
 
@@ -1016,6 +1027,212 @@ but does not include a caregiver, prospective adoptive parent or director;
   - (a) a director may apply in person, by telephone or by any other means of telecommunication to a justice of the peace, designated for the purpose by the chief judge of the court, for an order under section 17 or 63, and
 
   - (b) the justice may make the order or issue the warrant.
+
+
+## When safety plan agreement may be made
+
+
+**19.1(1)** In this section, "assessment or investigation" means an assessment or investigation conducted under section 16 (2) (b.1) or (c).
+
+  (2) A director may make a safety plan agreement in accordance with this Division and the regulations, if any, for the protection of a child's health or safety in any of the following circumstances:
+
+  - (a) the director is conducting an assessment or investigation in relation to the child;
+
+  - (b) further to an assessment or investigation in relation to the child,
+
+(i) the director has applied under the Act for a court order that the director considers adequate to protect that child,
+
+(ii) the director has not withdrawn the application, and
+
+(iii) the court has not made a decision with respect to the application.
+
+
+## Parties to safety plan agreement
+
+
+**19.2(1)** Subject to subsection (2), the following persons must be parties to a safety plan agreement:
+
+  - (a) a director;
+
+  - (b) each parent who, in the director's opinion, meets all of the following criteria:
+
+(i) the parent is apparently entitled to custody of the child to whom the agreement relates;
+
+(ii) the parent has rights and responsibilities as a parent with custody that may be affected by the agreement;
+
+(iii) the parent can be located;
+
+(iv) the parent is able and willing to exercise the rights and responsibilities of a parent with custody.
+
+  (2) If a child has no parents as described in subsection (1) (b), then the first of the following that applies must be a party to a safety plan agreement:
+
+  - (a) at least one parent who, in the director's opinion, would be a parent under subsection (1) (b) except that the parent has no rights or responsibilities as a parent with custody that may be affected by the agreement;
+
+  - (b) at least one parent with care of the child to whom the agreement relates.
+
+  (3) If a director makes a safety plan agreement respecting an Indigenous child, the following may be included as a party:
+
+  - (a) if the child is a First Nation child, the First Nation;
+
+  - (b) if the child is a Nisg̱a'a child, the Nisg̱a'a Nation or the child's Nisg̱a'a Village;
+
+  - (c) if the child is a Treaty First Nation child, the Treaty First Nation;
+
+  - (d) if the child is not a First Nation child, a Nisg̱a'a child nor a Treaty First Nation child, the legal entity representing the child's Indigenous community.
+
+  (4) Without limiting subsection (3), a person may be included as a party to a safety plan agreement if the person is one of the following:
+
+  - (a) a person who has a right to contact or access the child to whom the agreement relates under either of the following:
+
+(i) a court order;
+
+(ii) an agreement that is enforceable as an order under the Family Law Act;
+
+  - (b) a parent of the child to whom the agreement relates who is not a party under subsection (1) (b) or (2).
+
+  (5) A person described in subsection (1) (b), (2) or (4) who is under 19 years of age may make a safety plan agreement with a director.
+
+
+## Content of safety plan agreement
+
+
+**19.3(1)** A safety plan agreement must include all of the following:
+
+  - (a) the reasons for which the agreement is made;
+
+  - (b) the name of each party and a description of each party's role;
+
+  - (c) if, under section 19.2 (3), a party is included in the agreement, the conditions on the use, disclosure and security of information provided under the agreement to the party;
+
+  - (d) an acknowledgement that each party may seek independent legal advice at any time with respect to the agreement;
+
+  - (e) the term of the agreement, which must not exceed 45 days;
+
+  - (f) a requirement for a party other than the director to inform the director, within the number of days in advance stated in the agreement, before withdrawing from the agreement;
+
+  - (g) prescribed content, if any.
+
+  (2) A safety plan agreement may include terms and conditions respecting, without limitation, any of the following:
+
+  - (a) the care of, and access to, the child to whom the agreement relates;
+
+  - (b) the actions that a party will take or refrain from taking to protect the health or safety of the child to whom the agreement relates;
+
+  - (c) the provision or receipt, by a party, of referrals, services and support;
+
+  - (d) prescribed matters, if any.
+
+
+## Making a safety plan agreement
+
+
+**19.4(1)** A safety plan agreement may be made verbally or in writing.
+
+  (2) Before making a safety plan agreement, the director must inform each parent who is proposed to be a party to the agreement under section 19.2 (1) (b) or (2), as applicable, that the parent may seek independent legal advice at any time with respect to the agreement.
+
+  (3) As soon as practicable after making a safety plan agreement, the director must do all of the following:
+
+  - (a) if the agreement was made verbally, prepare a written copy of the agreement;
+
+  - (b) make all reasonable efforts to provide a copy of the written agreement to each party;
+
+  - (c) for each party referred to in section 19.2 (1) (b) or (2), as applicable, and section 19.2 (4), if any, make all reasonable efforts to obtain the party's
+
+(i) signature on the agreement, or
+
+(ii) written confirmation that the terms and conditions as set out in the agreement reflect what the party has agreed to.
+
+  (4) A safety plan agreement is effective as it applies to a party
+
+  - (a) on the date on which all parties agree to the terms and conditions of the agreement, and
+
+  - (b) whether or not the party, or any other party, signs a written agreement or gives written confirmation as described in subsection (3) (c).
+
+
+## Director's withdrawal from safety plan agreement
+
+
+**19.5(1)** A director must withdraw from a safety plan agreement if an assessment or investigation referred to in section 19.1 (2) has concluded and any of the following circumstances apply:
+
+  - (a) the director is not applying for an order described in section 19.1 (2) (b);
+
+  - (b) the director withdraws an application for an order described in section 19.1 (2) (b);
+
+  - (c) the court has made a decision with respect to an application for an order described in section 19.1 (2) (b).
+
+  (2) A director may withdraw from a safety plan agreement at any time, verbally or in writing, if, in the opinion of the director, the agreement
+
+  - (a) is no longer necessary to protect the health or safety of the child to whom the agreement relates,
+
+  - (b) is not adequate to protect the health or safety of the child to whom the agreement relates,
+
+  - (c) fails to adequately reflect a change with respect to
+
+(i) the director's information about who should or could have been a party to the agreement under section 19.2 (1) (b), (2), (3) or (4) (a), or
+
+(ii) the custody of the child to whom the agreement relates, or
+
+  - (d) fails to adequately reflect a change in the circumstances of a person in relation to the person's
+
+(i) willingness or ability to exercise the rights and responsibilities of a parent with custody of the child to whom the agreement relates, or
+
+(ii) right to contact or access the child to whom the agreement relates, as described in section 19.2 (4) (a).
+
+  (3) In withdrawing from a safety plan agreement, a director
+
+  - (a) must not inform a party in advance of the director's intention to withdraw if the director considers that it could put the health or safety of the child to whom the agreement relates at risk,
+
+  - (b) may inform a party in advance of the director's intention to withdraw if paragraph (a) does not apply, and
+
+  - (c) must, if a party was not provided information in advance under paragraph (b), inform the party of the director's withdrawal as soon as practicable.
+
+  (4) In withdrawing from a safety plan agreement, a director
+
+  - (a) must inform a party referred to in section 19.2 (1) (b) or (2), as applicable, of the reasons for the director's withdrawal, and
+
+  - (b) may provide that information before withdrawing from the safety plan agreement or as soon as practicable after withdrawing from the agreement.
+
+
+## Withdrawal from safety plan agreement by other parties
+
+
+**19.6(1)** Subject to informing the director in advance as required under a safety plan agreement, a party other than the director may withdraw from the agreement verbally or in writing.
+
+  (2) The withdrawal from a safety plan agreement by a party referred to in section 19.2 (3) or (4) does not terminate the agreement as it applies to the remaining parties.
+
+
+## Termination of safety plan agreement
+
+
+**19.7(1)** A safety plan agreement is terminated on the earliest of the following dates:
+
+  - (a) the date on which one party described in section 19.2 (1) or (2), as applicable, withdraws from the agreement;
+
+  - (b) the date agreed to by all parties;
+
+  - (c) the date on which the term of the agreement ends.
+
+  (2) If a circumstance described in section 19.1 (2) exists, a new safety plan agreement may be made
+
+  - (a) to replace a safety plan agreement before its termination, or
+
+  - (b) at any time on or after the date on which a previous safety plan agreement is terminated.
+
+
+## Director's duty
+
+
+**19.8** In exercising the director's powers and performing the director's duties under this Division, the director must communicate with each person or body who is, or who is proposed to be, a party to a safety plan agreement in a manner appropriate to the person's or body's abilities.
+
+
+## Other matters
+
+
+**19.9(1)** A safety plan agreement made by a director with a person under 19 years of age is effective as it applies to that person.
+
+  (2) Nothing in this Division or a safety plan agreement limits a director's power to take any steps authorized by this Act to protect a child to whom a safety plan agreement relates.
+
+  (3) A safety plan agreement does not limit the court's power to hear an application and make an order about a child to whom the agreement relates.
 
 
 ## Family conference
@@ -3443,7 +3660,7 @@ but does not include a caregiver, prospective adoptive parent or director;
 
 **75** A person must not disclose information obtained under this Act, except in accordance with
 
-  - (a) an agreement made under section 5, 6, 7, 8, 12.2 or 92.1, if the agreement includes conditions on the use, disclosure and security of information provided under the agreement,
+  - (a) an agreement made under section 5, 6, 7, 8 or 12.2, Division 1.1 of Part 3 or section 92.1, if the agreement includes conditions on the use, disclosure and security of information provided under the agreement,
 
   - (a.1) section 24 or 79 of this Act, or
 
@@ -4346,6 +4563,8 @@ but does not include a caregiver, prospective adoptive parent or director;
   - (d.1) prescribing First Nations, the Nisg̱a'a Nation or Treaty First Nations for the purposes of referring reports under section 16 (1) (b) or (2) (d);
 
   - (e) respecting the content and preparation of plans of care and plans for independence;
+
+  - (e.1) respecting the content and preparation of safety plan agreements;
 
   - (f) prescribing Indigenous organizations for the purposes of presentation hearings;
 

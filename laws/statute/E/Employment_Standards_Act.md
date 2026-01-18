@@ -74,6 +74,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **47** Repealed
 - **48** Substituting another day for a statutory holiday
 - **49** Repealed
+- **49.01** Serious personal illness or injury — up to 27 weeks unpaid leave
 - **49.1** Illness or injury leave
 - **49.2** Sick note not required
 - **50** Maternity leave
@@ -1228,6 +1229,68 @@ but does not include
 **49** [Repealed 2002-42-25.]
 
 
+## Serious personal illness or injury — up to 27 weeks unpaid leave
+
+
+**49.01(1)** In this section, "health practitioner" means the following:
+
+  - (a) a medical practitioner;
+
+  - (b) a nurse practitioner;
+
+  - (c) a person who is authorized to practise a designated health profession, within the meaning of the Health Professions Act, that is prescribed for the purposes of this definition.
+
+  (2) After the prescribed number of consecutive days, if any, of employment with an employer, an employee who, due to serious personal illness or injury, is unable to work for at least one week is entitled to up to 27 weeks of unpaid leave in any period of 52 weeks.
+
+  (3) The employee must obtain a certificate from a health practitioner that states all of the following:
+
+  - (a) the employee is unable to work due to medical reasons;
+
+  - (b) the date on which the employee's inability to work
+
+(i) began, if the employee is already unable to work, or
+
+(ii) is expected to begin, if the employee is not yet unable to work;
+
+  - (c) the date on which the employee is expected to be able to return to work and after which the employee is not expected to take any further leaves under subsection (10).
+
+  (4) The employee must give the employer a copy of the certificate as soon as practicable.
+
+  (5) A leave under this section must be taken in units of one or more weeks.
+
+  (6) A leave under this section begins on the first day of the week during which the earlier of the following occurs:
+
+  - (a) the date referred to in subsection (3) (b);
+
+  - (b) if the leave began before the date referred to in subsection (3) (b), the date on which the leave began.
+
+  (7) A leave under this section ends on the last day of the week during which the earliest of the following occurs:
+
+  - (a) the date referred to in subsection (3) (c);
+
+  - (b) the employee has taken the 27 weeks of leave referred to in subsection (2);
+
+  - (c) the expiration of 52 weeks from the date the leave began.
+
+  (8) Despite subsection (7) (a), an employee may take a further leave if
+
+  - (a) the employee obtains a new certificate in accordance with subsection (3),
+
+  - (b) the employee has not taken the 27 weeks of leave referred to in subsection (2), and
+
+  - (c) 52 weeks from the date the leave began have not expired.
+
+  (9) An employee who takes a further leave in accordance with subsection (8) must give the employer a copy of the new certificate as soon as practicable.
+
+  (10) An employee who returns to work before the date referred to in subsection (3) (c) may take a further leave up to that date without obtaining a new certificate if
+
+  - (a) the employee is unable to work again due to the medical reasons referred to in subsection (3) (a),
+
+  - (b) the employee has not taken the 27 weeks of leave referred to in subsection (2), and
+
+  - (c) 52 weeks from the date the leave began have not expired.
+
+
 ## Illness or injury leave
 
 
@@ -1259,7 +1322,7 @@ but does not include
 
   - (d) a person who is authorized, in another jurisdiction, to practise a health profession that is equivalent to a designated health profession that may be practised by a person referred to in paragraph (a), (b) or (c);
 
-"health-related leave", in relation to an employee, means leave or other absence from work that is related to the health, illness or injury of the employee or a prescribed individual, other than leave under sections 50, 51, 52.1 and 52.11 and a type of leave or other absence from work specified in the regulations;
+"health-related leave", in relation to an employee, means leave or other absence from work that is related to the health, illness or injury of the employee or a prescribed individual, other than leave under sections 49.01, 50, 51, 52.1 and 52.11 and a type of leave or other absence from work specified in the regulations;
 
 "specified circumstances" means the circumstances specified in the regulations in relation to health-related leave taken on a short-term basis;
 
@@ -3306,6 +3369,10 @@ but does not include
 (ii) prescribing circumstances for the purposes of subsection (2) (c) of that section and periods of time for the purposes of subsections (3), (4) (b) (iii) and (5) (b) (iii) of that section, and
 
 (iii) respecting information to be provided for the purposes of subsection (8) of that section;
+
+  - (u.01) prescribing designated health professions for the purposes of paragraph (c) of the definition of "health practitioner" in section 49.01 (1);
+
+  - (u.02) prescribing a number of consecutive days of employment for the purposes of section 49.01 (2);
 
   - (u.1) for the purposes of sections 49.1 (4), 52.13 (4) and 52.5 (5.2),
 

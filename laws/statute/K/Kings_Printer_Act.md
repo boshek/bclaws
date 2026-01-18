@@ -1,0 +1,146 @@
+# King's Printer Act
+
+---
+
+**DISCLAIMER: THIS IS NOT AN OFFICIAL VERSION**
+
+
+Information derived from [BC Laws](https://www.bclaws.gov.bc.ca) 
+under the [King's Printer License](https://www.bclaws.ca/standards/Licence.html). 
+For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
+
+*[RSBC 1996] CHAPTER 394*
+
+
+---
+
+
+## Contents
+
+- **1** Definition
+- **2** General duties
+- **3** Clerk to provide King's Printer with certified copies of Acts
+- **4** Clerk to provide copy of journals and of sessional papers
+- **5** Printing, delivery, publishing and disposal of public documents
+- **6** Cost, price and manner of printing public documents
+- **7** Publication of official Gazette
+- **8** Price and manner of printing of official Gazette
+- **8.1** Deemed printing
+- **9** Repealed
+- **10** Annual statement and report
+- **11** Repealed
+- **12** Power to make regulations
+
+---
+
+
+## Definition
+
+
+**1** In this Act, "King's Printer" means the person appointed under the Public Service Act as the King's Printer and Comptroller of Stationery for British Columbia.
+
+
+## General duties
+
+
+**2** The King's Printer, under the direction of the minister, has the management and control of the printing, publishing and stationery services of the ministry, and has the powers and must perform the duties conferred on or assigned to the King's Printer under this Act or any other Act.
+
+
+## Clerk to provide King's Printer with certified copies of Acts
+
+
+**3** The Clerk of the Legislative Assembly must provide to the King's Printer a certified copy of each Act of the Legislature as soon as the Act has received assent, or, if a Bill has been reserved, as soon as assent has been signified in accordance with the Constitution Act, 1867.
+
+
+## Clerk to provide copy of journals and of sessional papers
+
+
+**4** The Clerk of the Legislative Assembly must provide to the King's Printer, as soon as practicable after the close of each session,
+
+  - (a) a certified indexed copy of the journals of that session, and
+
+  - (b) a certified indexed copy of the sessional papers, consisting of ministerial reports and other documents placed before the Legislature at that session and ordered to be printed.
+
+
+## Printing, delivery, publishing and disposal of public documents
+
+
+**5(1)** As soon as practicable after the close of each session, the King's Printer must make arrangements for the following:
+
+  - (a) the printing of the Acts, journals, sessional papers and other public documents placed before the Legislature during that session;
+
+  - (b) the delivery of the number of printed copies of the Acts, journals, sessional papers and other public documents referred to in paragraph (a) that the minister directs to
+
+(i) each member of the Legislative Assembly on request, and
+
+(ii) other persons, institutions, ministries and representative bodies, in or out of British Columbia, as approved by the minister.
+
+  (2) After delivery under subsection (1) (b) is complete, the King's Printer may make arrangements for the publishing of printed copies of the Acts, journals, sessional papers and other public documents referred to in that subsection as well as for the sale or transfer, with or without charge, of those printed copies.
+
+
+## Cost, price and manner of printing public documents
+
+
+**6(1)** The printing and delivery of printed copies of the Acts, journals, sessional papers and other public documents under section 5 (1) must be done at the public expense.
+
+  (2) The printing, delivery, publishing, selling and transferring of printed copies of the Acts, journals, sessional papers and other public documents under section 5 must be done in the manner determined by the King's Printer.
+
+  (3) For the purposes of section 5 (2),
+
+  - (a) the King's Printer may set prices that may be charged, and
+
+  - (b) a person must not charge more than the price set by the King's Printer.
+
+
+## Publication of official Gazette
+
+
+**7** The King's Printer must make arrangements for the printing and publishing of the official Gazette of British Columbia, known as The British Columbia Gazette, for the publication of proclamations, official and other notices and of all matters as may be required.
+
+
+## Price and manner of printing of official Gazette
+
+
+**8(1)** The printing and publication of the Gazette under section 7 must be done in the manner determined by the King's Printer.
+
+  (2) The King's Printer may determine
+
+  - (a) the price of a subscription to the Gazette, and
+
+  - (b) the scale of charges for advertising in the Gazette.
+
+
+## Deemed printing
+
+
+**8.1** A printed copy of an Act, journal, sessional paper or other public document to which this Act applies, or of the Gazette, is deemed to have been printed and published by the King's Printer if printed and published
+
+  - (a) on the direction of the King's Printer, and
+
+  - (b) in accordance with this Act.
+
+
+## Repealed
+
+
+**9** [Repealed 2015-23-69.]
+
+
+## Annual statement and report
+
+
+**10(1)** The King's Printer must prepare a statement of accounts made up to March 31 in each year and at other times the minister directs.
+
+  (2) The King's Printer must make an annual report to the minister, and must incorporate in it the annual statement of accounts.
+
+
+## Repealed
+
+
+**11** [Repealed 2015-23-69.]
+
+
+## Power to make regulations
+
+
+**12** The Lieutenant Governor in Council may make regulations referred to in section 41 of the Interpretation Act.
