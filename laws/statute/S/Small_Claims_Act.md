@@ -85,7 +85,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (2) The Provincial Court does not have jurisdiction in a claim for libel, slander or malicious prosecution.
 
-  (3) This section is subject to sections 16.4 and 56.3 of the Civil Resolution Tribunal Act.
+  (3) This section is subject to section 16.4 of the Civil Resolution Tribunal Act.
 
 
 ## Making or defending a claim
