@@ -2,8 +2,8 @@ name: Scrape BC Laws
 
 on:
   schedule:
-    # Run every Sunday at 2 AM UTC
-    - cron: '0 2 * * 0'
+    # Run everyday at 2 AM UTC
+    - cron: '0 2 * * *'
   workflow_dispatch:  # Allow manual triggering
 
 permissions:
