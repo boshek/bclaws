@@ -48,7 +48,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **25.3** Determining the beginning or end of periods of months
 - **25.4** Determining the beginning or end of periods of years
 - **25.5** If day specified is holiday or office closed
-- **26** Pacific Standard Time and Pacific Daylight Saving Time
+- **26** Pacific Time
 - **27** Ancillary powers
 - **28** Use of forms and words
 - **29** Expressions defined
@@ -463,22 +463,12 @@ but does not include an order of a court made in the course of an action or an o
   (2) If a day that is specified for doing an act in a business office falls on a day on which the office is not open during regular business hours, the day falls on the next day the office is open during its regular business hours.
 
 
-## Pacific Standard Time and Pacific Daylight Saving Time
+## Pacific Time
 
 
-**26(1)** In this section:
+**26(1)** In this section, "Pacific Time" means 7 hours behind Coordinated Universal Time (UTC).
 
-"Pacific Daylight Saving Time" means 7 hours behind Greenwich Mean Time;
-
-"Pacific Standard Time" means 8 hours behind Greenwich Mean Time.
-
-  (2) Except during periods prescribed under subsection (3) (a), a reference to time in British Columbia is a reference to Pacific Standard Time.
-
-  (3) The Lieutenant Governor in Council may make regulations
-
-  - (a) prescribing a period in each year in which a reference to time is, for general purposes in British Columbia, a reference to Pacific Daylight Saving Time, and
-
-  - (b) varying the reckoning of Pacific Standard Time.
+  (2) A reference to time in British Columbia is a reference to Pacific Time.
 
 
 ## Ancillary powers
