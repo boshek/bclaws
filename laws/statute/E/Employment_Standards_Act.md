@@ -1238,7 +1238,7 @@ but does not include
 
   - (b) a nurse practitioner;
 
-  - (c) a person who is authorized to practise a designated health profession, within the meaning of the Health Professions Act, that is prescribed for the purposes of this definition.
+  - (c) a person who is authorized to practise a designated health profession, within the meaning of the Health Professions and Occupations Act, that is prescribed for the purposes of this definition.
 
   (2) After the prescribed number of consecutive days, if any, of employment with an employer, an employee who, due to serious personal illness or injury, is unable to work for at least one week is entitled to up to 27 weeks of unpaid leave in any period of 52 weeks.
 
@@ -1316,9 +1316,9 @@ but does not include
 
   - (a) a medical practitioner;
 
-  - (b) a person who is authorized under the Health Professions Act to practise the designated health profession of nursing;
+  - (b) a person who is authorized under the Health Professions and Occupations Act to practise the designated health profession of nursing;
 
-  - (c) a person who is authorized to practise a designated health profession, within the meaning of the Health Professions Act, that is prescribed for the purposes of this definition;
+  - (c) a person who is authorized to practise a designated health profession, within the meaning of the Health Professions and Occupations Act, that is prescribed for the purposes of this definition;
 
   - (d) a person who is authorized, in another jurisdiction, to practise a health profession that is equivalent to a designated health profession that may be practised by a person referred to in paragraph (a), (b) or (c);
 

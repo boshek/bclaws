@@ -597,11 +597,15 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "labour relations board" means the Labour Relations Board established under the Code;
 
-"nurse" means a person who is authorized under the Health Professions Act to practise in British Columbia as a registered nurse, licensed practical nurse or registered psychiatric nurse and who works in a job for which that authorization is a requirement of the employer or a prerequisite to performing the job as required by statute, regulation or program accreditation;
+"nurse" means a person who is authorized under the Health Professions and Occupations Act to practise in British Columbia as a registered nurse, licensed practical nurse or registered psychiatric nurse and who works in a job for which that authorization is a requirement of the employer or a prerequisite to performing the job as required by statute, regulation or program accreditation;
 
 "Regulation" means the Health Sector Labour Relations Regulation, B.C. Reg. 329/95;
 
-"resident" means a person who is taking post graduate training in medicine and is registered with the College of Physicians and Surgeons of British Columbia on the register or the temporary register.
+"resident" means a person who
+
+  - (a) is taking post-graduate training in medicine, and
+
+  - (b) holds a licence, including a provisional licence, issued by the regulator that is responsible, under the Health Professions and Occupations Act, for governing the practice of the designated health profession of medicine.
 
 
 ## Exclusion of nurse practitioners

@@ -22,8 +22,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **3** No graphic recording in an access zone
 - **4** No harassment
 - **5** Access zones — facilities
-- **6** Access zones — residences of doctors and service providers
-- **7** Access zones — doctors' offices
+- **6** Access zones — residences of medical practitioners and service providers
+- **7** Access zones — medical practitioners' offices
 - **8** Notice
 - **9** Damages can be recovered for contravention
 - **10** Injunction
@@ -48,15 +48,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "beset" means
 
-  - (a) to continuously or repeatedly observe a service provider, doctor who provides abortion services or patient or a building in which any of them resides or in which abortion services are provided, or
+  - (a) to continuously or repeatedly observe a service provider, medical practitioner who provides abortion services or patient or a building in which any of them resides or in which abortion services are provided, or
 
-  - (b) to place oneself close to, and to importune, a service provider, doctor who provides abortion services or patient
+  - (b) to place oneself close to, and to importune, a service provider, medical practitioner who provides abortion services or patient
 
-for the purpose of dissuading the service provider or doctor from providing, or the patient from using, abortion services;
+for the purpose of dissuading the service provider or medical practitioner from providing, or the patient from using, abortion services;
 
-"doctor" means a member of the College of Physicians and Surgeons of British Columbia;
-
-"facility" means a hospital, clinic or doctor's office in which abortion services are provided;
+"facility" means a hospital, clinic or medical practitioner's office in which abortion services are provided;
 
 "parcel" means
 
@@ -64,13 +62,13 @@ for the purpose of dissuading the service provider or doctor from providing, or 
 
   - (b) land within the boundaries of a lot, block or other area into which land is subdivided that is shown on a plan deposited in a land title office, other than a strata plan;
 
-"patient" means a person who is in an access zone in the course of using abortion services, and includes any other person, other than a service provider or doctor who provides abortion services, accompanying them for the purpose of giving them emotional support;
+"patient" means a person who is in an access zone in the course of using abortion services, and includes any other person, other than a service provider or medical practitioner who provides abortion services, accompanying them for the purpose of giving them emotional support;
 
 "protest" includes any act of disapproval or attempted act of disapproval, with respect to issues related to abortion services, by any means, including, without limitation, graphic, verbal or written means;
 
 "residence" means the usual place where a person makes their home;
 
-"service provider" means a person, other than a doctor, who provides, or facilitates the provision of, abortion services;
+"service provider" means a person, other than a medical practitioner, who provides, or facilitates the provision of, abortion services;
 
 "sidewalk interference" means
 
@@ -92,9 +90,9 @@ by any means, including, without limitation, graphic, verbal or written means.
 
   - (c) beset;
 
-  - (d) physically interfere with or attempt to interfere with a service provider, a doctor who provides abortion services or a patient;
+  - (d) physically interfere with or attempt to interfere with a service provider, a medical practitioner who provides abortion services or a patient;
 
-  - (e) intimidate or attempt to intimidate a service provider, a doctor who provides abortion services or a patient.
+  - (e) intimidate or attempt to intimidate a service provider, a medical practitioner who provides abortion services or a patient.
 
   (2) Despite this section a provincial constable or municipal constable, as defined in section 1 of the Police Act, may, in an access zone, carry out their duties as a provincial constable or municipal constable.
 
@@ -102,7 +100,7 @@ by any means, including, without limitation, graphic, verbal or written means.
 
   - (a) a service provider,
 
-  - (b) a doctor who provides abortion services, or
+  - (b) a medical practitioner who provides abortion services, or
 
   - (c) a patient.
 
@@ -110,7 +108,7 @@ by any means, including, without limitation, graphic, verbal or written means.
 ## No graphic recording in an access zone
 
 
-**3** A person must not photograph, film, videotape, sketch or in any other way graphically record a service provider, doctor who provides abortion services or patient while the service provider, doctor or patient is in an access zone, for the purpose of dissuading that person from providing, facilitating the provision of or using abortion services.
+**3** A person must not photograph, film, videotape, sketch or in any other way graphically record a service provider, medical practitioner who provides abortion services or patient while the service provider, medical practitioner or patient is in an access zone, for the purpose of dissuading that person from providing, facilitating the provision of or using abortion services.
 
 
 ## No harassment
@@ -124,7 +122,7 @@ by any means, including, without limitation, graphic, verbal or written means.
 
   - (c) engage in threatening conduct directed at the other person or a person known to the other person.
 
-  (2) A person must not repeatedly communicate by telephone, facsimile or electronic means with another person without their consent for the purpose of dissuading a service provider or doctor who provides abortion services from beginning or continuing to provide, or to facilitate the provision of, abortion services.
+  (2) A person must not repeatedly communicate by telephone, facsimile or electronic means with another person without their consent for the purpose of dissuading a service provider or medical practitioner who provides abortion services from beginning or continuing to provide, or to facilitate the provision of, abortion services.
 
 
 ## Access zones — facilities
@@ -145,10 +143,10 @@ by any means, including, without limitation, graphic, verbal or written means.
   (4) A regulation made under subsection (1) may establish access zones with different dimensions for different facilities.
 
 
-## Access zones — residences of doctors and service providers
+## Access zones — residences of medical practitioners and service providers
 
 
-**6(1)** An access zone is established for the residence of every doctor who provides abortion services.
+**6(1)** An access zone is established for the residence of every medical practitioner who provides abortion services.
 
   (2) For the purposes of facilitating the continued availability of service providers to provide, or facilitate the provision of, abortion services, the Lieutenant Governor in Council may establish, by regulation, an access zone for the residences of a class of service providers, or the residence of a specific service provider.
 
@@ -158,15 +156,15 @@ by any means, including, without limitation, graphic, verbal or written means.
 
   - (a) if the residence is on a parcel of land shown on a strata plan, a strata lot other than the one on which the residence is located,
 
-  - (b) if the residence is on a parcel of land not shown on a strata plan, any part of the parcel that a person other than the service provider or doctor who provides abortion services has an exclusive right to use or occupy, and
+  - (b) if the residence is on a parcel of land not shown on a strata plan, any part of the parcel that a person other than the service provider or medical practitioner who provides abortion services has an exclusive right to use or occupy, and
 
-  - (c) private property outside the parcel on which the residence is located, other than private property that the service provider or doctor who provides abortion services has an exclusive right to use or occupy.
-
-
-## Access zones — doctors' offices
+  - (c) private property outside the parcel on which the residence is located, other than private property that the service provider or medical practitioner who provides abortion services has an exclusive right to use or occupy.
 
 
-**7(1)** An access zone is established for the office of every doctor who provides abortion services.
+## Access zones — medical practitioners' offices
+
+
+**7(1)** An access zone is established for the office of every medical practitioner who provides abortion services.
 
   (2) An access zone established under subsection (1) includes the parcel on which the office is located and an area that extends out 10 m from the boundaries of the parcel on which the office is located.
 
@@ -174,9 +172,9 @@ by any means, including, without limitation, graphic, verbal or written means.
 
   - (a) if the office is on a parcel of land shown on a strata plan, a strata lot other than the one on which the office is located,
 
-  - (b) if the office is on a parcel of land not shown on a strata plan, any part of the parcel that a person other than the doctor who provides abortion services has an exclusive right to use or occupy, and
+  - (b) if the office is on a parcel of land not shown on a strata plan, any part of the parcel that a person other than the medical practitioner who provides abortion services has an exclusive right to use or occupy, and
 
-  - (c) private property outside the parcel on which the office is located, other than private property that the doctor who provides abortion services has an exclusive right to use or occupy.
+  - (c) private property outside the parcel on which the office is located, other than private property that the medical practitioner who provides abortion services has an exclusive right to use or occupy.
 
   (4) The Lieutenant Governor in Council may vary, by regulation, the 10 m distance referred to in subsection (2) for a specific building, up to a maximum of 20 m.
 

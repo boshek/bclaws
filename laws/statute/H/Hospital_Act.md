@@ -453,7 +453,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) resident on the premises, and
 
-  - (b) a medical practitioner, a member of the Registered Nurses' Association of British Columbia or a graduate nurse whose qualifications are approved by the chief inspector.
+  - (b) a person who
+
+(i) is a medical practitioner,
+
+(ii) is a regulated health practitioner within the meaning of the Health Professions and Occupations Act who is authorized under that Act to practise the designated health profession of nursing, or
+
+(iii) is a graduate nurse whose qualifications are approved by the chief inspector.
 
   (2) The superintendent is responsible for
 
@@ -781,15 +787,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (4.1) For the purposes of subsection (4), the members of the Hospital Appeal Board must be appointed as follows:
 
-  - (a) one member selected after a merit-based process from among 3 or more individuals nominated by the executive body of the College of Physicians and Surgeons of British Columbia;
+  - (a) one member selected after a merit-based process from among 3 or more individuals nominated by the board of the regulatory college that is responsible, under the Health Professions and Occupations Act, for governing the designated health profession of medicine;
 
-  - (b) one member selected after a merit-based process from among 3 or more individuals nominated by the executive body of the College of Dental Surgeons of British Columbia;
+  - (b) one member selected after a merit-based process from among 3 or more individuals nominated by the board of the regulatory college that is responsible, under the Health Professions and Occupations Act, for governing the designated health profession of dentistry;
 
-  - (c) one member
-
-(i) selected after a merit-based process from among 3 or more individuals nominated by the executive body of the British Columbia College of Nurses and Midwives, and
-
-(ii) authorized to practise the designated health profession of midwifery;
+  - (c) one member who is authorized to practise the designated health profession of midwifery, selected after a merit-based process from among 3 or more individuals nominated by the board of the regulatory college that is responsible, under the Health Professions and Occupations Act, for governing that designated health profession;
 
   - (d) one member selected after a merit-based process from among 3 or more individuals nominated by the executive body of the Association of Doctors of BC;
 

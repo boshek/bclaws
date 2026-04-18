@@ -114,7 +114,7 @@ and, for the purposes of agreements or arrangements under section 5.4 of this Ac
 
 "health care" has the same meaning as in the Health Care (Consent) and Care Facility (Admission) Act;
 
-"health profession" has the same meaning as in the Health Professions Act;
+"health profession" has the same meaning as in the Health Professions and Occupations Act;
 
 "licensing board" means the Emergency Medical Assistants Licensing Board continued under section 6 (1);
 
@@ -124,7 +124,7 @@ and, for the purposes of agreements or arrangements under section 5.4 of this Ac
 
 "regional health board" means a regional health board designated under the Health Authorities Act;
 
-"restricted activity" has the same meaning as in the Health Professions Act;
+"restricted activity" has the same meaning as in the Health Professions and Occupations Act;
 
 "urgent health services" means health care provided in circumstances in which a medical practitioner or nurse practitioner determines that an individual
 

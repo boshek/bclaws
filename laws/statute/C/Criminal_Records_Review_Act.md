@@ -35,7 +35,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **12** New convictions or outstanding charges
 - **13** General duty of governing body
 - **14** Applicants for registration
-- **15** Existing registered members
+- **15** Existing registered service providers
 - **15.1** No portable criminal record check
 - **16** Effect of finding of risk
 - **17** New convictions or outstanding charges
@@ -54,7 +54,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **17.9** New convictions or outstanding charges
 - **18** Definitions
 - **19** General duty of administrator
-- **20** Applicants for registration
+- **20** Registration under prescribed program
 - **21** Existing child care providers
 - **21.1** No portable criminal record check
 - **22** Effect of finding of risk
@@ -87,6 +87,12 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 **1** In this Act:
 
 "administrator" means the person designated by regulation as the administrator of the prescribed program;
+
+"applicant for registration" means a person who, under any of the enactments referred to in Schedule 2, is
+
+  - (a) applying for registration, or
+
+  - (b) engaged in a type of process that, if successful, will result in the person being authorized under the enactment to provide services as a registered service provider;
 
 "child" means an individual under 19 years of age;
 
@@ -126,7 +132,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) the successful completion of which is a requirement for
 
-(i) registration as a member of a governing body designated by regulation,
+(i) registration to be regulated by a governing body that is designated, for the purposes of this provision, by regulation,
 
 (ii) certification under the Teachers Act, or
 
@@ -168,7 +174,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (i.1) a registrant as defined in section 1 of the Community Care and Assisted Living Act, or
 
-  - (j) a registered member who employs one or more individuals to assist the registered member in carrying on the registered member's occupation;
+  - (j) a registered service provider who employs one or more individuals to assist the registered service provider in practising that registered service provider's profession or occupation;
 
 "First Nations Education Authority" has the same meaning as in the First Nations Jurisdiction over Education in British Columbia Act (Canada);
 
@@ -208,7 +214,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (e) an institution as defined in the College and Institute Act;
 
-"registered member" means a person who is registered by a governing body under any of the enactments referred to in Schedule 2;
+"registered service provider" means a person who is regulated by a governing body under any of the enactments referred to in Schedule 2;
 
 "registered specified organization" means a specified organization that is registered under section 24.1;
 
@@ -272,7 +278,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (o) a registrant as defined in section 1 of the Community Care and Assisted Living Act;
 
-  - (p) a registered member who uses one or more volunteers to assist the registered member in carrying on the registered member's occupation;
+  - (p) a registered service provider who uses one or more volunteers to assist the registered service provider in practising that registered service provider's profession or occupation;
 
   - (q) any other prescribed persons or entities or prescribed classes of persons or entities;
 
@@ -338,7 +344,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 (i) the employer, if the individual is an employee or applicant for employment;
 
-(ii) the governing body, if the individual is a registered member or an applicant for registration;
+(ii) the governing body, if the individual is a registered service provider or an applicant for registration;
 
 (iii) the administrator, if the individual is a child care provider or an applicant as defined in Part 5;
 
@@ -396,7 +402,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) the employer, if the individual is an employee or applicant for employment;
 
-  - (b) the governing body, if the individual is a registered member or an applicant for registration;
+  - (b) the governing body, if the individual is a registered service provider or an applicant for registration;
 
   - (c) the administrator, if the individual is a child care provider or an applicant as defined in Part 5;
 
@@ -474,7 +480,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) the employer, if the individual is an employee or applicant for employment;
 
-  - (b) the governing body, if the individual is a registered member or an applicant for registration;
+  - (b) the governing body, if the individual is a registered service provider or an applicant for registration;
 
   - (c) the administrator, if the individual is a child care provider or an applicant as defined in Part 5;
 
@@ -494,11 +500,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) the employer, if the individual is an employee or an applicant for employment;
 
-  - (b) the governing body, if the individual is a registered member or an applicant for registration;
+  - (b) the governing body, if the individual is a registered service provider or an applicant for registration;
 
   - (c) the administrator, if the individual is a child care provider or an applicant as defined in Part 5;
 
-  - (d) the education institution, if the individual is a registered student or an applicant for registration;
+  - (d) the education institution, if the individual is a registered student or an individual who applies for registration;
 
   - (e) the director of certification, if the individual is an individual referred to in section 17.5 (1);
 
@@ -548,7 +554,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) an employee who is subject to a criminal record check
 
-(i) under Part 4 as a registered member,
+(i) under Part 4 as a registered service provider,
 
 (i.1) under Part 4.1 as a registered student, or
 
@@ -657,47 +663,51 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   the employer must require the employee to provide a criminal record check authorization for a further criminal record check.
 
-  (3) If an employee is also a registered member, the employer must take reasonable steps to notify the registered member's governing body that the employer is taking action under subsection (2).
+  (3) If an employee is also a registered service provider, the employer must take reasonable steps to notify the registered service provider's governing body that the employer is taking action under subsection (2).
 
 
 ## General duty of governing body
 
 
-**13(1)** Subject to subsection (1.1), a governing body must ensure that every member of the governing body who is registered and every individual who applies for registration undergoes
+**13(1)** Subject to subsection (2), a governing body must ensure that a registered service provider who is regulated by, and every applicant for registration who makes an application to, the governing body undergoes
 
   - (a) a criminal record check, or
 
   - (b) a criminal record check verification.
 
-  (1.1) A governing body may require an applicant for registration or a registered member to undergo a criminal record check even if the applicant or registered member could undergo a criminal record check verification.
+  (2) A governing body may require an individual referred to in subsection (1) to undergo a criminal record check even if the individual could undergo a criminal record check verification.
 
-  (2) The governing body must inform individuals of the requirements of this Act if those individuals are registered members or are applicants for registration as a member of the governing body.
+  (3) The governing body must inform individuals of the requirements of this Act if those individuals are individuals referred to in subsection (1).
 
 
 ## Applicants for registration
 
 
-**14(1)** Before an individual is registered as a member of a governing body, the individual must provide to the governing body a criminal record check authorization or a criminal record check verification authorization, as applicable.
+**14(1)** An applicant for registration must provide to the governing body a criminal record check authorization or a criminal record check verification authorization, as applicable, before the individual
 
-  (2) A governing body must not register an applicant unless the applicant has complied with subsection (1).
+  - (a) may be granted registration by the governing body, or
+
+  - (b) is authorized, under the enactment that governs the governing body, to provide services as a registered service provider.
+
+  (2) Unless an applicant for registration complies with subsection (1), a governing body must not grant registration to the applicant or otherwise acknowledge that the applicant is authorized, under the enactment that governs the governing body, to provide services as a registered service provider.
 
 
-## Existing registered members
+## Existing registered service providers
 
 
-**15(1)** A registered member must
+**15(1)** A registered service provider must
 
   - (a) undergo a criminal record check at least once every 5 years, and
 
-  - (b) provide to the registered member's governing body a criminal record check authorization or a criminal record check verification authorization, as applicable, at least once every 5 years after the date on which the registered member provided to the governing body the registered member's last criminal record check authorization or criminal record check verification authorization.
+  - (b) provide to the registered service provider's governing body a criminal record check authorization or a criminal record check verification authorization, as applicable, at least once every 5 years after the date on which the individual provided to the governing body the individual's last criminal record check authorization or criminal record check verification authorization.
 
-  (2) If a registered member does not provide the criminal record check authorization or criminal record check verification authorization as required by subsection (1) or section 17,
+  (2) If a registered service provider does not provide the criminal record check authorization or criminal record check verification authorization as required by subsection (1) of this section or section 17,
 
-  - (a) the registered member must not work with children or work with vulnerable adults until the registered member has provided the criminal record check authorization or criminal record check verification authorization, as applicable, and
+  - (a) the individual must not work with children or with vulnerable adults until that individual has provided the criminal record check authorization or criminal record check verification authorization, as applicable, and
 
-  - (b) the governing body must investigate or review the registration of the registered member and take appropriate action under the Act that governs the governing body.
+  - (b) the governing body must investigate or review the individual's authority to provide services as a registered service provider and take appropriate action under the Act that governs the governing body.
 
-  (3) If a registered member carries on the registered member's occupation as an employee, the governing body must take reasonable steps to notify the registered member's employer that it is taking action under subsection (2) (b).
+  (3) If a registered service provider carries on the individual's profession or occupation as an employee, the governing body must take reasonable steps to notify the individual's employer that the governing body is taking action under subsection (2) (b).
 
 
 ## No portable criminal record check
@@ -707,15 +717,15 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) if the individual is an applicant for registration, the governing body must ensure that the individual is not registered until the individual provides a criminal record check authorization, or
 
-  - (b) if the individual is a registered member, the individual must not work with children or work with vulnerable adults until the individual provides a criminal record check authorization.
+  - (b) if the individual is a registered service provider, the individual must not work with children or work with vulnerable adults until the individual provides a criminal record check authorization.
 
 
 ## Effect of finding of risk
 
 
-**16(1)** If the deputy registrar determines, in a criminal record check under Part 2, that an outstanding charge or conviction indicates that the individual presents a risk of physical or sexual abuse to children or a risk of physical, sexual or financial abuse to vulnerable adults and unless that determination is overturned by the registrar under section 5, the governing body must investigate or review the individual's registration or application for registration and take appropriate action under the Act that governs the governing body.
+**16(1)** If the deputy registrar determines, in a criminal record check under Part 2, that an outstanding charge or conviction indicates that the individual presents a risk of physical or sexual abuse to children or a risk of physical, sexual or financial abuse to vulnerable adults and unless that determination is overturned by the registrar under section 5, the governing body must investigate or review the individual's authority to provide services as a registered service provider or, if the individual is an applicant for registration, the individual's application and take appropriate action under the Act that governs the governing body.
 
-  (1.1) If the registrar determines, in a criminal record check verification under Part 2.1, that an individual does not have a portable criminal record check because a criminal record check in respect of the same individual carried out within 5 years of the date of the criminal record check verification authorization resulted in a determination that the individual presents a risk of physical or sexual abuse to children or a risk of physical, sexual or financial abuse to vulnerable adults, the governing body must investigate or review the individual's registration or application for registration and take appropriate action under the Act that governs the governing body.
+  (1.1) If the registrar determines, in a criminal record check verification under Part 2.1, that an individual does not have a portable criminal record check because a criminal record check in respect of the same individual carried out within 5 years of the date of the criminal record check verification authorization resulted in a determination that the individual presents a risk of physical or sexual abuse to children or a risk of physical, sexual or financial abuse to vulnerable adults, the governing body must investigate or review the individual's authority to provide services as a registered service provider or, if the individual is an applicant for registration, the individual's application and take appropriate action under the Act that governs the governing body.
 
   (2) If a registered member carries on the registered member's occupation as an employee, the governing body must take reasonable steps to notify the registered member's employer that the governing body is taking action under subsection (1) or (1.1) and that the action is with respect to a risk to children or to vulnerable adults, whichever is applicable.
 
@@ -729,11 +739,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## New convictions or outstanding charges
 
 
-**17(1)** If a registered member is charged with or convicted of a relevant offence or a specified offence subsequent to a criminal record check or criminal record check verification, the registered member must promptly report the charge or conviction to the member's governing body and provide to the governing body a criminal record check authorization for a further criminal record check.
+**17(1)** If a registered service provider is charged with or convicted of a relevant offence or a specified offence subsequent to a criminal record check or criminal record check verification, the individual must promptly report the charge or conviction to the individual's governing body and provide to the governing body a criminal record check authorization for a further criminal record check.
 
-  (2) When a governing body becomes aware that a registered member has an outstanding charge for, or has been convicted of, a relevant offence or a specified offence, the governing body must require the registered member to provide a criminal record check authorization for a further criminal record check.
+  (2) When a governing body becomes aware that a registered service provider has an outstanding charge for, or has been convicted of, a relevant offence or a specified offence, the governing body must require the registered service provider to provide a criminal record check authorization for a further criminal record check.
 
-  (3) If a registered member carries on the registered member's occupation as an employee, the governing body must take reasonable steps to notify the registered member's employer that the governing body is taking action under subsection (2) and that the action is with respect to a risk to children or to vulnerable adults, whichever is applicable.
+  (3) If a registered service provider carries on the individual's profession or occupation as an employee, the governing body must take reasonable steps to notify the individual's employer that the governing body is taking action under subsection (2) and that the action is with respect to a risk to children or to vulnerable adults, whichever is applicable.
 
   (4) An employer who is notified under subsection (3) must ensure that the employee does not
 
@@ -891,7 +901,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (2) The administrator must inform an individual of the requirements of this Act if that individual is a child care provider or requests registration as a child care provider.
 
 
-## Applicants for registration
+## Registration under prescribed program
 
 
 **20(1)** When an individual applies for registration under a prescribed program, the individual must provide to the administrator a criminal record check authorization or a criminal record check verification authorization, as applicable.

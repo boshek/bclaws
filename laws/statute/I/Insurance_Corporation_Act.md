@@ -247,7 +247,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) engage in and carry on the business of repairing insured property and of salvaging and disposing by public or private sale property insured and acquired under a contract by which the corporation may be liable as an insurer, or make agreements with other persons for those purposes;
 
-  - (d) subject to the Health Professions Act and the Hospital Act, engage in and carry on the business of providing medical and hospital services to a person insured under a contract by which the corporation may be liable as an insurer, or make agreements with other persons for those purposes;
+  - (d) subject to the Health Professions and Occupations Act and the Hospital Act, engage in and carry on the business of providing medical and hospital services to a person insured under a contract by which the corporation may be liable as an insurer, or make agreements with other persons for those purposes;
 
   - (e) for its own use and benefit, acquire or expropriate, and hold or take options on land required for its business, conveyed, mortgaged or hypothecated to it by way of security, acquired as an investment, or conveyed to it in full or partial satisfaction for debts and judgments, and may dispose of the whole or part of the land;
 
