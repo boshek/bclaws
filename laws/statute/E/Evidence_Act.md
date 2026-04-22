@@ -1089,21 +1089,13 @@ and includes a display, printout or other output of that information, other than
 
   - (d) a group of persons who carry out investigations of medical practice in hospitals and who are designated by the minister by regulation;
 
-"health care professional" means
+"health care professional" means any of the following:
 
-  - (a) and (b) [Repealed 2006-23-1.]
+  - (a) an emergency medical assistant within the meaning of the Emergency Health Services Act;
 
-  - (c) [Repealed 2003-57-43.]
+  - (b) a licensee within the meaning of the Health Professions and Occupations Act;
 
-  - (d) [Repealed 1998-42-7.]
-
-  - (d.1) an emergency medical assistant as defined in the Emergency Health Services Act,
-
-  - (e) a person registered as a member of a college within the meaning of the Health Professions Act, or
-
-  - (f) [Repealed 2003-77-37.]
-
-  - (g) a member of another organization that is designated by regulation of the Lieutenant Governor in Council;
+  - (c) a member of an organization that is designated by regulation of the Lieutenant Governor in Council;
 
 "hospital" means a hospital as defined in the Hospital Insurance Act and includes
 
@@ -1117,15 +1109,19 @@ and includes a display, printout or other output of that information, other than
 
   - (a) a proceeding before a board of management;
 
-  - (b) a proceeding before a board or body connected with an organization of health care professionals, that is a hearing or appeal concerning the conduct or competence of a member of the profession licensed, certified, registered or represented by that organization;
+  - (b) a proceeding before a board or body connected with an organization of health care professionals, that is a hearing or appeal concerning the conduct or competence of a health care professional who is licensed, registered or represented by, or holds a licence issued by, that organization;
 
   - (c) a proceeding in a court that is an appeal, review or new hearing of any matter referred to in paragraph (a) or (b);
 
 "organization of health care professionals" means any of the following that are designated by regulation of the Lieutenant Governor in Council:
 
-  - (a) an organization of health care professionals;
+  - (a) the Emergency Medical Assistants Licensing Board continued under the Emergency Health Services Act;
 
-  - (b) a body or person that licenses, certifies or registers a class of health care professionals;
+  - (b) a regulatory college within the meaning of the Health Professions and Occupations Act that is responsible under that Act for governing a designated health profession;
+
+  - (c) an organization referred to in paragraph (c) of the definition of "health care professional" in this subsection;
+
+  - (d) an organization of health care professionals;
 
 "witness" includes any person who, in the course of legal proceedings,
 
