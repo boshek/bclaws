@@ -120,11 +120,7 @@ whether or not the umbilical cord has been cut or the placenta attached;
 
 "international classification" means the International Statistical Classification of Diseases, Injuries and Causes of Death as last revised by the International Conference assembled for that purpose and published by the World Health Organization;
 
-"midwife" means a person who is
-
-  - (a) registered as a member of the British Columbia College of Nurses and Midwives, and
-
-  - (b) authorized to practise the designated health profession of midwifery;
+"midwife" means a person who is authorized under the Health Professions and Occupations Act to practise the designated health profession of midwifery;
 
 "occupier" includes
 
@@ -708,11 +704,11 @@ whether or not the umbilical cord has been cut or the placenta attached;
 
   - (c) in the case of a minor who is less than 12 years of age, a statement from one of the following persons that confirms that the sex designation on the applicant's birth registration does not correspond with the applicant's gender identity:
 
-(i) a practising registrant of the College of Physicians and Surgeons of British Columbia;
+(i) a person who is authorized under the Health Professions and Occupations Act to practise the designated health profession of medicine or psychology;
 
-(ii) a practising registrant of the College of Psychologists of British Columbia;
+(ii) in the case of an applicant who resides in a province outside British Columbia, a person who is authorized in that other province to practise a health profession equivalent to that practised by a person referred to in subparagraph (i);
 
-(iii) in the case of an applicant who resides outside British Columbia, a person who is practising and who is authorized, in another province or territory, to practise a health profession equivalent to that practised by a person referred to in subparagraph (i) or (ii);
+(iii) [Repealed 2022-43-639.]
 
   - (d) in the case of a minor, the consent of all parents having guardianship and all other guardians of the minor.
 

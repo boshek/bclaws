@@ -878,7 +878,7 @@ and "to strike" has a similar meaning;
 
   - (f) services prescribed under section 159 (2) (f);
 
-"non-clinical services" means services, other than medical, diagnostic or therapeutic services, provided by a person who is, under the Health Professions Act, a registrant in respect of a designated health profession to a person who is currently admitted to a bed in an inpatient unit in an acute care hospital.
+"non-clinical services" means services, other than medical, diagnostic or therapeutic services, provided by a licensee within the meaning of the Health Professions and Occupations Act to a person who is currently admitted to a bed in an inpatient unit in an acute care hospital.
 
   (1) If a business or a part of it is sold, leased, transferred or otherwise disposed of, the purchaser, lessee or transferee is bound by all proceedings under this Code before the date of the disposition and the proceedings must continue as if no change had occurred.
 

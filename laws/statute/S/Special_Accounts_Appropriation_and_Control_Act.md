@@ -34,6 +34,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **9.6** Park Enhancement Fund
 - **9.7** Housing Priority Initiatives special account
 - **9.8** First Nations Equity Financing special account
+- **9.9** British Columbia Strategic Investments special account
 - **10** Power to make regulations
 - **11** Regulations — Treasury Board
 
@@ -674,6 +675,130 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (8) The total outstanding principal amount of loans guaranteed under subsection (6) must not exceed the amount prescribed under subsection (9).
 
   (9) The Lieutenant Governor in Council may make regulations prescribing an amount for the purpose of subsection (8).
+
+
+## British Columbia Strategic Investments special account
+
+
+**9.9(1)** In this section:
+
+"eligible recipient" means a person who satisfies the qualifications established by regulation under subsection (14);
+
+"strategic investment" means a prescribed strategic investment.
+
+  (2) A special account, to be known as the British Columbia Strategic Investments special account, is established.
+
+  (3) The special account consists of the following:
+
+  - (a) an initial balance of $400 million;
+
+  - (b) amounts transferred to the special account under subsection (4);
+
+  - (c) amounts transferred from a vote, as defined in the Financial Administration Act;
+
+  - (d) amounts received or recovered by the government in relation to amounts paid for any of the purposes described in subsection (6);
+
+  - (e) amounts received by the government from the government of Canada for any of the purposes described in subsection (6);
+
+  - (f) amounts received by the government from a person in respect of fees or charges set under subsection (10);
+
+  - (g) any other amounts received by the government for payment into the special account.
+
+  (4) Treasury Board may direct that an amount in respect of amounts received by the government and paid into the consolidated revenue fund be transferred to the special account.
+
+  (5) Treasury Board may direct that the balance of the special account be reduced by an amount equal to any part of the balance that Treasury Board considers is not required for the purposes of the special account.
+
+  (6) Despite sections 21 (3) and 45 (1) of the Financial Administration Act, the minister may pay money out of the special account for the following purposes:
+
+  - (a) providing grants to eligible recipients in respect of strategic investments;
+
+  - (b) making loans to eligible recipients in respect of strategic investments;
+
+  - (c) acquiring one or more of the following in respect of strategic investments:
+
+(i) equity interests in eligible recipients;
+
+(ii) rights to acquire equity interests in eligible recipients;
+
+(iii) other financial interests;
+
+(iv) rights to acquire other financial interests;
+
+  - (d) administering, continuing, exchanging and disposing of
+
+(i) a loan made under paragraph (b), or
+
+(ii) an equity interest, financial interest or right acquired under paragraph (c);
+
+  - (e) paying amounts required to be paid by the government in relation to guarantees given under subsection (8);
+
+  - (f) exercising the government's rights under any of the following:
+
+(i) a grant referred to in paragraph (a);
+
+(ii) a loan referred to in paragraph (b);
+
+(iii) an equity interest, financial interest or right referred to in paragraph (c);
+
+(iv) a loan, equity interest, financial interest or right that was exchanged for another loan, equity interest, financial interest or right, as referred to in paragraph (d);
+
+(v) a guarantee referred to in subsection (8);
+
+  - (g) paying the expenses of administering the special account or any other expenses related to administering other activities undertaken under this subsection.
+
+  (7) An amount may only be paid out of the special account under subsection (6) if prior approval of Treasury Board has been obtained.
+
+  (8) Despite section 72 (3) of the Financial Administration Act, the minister may, on behalf of the government, guarantee the repayment of all or part of a loan by an eligible recipient if the loan is in respect of a strategic investment.
+
+  (9) A guarantee may only be given under subsection (8) if prior approval of Treasury Board and the Minister of Finance has been obtained.
+
+  (10) With the prior approval of Treasury Board, the minister may set fees or charges to be paid to the government by a person in respect of
+
+  - (a) a grant, loan, equity interest, financial interest or right referred to in subsection (6), or
+
+  - (b) a guarantee referred to in subsection (8).
+
+  (11) In setting fees or charges under subsection (10), the minister may set different fees or charges for different eligible recipients, strategic investments, purposes or things, or different classes of eligible recipients, strategic investments, purposes or things.
+
+  (12) Treasury Board may direct the minister to exchange or dispose of a loan, equity interest, financial interest or right referred to in subsection (6).
+
+  (13) The total outstanding principal amount of loans guaranteed under subsection (8) must not exceed the amount prescribed under subsection (14).
+
+  (14) Treasury Board may make regulations as follows:
+
+  - (a) establishing qualifications for a person to be an eligible recipient;
+
+  - (b) prescribing a project or activity in British Columbia as a strategic investment;
+
+  - (c) prescribing types of grants, loans, equity interests, financial interests or rights permitted under subsection (6);
+
+  - (d) establishing terms and conditions under which an amount is paid under subsection (6) (a), (b) or (c);
+
+  - (e) establishing terms and conditions under which a guarantee may be given under subsection (8);
+
+  - (f) prescribing an amount for the purpose of subsection (13);
+
+  - (g) requiring the minister to have the approval of the Minister of Finance or another person before the minister may pay money out of the special account;
+
+  - (h) respecting reporting on activities of the special account.
+
+  (15) In making regulations under this section, Treasury Board may make different regulations for different eligible recipients, strategic investments, purposes or things, or different classes of eligible recipients, strategic investments, purposes or things.
+
+  (16) For the purposes of this section,
+
+  - (a) money paid out of the consolidated revenue fund on or after April 1, 2018 and on or before March 31, 2026 further to an obligation under an agreement designated under subsection (17) is deemed to have been paid under subsection (6) with the prior approval of Treasury Board,
+
+  - (b) the recipient of the money paid or the person who will be the recipient of money that may be payable by the government under an agreement designated under subsection (17) is deemed to be an eligible recipient, and
+
+  - (c) the purpose for which that money was paid or may be payable is deemed to be in respect of a strategic investment.
+
+  (17) For the purposes of subsection (16), Treasury Board may designate, on or before June 30, 2026, an agreement
+
+  - (a) entered into by the Minister of Jobs and Economic Growth, or that minister under a former title, on behalf of the government, and
+
+  - (b) entered into on or after April 1, 2018 and on or before March 31, 2026.
+
+  (18) For certainty, subsection (16) does not require an adjustment to the balance of the special account in respect of any money paid on or before March 31, 2026.
 
 
 ## Power to make regulations

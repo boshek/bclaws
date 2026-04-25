@@ -271,9 +271,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) a nurse practitioner;
 
-  - (c) a person in a prescribed class of persons who is entitled, under a prescribed enactment, to practise a health profession as defined in the Health Professions Act;
+  - (c) a person who is authorized to practise
 
-  - (d) a person in a prescribed class of persons who provides health care;
+(i) a designated health profession within the meaning of the Health Professions and Occupations Act that is prescribed for the purposes of this definition, or
+
+(ii) an equivalent health profession in another jurisdiction;
+
+  - (d) a person who is in a prescribed class of persons who provide health care, including prescribed classes of persons who provide health care in other jurisdictions;
 
 "highway" has the prescribed meaning;
 
@@ -811,11 +815,9 @@ caused by a vehicle or the use or operation of a vehicle.
 
   - (a.1) a nurse practitioner;
 
-  - (b) a person entitled to practise as a chiropractor under an enactment;
+  - (b) a person who is authorized under the Health Professions and Occupations Act to practise the designated health profession of chiropractic, dentistry or physical therapy;
 
-  - (c) a person entitled to practise dentistry under an enactment;
-
-  - (d) a person entitled to practise physical therapy under the Health Professions Act;
+  - (c) and (d) [Repealed 2022-43-578.]
 
   - (e) an employee of a hospital as defined in the Hospital Act.
 
@@ -1327,7 +1329,7 @@ caused by a vehicle or the use or operation of a vehicle.
 
   - (b) authorizing the corporation to enter into an agreement with a health care practitioner respecting the amount payable by the corporation as benefits for the provision of health care by a health care practitioner to an insured person;
 
-  - (c) for the purposes of paragraph (c) of the definition of "health care practitioner" in section 1, prescribing classes of persons and enactments;
+  - (c) for the purposes of paragraph (c) of the definition of "health care practitioner" in section 1, prescribing designated health professions;
 
   - (d) for the purposes of paragraph (d) of the definition of "health care practitioner" in section 1, prescribing classes of persons.
 

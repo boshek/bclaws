@@ -616,7 +616,7 @@ authorized to carry on insurance business under the Financial Institutions Act;
 
 "may" is to be construed as permissive and empowering;
 
-"medical practitioner" means a registrant of the College of Physicians and Surgeons of British Columbia entitled under the Health Professions Act to practise medicine and to use the title "medical practitioner";
+"medical practitioner" means a person who is authorized under the Health Professions and Occupations Act to practise the designated health profession of medicine;
 
 "mentally disordered person", "mentally incompetent person", "mentally ill person" or "person with a mental disorder" means a person with a mental disorder as defined in section 1 of the Mental Health Act;
 
@@ -640,7 +640,7 @@ authorized to carry on insurance business under the Financial Institutions Act;
 
 "now" must be construed as referring to the time of commencement of the enactment containing the word;
 
-"nurse practitioner" means a person who is authorized under the bylaws of the British Columbia College of Nurses and Midwives to practise nursing as a nurse practitioner and to use the title "nurse practitioner";
+"nurse practitioner" means a person who is authorized under the Health Professions and Occupations Act to practise the designated health profession of nursing and to use the title "nurse practitioner";
 
   ["oath", see "affidavit"]
 

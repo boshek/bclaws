@@ -52,6 +52,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **16.1** Definitions
 - **17** General limits on direct or extra billing
 - **18** Limits on direct or extra billing by a medical practitioner
+- **18.1** Limits on direct or extra billing in a diagnostic facility
 - **19** Notice requirement
 - **20** Refunds
 - **20.1** Repealed
@@ -99,17 +100,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "adult" means a person 19 years of age or older;
 
-"appropriate disciplinary body" means the person or body that may cancel or suspend the right to practise under
-
-  - (a) an enactment, as a chiropractor, a dentist, a medical practitioner, an optometrist or a podiatrist in British Columbia, or
-
-  - (b) the governing Act, bylaws or rules for a member of the health care profession or occupation prescribed for the purposes of paragraph (b) of the definition of "health care practitioner";
-
-"appropriate licensing body" means the person or body having the power to grant the right to practise as a practitioner under
-
-  - (a) an enactment, as a chiropractor, a dentist, a medical practitioner, an optometrist or a podiatrist in British Columbia, or
-
-  - (b) the governing Act, bylaws or rules for a member of the health care profession or occupation prescribed for the purposes of paragraph (b) of the definition of "health care practitioner";
+"appropriate regulatory college" means the regulator that is responsible, under the Health Professions and Occupations Act, for governing the designated health profession practised by a medical practitioner or health care practitioner;
 
 "approved diagnostic facility" means a diagnostic facility approved under section 33;
 
@@ -157,11 +148,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "former Act" means the Medical Service Act, R.S.B.C. 1979, c. 255;
 
-"health care practitioner" means a person entitled to practise as
+"health care practitioner" means a person who is authorized under the Health Professions and Occupations Act to practise
 
-  - (a) a chiropractor, a dentist, an optometrist or a podiatrist in British Columbia under an enactment, or
+  - (a) the designated health profession of chiropractic, dentistry, optometry or podiatry, or
 
-  - (b) a member of a health care profession or occupation that may be prescribed;
+  - (b) a designated health profession, within the meaning of that Act, that is prescribed for the purposes of this Act;
 
 "payment schedule" means a payment schedule established under section 26;
 
@@ -179,7 +170,7 @@ who is enrolled under section 13;
 
   - (a) in the case of a practitioner, personal supervision authorized by the commission in the circumstances, and
 
-  - (b) in the case of a medical practitioner or health care practitioner who is not enrolled, personal supervision acceptable to the appropriate disciplinary body for the medical practitioner or health care practitioner;
+  - (b) in the case of a medical practitioner or health care practitioner who is not enrolled, personal supervision acceptable to the appropriate regulatory college for the medical practitioner or health care practitioner;
 
 "resident" means a person who
 
@@ -257,7 +248,7 @@ and includes a person who is deemed under the regulations to be a resident but d
 ## Special committees respecting health care practitioners
 
 
-**4(1)** After consultation with the appropriate licensing body, the Lieutenant Governor in Council may establish one or more special committees to exercise the powers, duties or functions of the commission under this Act that are specified by the Lieutenant Governor in Council for a body of health care practitioners.
+**4(1)** After consultation with the appropriate regulatory college, the Lieutenant Governor in Council may establish one or more special committees to exercise the powers, duties or functions of the commission under this Act that are specified by the Lieutenant Governor in Council for a body of health care practitioners.
 
   (2) A special committee established under subsection (1) is composed of the persons the Lieutenant Governor in Council specifies and exercises its powers, duties or functions on the terms and conditions the Lieutenant Governor in Council specifies.
 
@@ -673,7 +664,7 @@ and includes a person who is deemed under the regulations to be a resident but d
 
 **13(1)** A medical practitioner or health care practitioner who wishes to be enrolled as a practitioner must apply to the commission in the manner required by the commission.
 
-  (2) On receiving an application under subsection (1), the commission must enrol the applicant if the commission is satisfied that the applicant is in good standing with the appropriate licensing body and is not a person in respect of whom enrolment has been cancelled under section 15 (2).
+  (2) On receiving an application under subsection (1), the commission must enrol the applicant if the commission is satisfied that the applicant is in good standing with the appropriate regulatory college and is not a person in respect of whom enrolment has been cancelled under section 15 (2).
 
   (3) A practitioner who renders benefits to a beneficiary is, if this Act and the regulations made under it are complied with, eligible to be paid for the practitioner's services in accordance with the appropriate payment schedule, less any applicable patient visit charge or reduction made under section 24 (2).
 
@@ -683,7 +674,7 @@ and includes a person who is deemed under the regulations to be a resident but d
 
   (6) A practitioner is not entitled to be paid if that practitioner provides a service contrary to any directions or prohibitions that have been imposed on that practitioner
 
-  - (a) by the appropriate disciplinary body,
+  - (a) as a result of disciplinary proceedings taken against that practitioner under the Health Professions and Occupations Act,
 
   - (b) under this Act, or
 
@@ -751,7 +742,11 @@ and includes a person who is deemed under the regulations to be a resident but d
 
 **15(1)** In this section, "cause", in respect of a practitioner, includes, but is not limited to,
 
-  - (a) a determination by the commission that, as a result of a finding by the appropriate disciplinary body that a practitioner has inadequate skills or knowledge or has been guilty of infamous conduct or repeated instances of serious misconduct, the practitioner is no longer able to provide proper care or treatment to beneficiaries,
+  - (a) a determination by the commission that the practitioner is no longer able to provide proper care or treatment to beneficiaries, based on a finding, after disciplinary proceedings taken against the practitioner under the Health Professions and Occupations Act, that the practitioner
+
+(i) lacks competence, or
+
+(ii) has committed an act of serious misconduct or repeated instances of misconduct,
 
   - (b) a determination by the commission that, as a result of conduct giving rise to a conviction of a criminal offence, the practitioner is no longer able to provide proper care or treatment to beneficiaries,
 
@@ -777,7 +772,7 @@ and includes a person who is deemed under the regulations to be a resident but d
 
 (iii) authorized, assisted or allowed another person to contravene or attempt to contravene section 25 of the Laboratory Services Act,
 
-  - (e) failure to meet accreditation standards established by the licensing body appropriate to the practitioner,
+  - (e) failure to meet accreditation standards established by the appropriate regulatory college in relation to the practitioner,
 
   - (f) failure to comply with a written order made under section 37 (1) (e) to adopt an appropriate pattern of practice or billing, or
 
@@ -809,7 +804,7 @@ and includes a person who is deemed under the regulations to be a resident but d
 ## Referral of complaint
 
 
-**16** If the chair has reasonable grounds to believe that there has been misconduct or incompetence on the part of a practitioner, the chair must report the grounds on which that belief is based to the appropriate disciplinary body.
+**16** If the chair has reasonable grounds to believe that there has been misconduct or incompetence on the part of a practitioner, the chair must report the grounds on which that belief is based to the appropriate regulatory college.
 
 
 ## Definitions
@@ -902,6 +897,24 @@ and includes a person who is deemed under the regulations to be a resident but d
   - (b) if a payment schedule or regulation permits or requires an additional charge, the total of the amount referred to in paragraph (a) and the additional charge.
 
   (4) If a medical practitioner who is not enrolled charges another person contrary to subsection (1) or (3), another person is not liable to pay the amount charged.
+
+
+## Limits on direct or extra billing in a diagnostic facility
+
+
+**18.1(1)** Unless a service is rendered by a medical practitioner who is not enrolled, a person must not charge another person for, or in relation to, the service if that service
+
+  - (a) would be a benefit under this Act, or a benefit under the Hospital Insurance Act, if rendered to a beneficiary at
+
+(i) an approved diagnostic facility,
+
+(ii) a hospital, or
+
+(iii) a diagnostic facility under an agreement with a regional health board, the Nisg̱a'a Nation or the Provincial Health Services Authority, and
+
+  - (b) is rendered to a beneficiary at a diagnostic facility that is not approved under section 33.
+
+  (2) A person must not charge another person for, or in relation to, materials, consultations, procedures, use of an office, clinic or other place or for any other matters that relate to the rendering of a service described by subsection (1).
 
 
 ## Notice requirement
@@ -1081,7 +1094,7 @@ and includes a person who is deemed under the regulations to be a resident but d
 
   - (a) a practitioner must provide the commission with any record that the commission considers relevant to substantiate a claim, including any medical or clinical record, in the care or control of the practitioner, and
 
-  - (b) a practitioner must retain records, including medical or clinical records, for a period specified by the appropriate licensing body or, if the appropriate licensing body has not specified a period, for a period the commission specifies.
+  - (b) a practitioner must retain records, including medical or clinical records, for a period specified by the appropriate regulatory college or, if the appropriate regulatory college has not specified a period, for a period the commission specifies.
 
 
 ## Non-resident benefits
@@ -1311,7 +1324,7 @@ and includes a person who is deemed under the regulations to be a resident but d
 
   (3) Despite subsections (1) and (2), the commission may proceed to make an order under subsection (1) without holding a hearing if the practitioner, owner of the diagnostic facility or representative of the professional corporation, having been given notice of the proceeding for the order, agrees to waive the right to a hearing.
 
-  (4) The commission must advise the appropriate licensing or disciplinary body that an order under subsection (1) has been made respecting the practitioner or the owner of the diagnostic facility, if the owner is a practitioner.
+  (4) The commission must advise the appropriate regulatory college that an order under subsection (1) has been made respecting the practitioner or the owner of the diagnostic facility, if the owner is a practitioner.
 
   (5) The commission may, for the purposes of this section and for the guidance of practitioners, prepare guidelines and criteria that may be applied to the patterns of practice of practitioners.
 
