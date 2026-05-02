@@ -517,6 +517,8 @@ that, under the regulations, the minister considers is in genuine use for reside
 
   (3.2) The interest rate prescribed by the minister under subsection (3.1) during each successive 6 month period beginning on October 1 and April 1 in every year must not exceed a yearly rate that is the prime lending rate of the principal banker to the government on the 15th day of the fourth month immediately preceding that 6 month period.
 
+  (3.3) Despite subsections (1) to (3.2), interest on tax payable for the 2026 or a subsequent taxation year deferred under an agreement under this Act must be calculated in the manner and at the rate prescribed by the minister.
+
   (4) Despite this section, a person who
 
   - (a) has made an agreement under section 5 (1),
@@ -562,6 +564,8 @@ that, under the regulations, the minister considers is in genuine use for reside
   (5) Despite subsections (1) and (2), in respect of interest on taxes deferred under section 5 (2.1) or (2.3), the interest rate is the simple interest rate prescribed by the minister.
 
   (6) The interest rate prescribed by the minister under subsection (5) during each successive 6 month period beginning on October 1 and April 1 in every year must not exceed a yearly rate that is the prime lending rate of the principal banker to the government on the 15th day of the fourth month immediately preceding that 6 month period.
+
+  (7) Despite subsections (1) to (6), interest on tax payable for the 2026 or a subsequent taxation year deferred under an agreement under this Act must be calculated in the manner and at the rate prescribed by the minister.
 
 
 ## Satisfaction of agreement

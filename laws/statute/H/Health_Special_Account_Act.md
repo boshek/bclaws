@@ -33,7 +33,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Lottery funds for health
 
 
-**2** The account consists of 1/2 of the amounts that are paid into the consolidated revenue fund under section 13 of the Gaming Control Act up to a maximum in each fiscal year that is equal to the amount shown in the Estimates as revenue in the Health Special Account for that fiscal year.
+**2** The account consists of 1/2 of the amounts that are paid into the consolidated revenue fund under section 30 of the Gaming Control Act up to a maximum in each fiscal year that is equal to the amount shown in the Estimates as revenue in the Health Special Account for that fiscal year.
 
 
 ## Expenditures

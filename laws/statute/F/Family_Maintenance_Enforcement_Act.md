@@ -1184,11 +1184,11 @@ but does not include a provisional order or a provisional variation order, as de
 
 "corporation" means the British Columbia Lottery Corporation;
 
-"lottery" means a lottery scheme, as defined in section 1 (1) of the Gaming Control Act, that
+"lottery" means a lottery scheme, as defined in section 1 of the Gaming Control Act, that
 
   - (a) is conducted by the corporation in British Columbia, and
 
-  - (b) involves the issuance of lottery tickets, as defined in section 1 (1) of the Gaming Control Act;
+  - (b) involves the issuance of lottery tickets, as defined in section 1 of the Gaming Control Act;
 
 "prize" means a monetary prize awarded in a lottery.
 
