@@ -113,7 +113,7 @@ class BCLawsScraper:
 
     def xhtml_to_markdown(self, xhtml: str, title: str) -> str:
         """Convert XHTML document to clean markdown"""
-        soup = BeautifulSoup(xhtml, "lxml")
+        soup = BeautifulSoup(xhtml, features="xml")
 
         markdown = []
         markdown.append(f"# {title}\n")
@@ -121,7 +121,9 @@ class BCLawsScraper:
         # Add required legal disclaimer
         markdown.append("---\n")
         markdown.append("**DISCLAIMER: THIS IS NOT AN OFFICIAL VERSION**\n")
-        markdown.append("\nInformation derived from [BC Laws](https://www.bclaws.gov.bc.ca) ")
+        markdown.append(
+            "\nInformation derived from [BC Laws](https://www.bclaws.gov.bc.ca) "
+        )
         markdown.append(
             "under the [King's Printer License](https://www.bclaws.ca/standards/Licence.html). "
         )
@@ -176,17 +178,26 @@ class BCLawsScraper:
                         span.decompose()
                     secnum.decompose()
 
-                    para_text = self.clean_text(para.get_text(separator=" ", strip=True))
+                    para_text = self.clean_text(
+                        para.get_text(separator=" ", strip=True)
+                    )
                     if para_text:
                         markdown.append(f"\n**{num_text}** {para_text}\n")
                 else:
-                    para_text = self.clean_text(para.get_text(separator=" ", strip=True))
+                    para_text = self.clean_text(
+                        para.get_text(separator=" ", strip=True)
+                    )
 
                     if para_text and not para_text.startswith("Copyright"):
-                        # Handle subsections/subparagraphs
-                        if "sub" in para.get("class", []):
+                        raw_class = para.get("class") or ""
+                        classes = set(
+                            raw_class.split()
+                            if isinstance(raw_class, str)
+                            else raw_class
+                        )
+                        if "sub" in classes:
                             markdown.append(f"  {para_text}\n")
-                        elif "para" in para.get("class", []):
+                        elif "para" in classes:
                             markdown.append(f"  - {para_text}\n")
                         else:
                             markdown.append(f"{para_text}\n")
@@ -211,12 +222,63 @@ class BCLawsScraper:
 
         return folder / f"{clean_title}.md"
 
-    def scrape_document(self, doc_id: str) -> tuple[bool, str]:
+    def _fetch_index(self, folder_id: str) -> list[dict]:
+        """Fetch and parse the CIVIX XML index for a given folder ID."""
+        url = f"{self.METADATA_URL}/{folder_id}"
+        try:
+            response = self.session.get(url, timeout=30)
+            response.raise_for_status()
+            root = ET.fromstring(response.content)
+        except Exception as e:
+            logger.error(f"Error fetching index for {folder_id}: {e}")
+            return []
+
+        entries = []
+        for elem in root:
+            entry = {
+                "id": elem.findtext("CIVIX_DOCUMENT_ID", ""),
+                "title": elem.findtext("CIVIX_DOCUMENT_TITLE", ""),
+                "type": elem.findtext("CIVIX_DOCUMENT_TYPE", ""),
+                "visible": elem.findtext("CIVIX_DOCUMENT_VISIBLE", "true") == "true",
+                "status": elem.findtext("CIVIX_DOCUMENT_STATUS"),
+            }
+            if entry["id"]:
+                entries.append(entry)
+        return entries
+
+    def discover_all_docs(self) -> list[dict]:
+        """Walk the A-Z CIVIX index tree and return all statute act-directory entries.
+
+        The tree has two levels above the actual document: alphabetical folders
+        (A-Z) and per-act directories. Both statutes and their associated
+        regulations live under each act directory. This method returns only the
+        act-level directory entries - one per act - which is the correct input
+        for scrape_document().
         """
-        Scrape a single document by its base ID
+        logger.info("Discovering all documents from the CIVIX index...")
+        alpha_dirs = self._fetch_index("statreg")
+        logger.info(f"Found {len(alpha_dirs)} top-level index folders")
+
+        all_docs = []
+        for alpha in alpha_dirs:
+            if not alpha["visible"] or alpha["type"] != "dir":
+                continue
+            act_dirs = self._fetch_index(alpha["id"])
+            for act in act_dirs:
+                if act["type"] == "dir" and act["visible"]:
+                    all_docs.append(act)
+
+        logger.info(f"Discovered {len(all_docs)} act entries")
+        return all_docs
+
+    def scrape_document(
+        self, doc_id: str, doc_type: str = "statute"
+    ) -> tuple[bool, str]:
+        """
+        Scrape a single document by its act-directory ID.
         Returns: (success: bool, status: str) where status is 'success', 'not_found', or 'error'
         """
-        # Step 1: Get metadata
+        # Step 1: Get metadata (resolves act-dir ID to the full document ID and title)
         metadata = self.fetch_document_metadata(doc_id)
         if not metadata:
             return False, "not_found"
@@ -238,39 +300,6 @@ class BCLawsScraper:
 
         # Step 4: Save
         try:
-            doc_type = (
-                "statute"
-                if doc_id.startswith(
-                    (
-                        "96",
-                        "02",
-                        "03",
-                        "04",
-                        "05",
-                        "06",
-                        "07",
-                        "08",
-                        "09",
-                        "10",
-                        "11",
-                        "12",
-                        "13",
-                        "14",
-                        "15",
-                        "16",
-                        "17",
-                        "18",
-                        "19",
-                        "20",
-                        "21",
-                        "22",
-                        "23",
-                        "24",
-                        "25",
-                    )
-                )
-                else "regulation"
-            )
             output_path = self.get_output_path(metadata["title"], doc_type)
             output_path.write_text(markdown, encoding="utf-8")
             logger.info(f"✓ Saved: {metadata['title']}")
@@ -279,34 +308,32 @@ class BCLawsScraper:
             logger.error(f"Error saving {doc_id}: {e}")
             return False, "error"
 
-    def scrape_all(self, start_year: str = "96", end_num: int = 600):
-        """Scrape multiple documents by iterating through ID patterns"""
-        logger.info(f"Starting BC Laws scraper (pattern: {start_year}XXX)...")
+    def scrape_all(self):
+        """Discover and scrape all BC statutes from the CIVIX index."""
+        logger.info("Starting BC Laws scraper...")
+
+        docs = self.discover_all_docs()
 
         successful = 0
         not_found = 0
         errors = 0
 
-        for num in range(1, end_num):
-            doc_id = f"{start_year}{num:03d}"
-
-            success, status = self.scrape_document(doc_id)
+        for i, doc in enumerate(docs, 1):
+            success, status = self.scrape_document(doc["id"], doc_type="statute")
 
             if status == "success":
                 successful += 1
             elif status == "not_found":
                 not_found += 1
-            else:  # error
+            else:
                 errors += 1
 
-            # Rate limiting
             time.sleep(0.5)
 
-            # Progress update every 50 documents
-            if num % 50 == 0:
+            if i % 50 == 0:
                 logger.info(
-                    f"Progress: {num}/{end_num} tried | "
-                    f"{successful} found | {not_found} not found | {errors} errors"
+                    f"Progress: {i}/{len(docs)} | "
+                    f"{successful} saved | {not_found} not found | {errors} errors"
                 )
 
         logger.info(f"\n{'=' * 60}")
@@ -319,9 +346,7 @@ class BCLawsScraper:
 
 def main():
     scraper = BCLawsScraper(output_dir="laws")
-
-    # Scrape all BC statutes
-    scraper.scrape_all(start_year="96", end_num=600)
+    scraper.scrape_all()
 
 
 if __name__ == "__main__":
