@@ -4,6 +4,7 @@ BC Laws Scraper
 Fetches all BC legislation from bclaws.gov.bc.ca and converts to markdown
 """
 
+import json
 import logging
 import re
 import time
@@ -92,24 +93,36 @@ class BCLawsScraper:
             logger.error(f"Unexpected error for {doc_id}: {e}")
             return None
 
-    def fetch_document_content(self, doc_id: str) -> str | None:
-        """Fetch the actual XHTML content of a document"""
-        url = f"{self.DOCUMENT_URL}/{doc_id}"
-        try:
-            response = self.session.get(url, timeout=30)
+    def fetch_document_content(
+        self, doc_id: str, if_modified_since: str | None = None
+    ) -> tuple[str | None, str | None]:
+        """Fetch the actual XHTML content of a document.
 
-            # Handle 404 - document doesn't exist (not an error)
+        Returns (content, last_modified). If the server responds with 304, content
+        is None and last_modified is None. On error, both are None.
+        """
+        url = f"{self.DOCUMENT_URL}/{doc_id}"
+        headers = {}
+        if if_modified_since:
+            headers["If-Modified-Since"] = if_modified_since
+        try:
+            response = self.session.get(url, timeout=30, headers=headers)
+
+            if response.status_code == 304:
+                return None, None
+
             if response.status_code == 404:
-                return None
+                return None, None
 
             response.raise_for_status()
-            return response.text
+            last_modified = response.headers.get("Last-Modified")
+            return response.text, last_modified
         except requests.exceptions.RequestException as e:
             logger.error(f"Error fetching content for {doc_id}: {e}")
-            return None
+            return None, None
         except Exception as e:
             logger.error(f"Unexpected error fetching content for {doc_id}: {e}")
-            return None
+            return None, None
 
     def xhtml_to_markdown(self, xhtml: str, title: str) -> str:
         """Convert XHTML document to clean markdown"""
@@ -272,11 +285,12 @@ class BCLawsScraper:
         return all_docs
 
     def scrape_document(
-        self, doc_id: str, doc_type: str = "statute"
+        self, doc_id: str, doc_type: str = "statute", manifest: dict | None = None
     ) -> tuple[bool, str]:
-        """
-        Scrape a single document by its act-directory ID.
-        Returns: (success: bool, status: str) where status is 'success', 'not_found', or 'error'
+        """Scrape a single document by its act-directory ID.
+
+        Returns (success, status) where status is 'success', 'unchanged', 'not_found', or 'error'.
+        The manifest dict is updated in-place when a document is successfully fetched.
         """
         # Step 1: Get metadata (resolves act-dir ID to the full document ID and title)
         metadata = self.fetch_document_metadata(doc_id)
@@ -285,9 +299,16 @@ class BCLawsScraper:
 
         logger.info(f"Processing {doc_id}: {metadata['title']}")
 
-        # Step 2: Fetch content
-        content = self.fetch_document_content(metadata["id"])
-        if not content:
+        # Step 2: Fetch content, using the stored Last-Modified date for conditional GET
+        if_modified_since = (manifest or {}).get(doc_id)
+        content, last_modified = self.fetch_document_content(
+            metadata["id"], if_modified_since=if_modified_since
+        )
+
+        if content is None and last_modified is None:
+            if if_modified_since:
+                logger.info(f"Unchanged (304): {metadata['title']}")
+                return True, "unchanged"
             logger.warning(f"Failed to fetch content for {doc_id}")
             return False, "error"
 
@@ -298,11 +319,13 @@ class BCLawsScraper:
             logger.error(f"Error converting {doc_id} to markdown: {e}")
             return False, "error"
 
-        # Step 4: Save
+        # Step 4: Save and record the Last-Modified date in the manifest
         try:
             output_path = self.get_output_path(metadata["title"], doc_type)
             output_path.write_text(markdown, encoding="utf-8")
-            logger.info(f"✓ Saved: {metadata['title']}")
+            if manifest is not None and last_modified:
+                manifest[doc_id] = last_modified
+            logger.info(f"Saved: {metadata['title']}")
             return True, "success"
         except Exception as e:
             logger.error(f"Error saving {doc_id}: {e}")
@@ -312,17 +335,29 @@ class BCLawsScraper:
         """Discover and scrape all BC statutes from the CIVIX index."""
         logger.info("Starting BC Laws scraper...")
 
+        manifest_path = self.output_dir / "manifest.json"
+        if manifest_path.exists():
+            manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+            logger.info(f"Loaded manifest with {len(manifest)} entries")
+        else:
+            manifest = {}
+
         docs = self.discover_all_docs()
 
         successful = 0
+        unchanged = 0
         not_found = 0
         errors = 0
 
         for i, doc in enumerate(docs, 1):
-            success, status = self.scrape_document(doc["id"], doc_type="statute")
+            success, status = self.scrape_document(
+                doc["id"], doc_type="statute", manifest=manifest
+            )
 
             if status == "success":
                 successful += 1
+            elif status == "unchanged":
+                unchanged += 1
             elif status == "not_found":
                 not_found += 1
             else:
@@ -333,12 +368,19 @@ class BCLawsScraper:
             if i % 50 == 0:
                 logger.info(
                     f"Progress: {i}/{len(docs)} | "
-                    f"{successful} saved | {not_found} not found | {errors} errors"
+                    f"{successful} saved | {unchanged} unchanged | "
+                    f"{not_found} not found | {errors} errors"
                 )
+
+        manifest_path.write_text(
+            json.dumps(manifest, indent=2, sort_keys=True), encoding="utf-8"
+        )
+        logger.info(f"Manifest saved to {manifest_path}")
 
         logger.info(f"\n{'=' * 60}")
         logger.info("Scraping complete!")
         logger.info(f"  Successfully scraped: {successful} documents")
+        logger.info(f"  Unchanged (304):      {unchanged} documents")
         logger.info(f"  Not found (expected): {not_found} documents")
         logger.info(f"  Errors (investigate): {errors} documents")
         logger.info(f"{'=' * 60}")
