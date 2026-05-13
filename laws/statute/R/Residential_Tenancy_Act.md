@@ -32,7 +32,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **11** Director and staff must not be compelled in civil proceedings
 - **12** Tenancy agreements include the standard terms
 - **13** Requirements for tenancy agreements
-- **14** Changes to tenancy agreement
+- **14** Amendments to tenancy agreement
 - **15** Application and processing fees prohibited
 - **16** Start of rights and obligations under tenancy agreement
 - **17** Landlord may require security deposit
@@ -92,7 +92,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **56** Application for order ending tenancy early
 - **56.1** Order of possession: tenancy frustrated
 - **57** What happens if a tenant does not leave when tenancy ended
-- **57.1-57.61** Not in force
+- **57.1-57.61** Repealed
 - **57.7** Dispute resolution services
 - **58** Determining disputes
 - **59** Starting proceedings
@@ -163,7 +163,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **103** Transitional: security deposits
 - **104** Transitional regulations
 - **104.1** Repealed
-- **104.2** Not in force
+- **104.2** Repealed
 - **104.3** Transition — fixed term tenancy agreements
 - **105-116** Spent
 - **117** Commencement
@@ -181,6 +181,16 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 "approved form" means the form approved by the director under section 10 (1) [director may approve forms] for the purposes of the section in which it appears;
 
 "authorized internet site" means an internet site that is maintained by the director or authorized by the director to be used for the purposes of this Act;
+
+"authorized person", in relation to a tenant or the rental unit of the tenant, means
+
+  - (a) the landlord,
+
+  - (b) another tenant or occupant of the residential property where the rental unit is located,
+
+  - (c) a person permitted on the residential property where the rental unit is located by the landlord or by a tenant, or other occupant, of another rental unit on the residential property, or
+
+  - (d) another person who is, with lawful authority, on the residential property where the rental unit is located;
 
 "common area" means any part of residential property the use of which is shared by tenants, or by a landlord and one or more tenants;
 
@@ -202,7 +212,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 (i) permits occupation of the rental unit under a tenancy agreement, or
 
-(ii) exercises powers and performs duties under this Act, the tenancy agreement or a service agreement;
+(ii) exercises powers and performs duties under this Act or the tenancy agreement;
 
   - (b) the heirs, assigns, personal representatives and successors in title to a person referred to in paragraph (a);
 
@@ -322,7 +332,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Act applies to tenancy agreement with a minor
 
 
-**3** A person who has not reached 19 years of age may enter into a tenancy agreement or a service agreement, and the agreement and this Act and the regulations are enforceable by and against the person despite section 19 of the Infants Act.
+**3** A person who has not reached 19 years of age may enter into a tenancy agreement, and the agreement and this Act and the regulations are enforceable by and against the person despite section 19 of the Infants Act.
 
 
 ## What this Act does not apply to
@@ -354,9 +364,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 (iii) in a public or private hospital under the Hospital Act,
 
-(iv) if designated under the Mental Health Act, in a Provincial mental health facility, an observation unit or a psychiatric unit,
+(iv) if designated under the Mental Health Act, in a Provincial mental health facility, an observation unit or a psychiatric unit, or
 
-(v) in a housing based health facility that provides hospitality support services and personal health care, or
+(v) [Repealed 2026-12-6.]
 
 (vi) that is made available in the course of providing rehabilitative or therapeutic treatment or services,
 
@@ -541,7 +551,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (3) Within 21 days after a landlord and tenant enter into a tenancy agreement, the landlord must give the tenant a copy of the agreement.
 
 
-## Changes to tenancy agreement
+## Amendments to tenancy agreement
 
 
 **14(1)** A tenancy agreement may not be amended to change or remove a standard term.
@@ -854,7 +864,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (2) A tenant must maintain reasonable health, cleanliness and sanitary standards throughout the rental unit and the other residential property to which the tenant has access.
 
-  (3) A tenant of a rental unit must repair damage to the rental unit or common areas that is caused by the actions or neglect of the tenant or a person permitted on the residential property by the tenant.
+  (3) A tenant of a rental unit must repair damage to the rental unit or common areas that is caused by the actions or neglect of the tenant or a person permitted on the residential property by the tenant or by an occupant of the tenant's rental unit.
 
   (4) A tenant is not required to make repairs for reasonable wear and tear.
 
@@ -910,7 +920,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) the amounts represent more than a reasonable cost for the repairs;
 
-  - (d) the emergency repairs are for damage caused primarily by the actions or neglect of the tenant or a person permitted on the residential property by the tenant.
+  - (d) the emergency repairs are for damage caused primarily by the actions or neglect of the tenant or a person permitted on the residential property by the tenant or by an occupant of the tenant's rental unit.
 
   (7) If a landlord does not reimburse a tenant as required under subsection (5), the tenant may deduct the amount from rent or otherwise recover the amount.
 
@@ -1230,9 +1240,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 (i) paragraph (c) of the definition of "hospital" in section 1 of the Hospital Act, or
 
-(ii) section 5 of that Act;
-
-"occupant" means an individual, other than a tenant, who occupies a rental unit.
+(ii) section 5 of that Act.
 
   (2) A tenant is eligible to end a fixed term tenancy under this section if a statement is made in accordance with section 45.2 [confirmation of eligibility] confirming one of the following:
 
@@ -1326,23 +1334,25 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) there are an unreasonable number of occupants in a rental unit;
 
-  - (d) the tenant or a person permitted on the residential property by the tenant has
+  - (d) the tenant or a person permitted on the residential property by the tenant, or by an occupant of the tenant's rental unit, has
 
-(i) significantly interfered with or unreasonably disturbed another occupant or the landlord of the residential property,
+(i) significantly interfered with or unreasonably disturbed an authorized person,
 
-(ii) seriously jeopardized the health or safety or a lawful right or interest of the landlord or another occupant, or
+(ii) seriously jeopardized the health or safety or a lawful right or interest of an authorized person, or
 
 (iii) put the landlord's property at significant risk;
 
-  - (e) the tenant or a person permitted on the residential property by the tenant has engaged in illegal activity that
+  - (e) the tenant or a person permitted on the residential property by the tenant, or by an occupant of the tenant's rental unit, has engaged in illegal activity that
 
 (i) has caused or is likely to cause damage to the landlord's property,
 
-(ii) has adversely affected or is likely to adversely affect the quiet enjoyment, security, safety or physical well-being of another occupant of the residential property, or
+(ii) has adversely affected or is likely to adversely affect the quiet enjoyment of another tenant or occupant of the residential property,
 
-(iii) has jeopardized or is likely to jeopardize a lawful right or interest of another occupant or the landlord;
+(iii) has adversely affected or is likely to adversely affect the security, safety or physical well-being of an authorized person, or
 
-  - (f) the tenant or a person permitted on the residential property by the tenant has caused extraordinary damage to a rental unit or residential property;
+(iv) has jeopardized or is likely to jeopardize a lawful right or interest of an authorized person;
+
+  - (f) the tenant or a person permitted on the residential property by the tenant, or by an occupant of the tenant's rental unit, has caused extraordinary damage to a rental unit or residential property;
 
   - (g) the tenant does not repair damage to the rental unit or other residential property, as required under section 32 (3) [obligations to repair and maintain], within a reasonable time;
 
@@ -1778,11 +1788,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (2) The director may make an order specifying an earlier date on which a tenancy ends and the effective date of the order of possession only if satisfied, in the case of a landlord's application,
 
-  - (a) any prescribed grounds apply or the tenant or a person permitted on the residential property by the tenant has done any of the following:
+  - (a) any prescribed grounds apply or the tenant or a person permitted on the residential property by the tenant, or by an occupant of the rental unit of the tenant, has done any of the following:
 
-(i) significantly interfered with or unreasonably disturbed another occupant or the landlord of the residential property;
+(i) significantly interfered with or unreasonably disturbed an authorized person;
 
-(ii) seriously jeopardized the health or safety or a lawful right or interest of the landlord or another occupant;
+(ii) seriously jeopardized the health or safety or a lawful right or interest of an authorized person;
 
 (iii) put the landlord's property at significant risk;
 
@@ -1790,13 +1800,15 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 (A) has caused or is likely to cause damage to the landlord's property,
 
-(B) has adversely affected or is likely to adversely affect the quiet enjoyment, security, safety or physical well-being of another occupant of the residential property, or
+(B) has adversely affected or is likely to adversely affect the quiet enjoyment of an authorized person,
 
-(C) has jeopardized or is likely to jeopardize a lawful right or interest of another occupant or the landlord;
+(B.1) has adversely affected or is likely to adversely affect the security, safety or physical well-being of an authorized person, or
+
+(C) has jeopardized or is likely to jeopardize a lawful right or interest of an authorized person;
 
 (v) caused extraordinary damage to the residential property, and
 
-  - (b) it would be unreasonable, or unfair to the landlord or other occupants of the residential property, to wait for a notice to end the tenancy under section 47 [landlord's notice: cause] to take effect.
+  - (b) it would be unreasonable, or unfair to the landlord, other tenants or other occupants of the residential property, to wait for a notice to end the tenancy under section 47 [landlord's notice: cause] to take effect.
 
   (3) If an order is made under this section, it is unnecessary for the landlord to give the tenant a notice to end the tenancy.
 
@@ -1837,10 +1849,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (4) If a landlord is entitled to claim compensation from an overholding tenant under subsection (3) and a new tenant brings proceedings against the landlord to enforce the new tenant's right to possess or occupy the rental unit that is occupied by the overholding tenant, the landlord may apply to add the overholding tenant as a party to the proceedings.
 
 
-## Not in force
+## Repealed
 
 
-**57.1-57.61** [Not in force.]
+**57.1-57.61** [Not in force. Repealed 2026-12-19.]
 
 
 ## Dispute resolution services
@@ -3111,10 +3123,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 **104.1** [Repealed 2023-47-105.]
 
 
-## Not in force
+## Repealed
 
 
-**104.2** [Not in force.]
+**104.2** [Not in force. Repealed 2026-12-19.]
 
 
 ## Transition — fixed term tenancy agreements

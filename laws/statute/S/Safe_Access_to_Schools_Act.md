@@ -220,7 +220,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Repeal of this Act
 
 
-**9** This Act is repealed on July 1, 2026 or on an earlier date prescribed by the Lieutenant Governor in Council.
+**9** This Act is repealed on July 1, 2028 or on an earlier date prescribed by the Lieutenant Governor in Council.
 
 
 ## Commencement
