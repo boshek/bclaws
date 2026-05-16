@@ -21,7 +21,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **2** Environmental Assessment Office
 - **3** Appointment of chief executive assessment officer
 - **4** Delegation by chief executive assessment officer
-- **5** Dispute resolution facilitators
+- **5** Repealed
 - **6** Requirement for environmental assessment certificate
 - **7** Required consent
 - **8** Effect on approvals under other enactments
@@ -35,6 +35,15 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **16** Recommendation whether to proceed with assessment
 - **17** Minister's decision whether to terminate or exempt a project
 - **18** Chief executive assessment officer's decision on type of assessment
+- **18.1** Indigenous nation may provide notice indicating interest
+- **18.2** Non-derogation
+- **18.3** No limitation respecting remedies
+- **18.4** Initiating and engaging in process of dispute resolution
+- **18.5** Parties to attempt to agree on terms respecting dispute resolution
+- **18.6** Report to be provided by dispute resolution facilitator
+- **18.7** Confidential information in report
+- **18.8** When pending decision under Act may be made
+- **18.9** Publication of information respecting dispute resolution
 - **19** Process planning by chief executive assessment officer
 - **20** Limit on discretion of chief executive assessment officer
 - **21** Technical advisory committee
@@ -94,7 +103,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **75** Confidentiality
 - **76** Review of Act
 - **77** Power to make regulations
-- **78** Transitional provisions
+- **78** Transition — former Act
+- **78.1** Transition — matters referred to dispute resolution facilitator
+- **78.2** Transition — notice given by United States tribe under section 14 (1)
+- **78.3** Transition — project description submitted to chief executive assessment officer under section 15 (1)
 - **79** Repealed
 - **80** Consequential Amendment
 - **81** Repeal
@@ -126,11 +138,19 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "compliance and enforcement officer" means an individual appointed under section 49 (1);
 
-"dispute resolution facilitator" means an individual appointed under section 5 (1);
+"dispute resolution facilitator" means an individual to whom a dispute is referred under section 18.5 (6);
 
 "environmental assessment certificate" means an environmental assessment certificate issued by the ministers under section 29 (4);
 
 "exemption order" means an order made under section 17 (1) (b);
+
+"issue resolution protocol" means a written protocol entered into as a result of the discussions described in section 18.1 (3) or (4);
+
+"leadership table" means a forum under which one or more senior representatives of the office and one or more representatives of a participating Indigenous nation may meet for the purposes of
+
+  - (a) discussing matters that are escalated to the leadership table by a technical table, and
+
+  - (b) attempting to achieve consensus respecting those matters;
 
 "ministers" means the minister and the responsible minister;
 
@@ -138,7 +158,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "office" means the Environmental Assessment Office continued under section 2;
 
-"participating Indigenous nation" means an Indigenous nation that provides notice to the chief executive assessment officer under section 14 (1) and has not, in relation to a project, been provided a notice by the chief executive assessment officer under section 14 (2);
+"participating Indigenous nation" means an Indigenous nation that
+
+  - (a) provides notice to the chief executive assessment officer under section 14 (1),
+
+  - (b) is not a United States tribe, and
+
+  - (c) has not, in relation to a project, been provided a notice by the chief executive assessment officer under section 14 (2);
 
 "process order" means an order made under section 19 (2);
 
@@ -160,7 +186,21 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) any activities related to the project that the chief executive assessment officer or the minister may designate;
 
-"termination order" means an order issued under section 17 (1) (a).
+"technical table" means a forum under which one or more representatives of the office and one or more representatives of a participating Indigenous nation may meet for the purposes of discussing and attempting to achieve consensus respecting matters of a technical nature;
+
+"termination order" means an order issued under section 17 (1) (a);
+
+"United States Federal Register" means the official daily journal of the government of the United States in which presidential documents, notices and the proposed and final rules of United States federal agencies are published;
+
+"United States list" means the most recent list published by the United States Secretary of the Interior in the United States Federal Register under section 104 of the Federally Recognized Indian Tribe List Act of 1994 (United States), as that list is updated from time to time;
+
+"United States tribe" means the following:
+
+  - (a) an entity set out in the United States list;
+
+  - (b) an entity that is a member or part of an entity identified as a "confederation" or "council" in the United States list;
+
+  - (c) a prescribed entity.
 
 
 ## Environmental Assessment Office
@@ -217,50 +257,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (2) A person to whom the chief executive assessment officer delegates powers and duties under subsection (1) may exercise the powers and must perform the duties in accordance with the written authority.
 
 
-## Dispute resolution facilitators
+## Repealed
 
 
-**5(1)** Subject to regulations made under subsection (4) (a), the minister, after considering a recommendation, if any, of an Indigenous nation, may appoint individuals to facilitate the resolution of disputes in relation to a matter referred to in subsection (2).
-
-  (2) A participating Indigenous nation or the chief executive assessment officer may refer one or more of the following matters to a dispute resolution facilitator:
-
-  - (a) a matter pending decision under section 14 (2), 17, 18, 19, 28 or 29;
-
-  - (b) the provision of a notice under section 14 (1);
-
-  - (c) any other prescribed matter.
-
-  (3) On completion of a facilitation, a dispute resolution facilitator must provide a report to the participants and to the applicable of the chief executive assessment officer or the minister.
-
-  (4) The Lieutenant Governor in Council may make regulations respecting the powers and duties of dispute resolution facilitators under this Act, including, without limitation, regulations respecting the following:
-
-  - (a) qualifications of individuals who may be appointed under subsection (1);
-
-  - (b) the powers and obligations of a dispute resolution facilitator to manage a referral made to the facilitator;
-
-  - (c) matters that a dispute resolution facilitator must consider before making a report;
-
-  - (d) referrals to a dispute resolution facilitator;
-
-  - (e) the time by which a dispute resolution facilitator must complete a facilitation and provide a report.
-
-  (5) If a matter pending decision is referred to a dispute resolution facilitator,
-
-  - (a) a decision on the matter may not be made under the applicable section until after the facilitator has provided a report, and
-
-  - (b) if the participating Indigenous nation requests that the chief executive assessment officer take part in the dispute resolution process, the chief executive assessment officer must take part in the process.
-
-  (6) Despite subsection (2), an Indigenous nation that has provided notice under section 14 (1) may refer to a dispute resolution facilitator a matter pending decision under section 14 (2).
-
-  (7) A report of a dispute resolution facilitator is not to be taken as guiding
-
-  - (a) the chief executive assessment officer or minister respecting a project not addressed in the report, or
-
-  - (b) a decision maker under another enactment.
-
-  (8) This section is not to be taken as limiting any right a participating Indigenous nation may have to seek a remedy from a court.
-
-  (9) For certainty, nothing in this section, nor anything done under this section, abrogates or derogates from the rights recognized and affirmed by section 35 of the Constitution Act, 1982.
+**5** [Repealed 2026-13-2.]
 
 
 ## Requirement for environmental assessment certificate
@@ -460,7 +460,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Participating Indigenous nations
 
 
-**14(1)** Within 80 days of the first day of publication of the initial project description, an Indigenous nation may provide notice to the chief executive assessment officer that the Indigenous nation intends to participate in the assessment of the project.
+**14(1)** Within 80 days of the first day of publication of the initial project description, an Indigenous nation may, subject to subsection (1.1), provide notice to the chief executive assessment officer that the Indigenous nation intends to participate in the assessment of the project.
+
+  (1.1) A United States tribe may not provide notice under subsection (1).
 
   (2) After giving an Indigenous nation that has provided notice under subsection (1) an opportunity to be heard, the chief executive assessment officer may provide notice to the Indigenous nation that the chief executive assessment officer has determined that there is no reasonable possibility the Indigenous nation or its rights recognized and affirmed by section 35 of the Constitution Act, 1982 will be adversely affected by the project.
 
@@ -579,6 +581,182 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   - (b) refer the project to the minister for a determination under section 24, with recommendations, including recommendations respecting whether the assessment should be conducted by an assessment body.
 
   (2) The chief executive assessment officer must publish a notice of a decision under subsection (1).
+
+
+## Indigenous nation may provide notice indicating interest
+
+
+**18.1(1)** Subject to subsection (2), an Indigenous nation may provide notice to the chief executive assessment officer indicating an interest in entering into a written issue resolution protocol with the chief executive assessment officer respecting the assessment of a reviewable project specified in the notice.
+
+  (2) A notice under subsection (1) may not be provided
+
+  - (a) if the assessment is in respect of an application for an amendment of an environmental assessment certificate, or
+
+  - (b) by a United States tribe.
+
+  (3) If an Indigenous nation provides notice under subsection (1) of this section on the same day that the Indigenous nation provides notice under section 14 (1) respecting the assessment of the applicable reviewable project, the chief executive assessment officer must enter into discussions with the Indigenous nation respecting the terms of an issue resolution protocol applicable to the assessment of that project.
+
+  (4) If an Indigenous nation provides notice under subsection (1) of this section on a day other than the day on which the Indigenous nation provides notice under section 14 (1) respecting the assessment of the applicable reviewable project, the chief executive assessment officer may, but is not required to, enter into discussions with the Indigenous nation respecting the terms of an issue resolution protocol applicable to the assessment of that project.
+
+  (5) Subject to subsection (6), an issue resolution protocol must, at a minimum, include terms respecting
+
+  - (a) the establishment of a technical table,
+
+  - (b) the establishment of a leadership table, and
+
+  - (c) a process for escalating matters of concern from the technical table to the leadership table.
+
+  (6) An issue resolution protocol must not include terms respecting section 17, 24 or 29 (4), (5), (6), (7) or (8).
+
+  (7) If the chief executive assessment officer and an Indigenous nation agree on the terms of an issue resolution protocol, the chief executive assessment officer must enter into the issue resolution protocol with the Indigenous nation.
+
+  (8) If the chief executive assessment officer decides not to enter into discussions under subsection (4), the chief executive assessment officer must provide written reasons to the Indigenous nation.
+
+
+## Non-derogation
+
+
+**18.2** For certainty, nothing in this Part or in Part 4.2, and nothing done under this Part or Part 4.2, abrogates or derogates from the rights recognized and affirmed by section 35 of the Constitution Act, 1982.
+
+
+## No limitation respecting remedies
+
+
+**18.3** Nothing in this Part or in Part 4.2 is to be taken as limiting any right a participating Indigenous nation may have to seek a remedy from a court.
+
+
+## Initiating and engaging in process of dispute resolution
+
+
+**18.4(1)** Subject to subsections (4) to (6), a participating Indigenous nation or the chief executive assessment officer may, by providing notice in accordance with subsection (3), indicate an interest in initiating a process of dispute resolution under this Part about any of the following matters as they relate to the assessment of a reviewable project:
+
+  - (a) a notice provided by an Indigenous nation under section 14 (1);
+
+  - (b) a pending decision of the chief executive assessment officer respecting the provision of a notice under section 14 (2);
+
+  - (c) a pending decision of the chief executive assessment officer respecting the choice to be made under section 16 (2);
+
+  - (d) a pending decision of the chief executive assessment officer respecting the issuance of a process order under section 19 (2).
+
+  (2) For the purposes of the resolution of disputes under this Part,
+
+  - (a) the parties to a dispute respecting the matter described in subsection (1) (a) are
+
+(i) the participating Indigenous nation that provided the notice under section 14 (1), and
+
+(ii) the participating Indigenous nation that indicates an interest in initiating a process of dispute resolution respecting that notice, and
+
+  - (b) the parties to a dispute respecting a matter described in subsection (1) (b), (c) or (d) are
+
+(i) the participating Indigenous nation that indicates an interest in initiating a process of dispute resolution respecting the matter, and
+
+(ii) the chief executive assessment officer.
+
+  (3) In order to indicate an interest in initiating a process of dispute resolution under this Part, the party that wishes to indicate that interest must provide written notice to the other party, which notice must specify at least the following:
+
+  - (a) the name of the reviewable project;
+
+  - (b) the applicable matter under subsection (1) (a) to (d);
+
+  - (c) the substance of the dispute.
+
+  (4) A process of dispute resolution may not be initiated if
+
+  - (a) the substance of the dispute does not relate to the reviewable project specified in the notice under subsection (3),
+
+  - (b) the matter specified in the notice under subsection (3) was previously the subject of a process of dispute resolution between the same parties, or
+
+  - (c) the substance of the dispute was not brought to the attention of the chief executive assessment officer by the participating Indigenous nation during attempts by the chief executive assessment officer to achieve consensus with the participating Indigenous nation respecting the matter.
+
+  (5) A process of dispute resolution may not be initiated respecting a pending decision described in subsection (1) (c) if
+
+  - (a) the chief executive assessment officer intends to take the action described in section 16 (2) (a), or
+
+  - (b) the pending decision was changed as the result of a previous process of dispute resolution initiated by any participating Indigenous nation.
+
+  (6) A process of dispute resolution may not be initiated respecting a pending decision described in subsection (1) (d) if the pending decision was changed as the result of a previous process of dispute resolution initiated by any participating Indigenous nation.
+
+  (7) If the chief executive assessment officer is not a party to a dispute, the participating Indigenous nation that provided the notice under subsection (3) must provide a copy of the notice to the chief executive assessment officer as soon as practicable.
+
+  (8) For certainty, the provisions of this Part apply whether or not an Indigenous nation and the chief executive assessment officer have agreed on the terms of an issue resolution protocol.
+
+
+## Parties to attempt to agree on terms respecting dispute resolution
+
+
+**18.5(1)** The parties to a dispute in respect of which notice is provided under section 18.4 (3) must, as soon as practicable, attempt to agree on terms respecting the resolution of the dispute, including, at a minimum, terms respecting
+
+  - (a) the substance of the dispute,
+
+  - (b) who may participate in the resolution of the dispute, and
+
+  - (c) the individual who will serve as the dispute resolution facilitator.
+
+  (2) Subject to subsection (3), the chief executive assessment officer may discontinue attempts to agree on terms respecting the resolution of a dispute.
+
+  (3) Before making a decision to discontinue attempts to agree on terms respecting the resolution of a dispute, the chief executive assessment officer must consider
+
+  - (a) any applicable policies that have been developed by the chief executive assessment officer in consultation and cooperation with Indigenous nations, and
+
+  - (b) the views of the participating Indigenous nation
+
+(i) as set out in the participating Indigenous nation's notice under section 18.4 (3), and
+
+(ii) if applicable, as presented to the chief executive assessment officer during the parties' attempts to reach agreement.
+
+  (4) If the chief executive assessment officer decides to discontinue attempts to agree on terms respecting the resolution of a dispute, the chief executive assessment officer must provide written reasons to the other party, which reasons must include a description of the matters described in subsection (3).
+
+  (5) If the parties to a dispute agree on terms respecting the resolution of the dispute, and if the chief executive assessment officer is not a party to the dispute, the parties must, as soon as practicable, notify the chief executive assessment officer in writing that agreement has been reached.
+
+  (6) If the parties to a dispute agree on terms respecting the resolution of the dispute, the chief executive assessment officer must refer the dispute to the individual who is to serve as the dispute resolution facilitator.
+
+  (7) If the parties to a dispute do not agree on terms respecting the resolution of the dispute, there is to be no dispute resolution process respecting that dispute.
+
+
+## Report to be provided by dispute resolution facilitator
+
+
+**18.6(1)** On completion of a dispute resolution process, the dispute resolution facilitator must provide a written report to
+
+  - (a) the parties to the dispute, and
+
+  - (b) if the chief executive assessment officer is not a party to the dispute, the chief executive assessment officer.
+
+  (2) The chief executive assessment officer must, upon receiving a report under subsection (1), provide a copy of the report to
+
+  - (a) the proponent of the reviewable project to which the report relates, and
+
+  - (b) each participating Indigenous nation that, in respect of the reviewable project, is not a party to the dispute.
+
+  (3) A report of a dispute resolution facilitator is not to be taken as guiding
+
+  - (a) the chief executive assessment officer or minister respecting a project not addressed in the report, or
+
+  - (b) a decision maker under another enactment.
+
+
+## Confidential information in report
+
+
+**18.7** A participating Indigenous nation to whom a report is provided under section 18.6 must, before the report is published by the chief executive assessment officer under section 18.9 (c), be given a reasonable opportunity to inform the chief executive assessment officer of any information in the report that the participating Indigenous nation considers to be confidential.
+
+
+## When pending decision under Act may be made
+
+
+**18.8** If the parties to a dispute have agreed on terms respecting the resolution of the dispute, the chief executive assessment officer may not make the pending decision described in section 18.4 (1) (b), (c) or (d), as applicable, until after the dispute resolution facilitator has complied with section 18.6 (1).
+
+
+## Publication of information respecting dispute resolution
+
+
+**18.9** The chief executive assessment officer must publish the following on a publicly accessible website maintained by or on behalf of the minister:
+
+  - (a) reasons provided by the chief executive assessment officer under section 18.5 (4);
+
+  - (b) a description of each dispute referred to a dispute resolution facilitator under section 18.5 (6);
+
+  - (c) subject to sections 18.7 and 75, reports provided to the chief executive assessment officer under section 18.6 (1).
 
 
 ## Process planning by chief executive assessment officer
@@ -1204,7 +1382,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **48(1)** The chief executive assessment officer may establish a tariff of costs to be paid by proponents to participating Indigenous nations to defray the nations' following costs:
 
-  - (a) costs of participating in an assessment, including participating in proceedings under section 5;
+  - (a) costs of participating in an assessment, including participating in the resolution of disputes under Part 4.2;
 
   - (b) costs of assisting with inspections under section 49.
 
@@ -1638,7 +1816,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Confidentiality
 
 
-**75(1)** Any Indigenous knowledge of an Indigenous nation that is provided in confidence to the minister, the ministers, the chief executive assessment officer or a dispute resolution officer under this Act is confidential and must not knowingly be, or be permitted to be, disclosed without written consent.
+**75(1)** Any Indigenous knowledge of an Indigenous nation that is provided in confidence to the minister, the ministers, the chief executive assessment officer or a dispute resolution facilitator under this Act is confidential and must not knowingly be, or be permitted to be, disclosed without written consent.
 
   (2) Despite subsection (1), the Indigenous knowledge referred to in that subsection may be disclosed
 
@@ -1676,6 +1854,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) respecting any matter for which regulations are contemplated by this Act;
 
+  - (a.1) prescribing entities for the purposes of the definition of "United States tribe";
+
+  - (a.2) respecting the powers and duties of dispute resolution facilitators under Part 4.2;
+
   - (b) respecting fees and charges for the purposes of section 47 and other fees and charges to be paid in respect of any matter in relation to which a service is provided or a duty is performed under this Act, and prescribing by whom the fees and charges are to be paid;
 
   - (c) respecting the suspension or termination of a service being provided or a duty being performed under this Act on non-payment of fees or charges or of costs under section 48;
@@ -1707,7 +1889,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   - (c) provide differently for different categories of proponents and reviewable projects.
 
 
-## Transitional provisions
+## Transition — former Act
 
 
 **78(1)** In this section, "former Act" means the Environmental Assessment Act, S.B.C. 2002, c. 43, as it read on the day immediately before the date this section comes into force.
@@ -1747,6 +1929,46 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (12) An energy operation certificate or energy project certificate under the Utilities Commission Act, S.B.C. 1980, c. 60, an order issued under section 19 (1) of that Act, a mine development certificate or mine operation certificate under the Mine Development Assessment Act, S.B.C. 1990, c. 55, or an approval given as part of the major project review process, if the certificate, order or approval is in effect immediately before the coming into force of this subsection, remains in effect, despite its term or expiry date, for the life of the project in respect of which it was issued, unless it is suspended or cancelled under this Act.
 
   (13) During the 6-month period beginning on the date this subsection comes into force, the chief executive assessment officer, with respect to a certificate that remains in effect under subsection (3), may remove or amend, by order, any condition that requires the holder of the certificate, for the life of the certificate, to seek the written consent of the minister before materially altering the project that is the subject of the certificate.
+
+
+## Transition — matters referred to dispute resolution facilitator
+
+
+**78.1(1)** The Act, as it read immediately before the date on which this section comes into force, applies in respect of matters referred to a dispute resolution facilitator under section 5 prior to the repeal of that section.
+
+  (2) Regulations made under the Act, as those regulations read immediately before the date on which this section comes into force, apply in respect of the matters described in subsection (1).
+
+  (3) Despite subsections (1) and (2), if a matter was referred to a dispute resolution facilitator by a United States tribe under section 5 prior to the repeal of that section, the referral is of no force or effect and any facilitation being carried out under that section is terminated.
+
+
+## Transition — notice given by United States tribe under section 14 (1)
+
+
+**78.2(1)** A notice given by a United States tribe under section 14 (1) on or before the date on which this section comes into force is of no force or effect.
+
+  (2) For certainty, a United States tribe referred to in subsection (1) of this section is not a participating Indigenous nation.
+
+
+## Transition — project description submitted to chief executive assessment officer under section 15 (1)
+
+
+**78.3(1)** In this section, "standard protocol" means a policy document that
+
+  - (a) is developed by the chief executive assessment officer in consultation and cooperation with Indigenous nations, and
+
+  - (b) sets out requirements, processes and other matters respecting the manner in which the chief executive assessment officer and participating Indigenous nations may attempt to resolve matters that arise during the assessment of reviewable projects, including but not limited to
+
+(i) the establishment of a technical table,
+
+(ii) the establishment of a leadership table, and
+
+(iii) a process for escalating matters of concern from a technical table to a leadership table.
+
+  (2) If, before the date on which this section comes into force, a project description was submitted to the chief executive assessment officer under section 15 (1) in respect of a reviewable project,
+
+  - (a) Part 4.1 does not apply in respect of the assessment of that project, and
+
+  - (b) the standard protocol applies in respect of that assessment.
 
 
 ## Repealed

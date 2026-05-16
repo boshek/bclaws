@@ -136,7 +136,7 @@ but does not include any money provided to the administrator under the administr
 
   - (a) that notice is withdrawn under section 36 (a) or 73 (4) (a) (ii) of that Act, or
 
-  - (b) in the case of notice of intent to commence proceedings, the 30 day period referred to in section 73 (4) (a) of that Act expires and no proceedings are commenced under section 3 of that Act in relation to the money or property.
+  - (b) in the case of notice of intent to commence proceedings, the 60 day period referred to in section 73 (4) (a) of that Act expires and no proceedings are commenced under section 3 of that Act in relation to the money or property.
 
   (2) This Act does not apply to money or property held by a treaty first nation or the Nisg̱a'a Nation.
 

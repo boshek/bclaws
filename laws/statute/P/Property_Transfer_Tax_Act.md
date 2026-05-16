@@ -125,7 +125,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "assessment" includes reassessment;
 
+"assessment roll" has the same meaning as in section 1 (1) of the Assessment Act;
+
 "child" includes a person who is the stepchild of a parent;
+
+"classified" means classified under the Assessment Act on an assessment roll;
 
 "designate" means a person in a class designated under section 13.1 (1);
 
@@ -571,13 +575,21 @@ but does not include a transaction that may reasonably be considered to have bee
 
 "residential property" means any of the following:
 
-  - (a) land or improvements, or both, as defined in section 1 (1) of the Assessment Act, that are described as class 1 property in section 1 of the Prescribed Classes of Property Regulation, B.C. Reg. 438/81, but does not include prescribed land or improvements;
+  - (a) land or improvements, or both, as those terms are defined in section 1 (1) of the Assessment Act, that are classified as property in the class 1 property class, other than prescribed land or improvements;
+
+  - (a.1) land or improvements, or both, as those terms are defined in section 1 (1) of the Assessment Act, that
+
+(i) have not been classified, and
+
+(ii) are described as class 1 property in section 1 of the Prescribed Classes of Property Regulation, B.C. Reg. 438/81,
+
+  - other than prescribed land or improvements;
 
   - (b) an area of land, not including improvements, that
 
 (i) is not larger than 0.5 ha in area, and
 
-(ii) is classified as a farm under the Assessment Act only because the land is used for
+(ii) is classified as property in the class 9 property class only because the land is used for
 
 (A) an owner's dwelling as defined in section 23 (0.1) of the Assessment Act, or
 
@@ -661,7 +673,7 @@ but does not include a transaction that may reasonably be considered to have bee
 ## Additional tax imposed — calculation of tax if transaction includes non-residential property
 
 
-**2.03** If the subject matter of a taxable transaction to which section 2.02 (3) applies includes land that is not residential property, the taxable amount for the purposes of section 2.02 (4) is the taxable amount calculated as follows:
+**2.03** Subject to the regulations, if the subject matter of a taxable transaction to which section 2.02 (3) applies includes land that is not residential property, the taxable amount for the purposes of section 2.02 (4) is the taxable amount calculated as follows:
 
 
 ## Renumbered
@@ -791,7 +803,7 @@ but does not include a transaction that may reasonably be considered to have bee
 
 **3.01(1)** In this section:
 
-"residential property" means "residential property" as defined in section 2.01 except that, in applying that definition for the purposes of this section, paragraph (a) of the definition is to be read as if the words "but does not include prescribed land or improvements" were excluded;
+"residential property" means "residential property" as defined in section 2.01 except that, in applying that definition for the purposes of this section, paragraphs (a) and (a.1) of the definition are to be read as if the words "other than prescribed land or improvements" were excluded;
 
 "residential property value", in relation to a residential property, means the value of the residential property as described or determined under subsection (3).
 
@@ -801,7 +813,7 @@ but does not include a transaction that may reasonably be considered to have bee
 
   - (b) the residential property value exceeds $3 000 000.
 
-  (3) For the purposes of this section, the value of a residential property is,
+  (3) Subject to the regulations, for the purposes of this section, the value of a residential property is,
 
   - (a) if the subject matter of the taxable transaction includes only residential property, the taxable transaction's fair market value, or
 
@@ -1071,7 +1083,7 @@ but does not include a transaction that may reasonably be considered to have bee
 
   - (b) the improvement is designed or constructed for the purpose of providing rental accommodation;
 
-  - (c) the improvement is residential property because it is described as class 1 property in section 1 of the Prescribed Classes of Property Regulation, B.C. Reg. 438/81;
+  - (c) the improvement is described as class 1 property in section 1 of the Prescribed Classes of Property Regulation, B.C. Reg. 438/81;
 
   - (d) the improvement does not consist of strata lots;
 
@@ -1089,11 +1101,17 @@ but does not include a transaction that may reasonably be considered to have bee
 
 **10.2(1)** Subject to subsection (2) and sections 10.3 to 10.6, a transferee who, in the period beginning on January 1, 2025 and ending on December 31, 2030, applies for registration, at a land title office, of an eligible transaction in respect of a qualifying property is exempt from the obligation to pay tax on the transaction in accordance with section 3 (1) if
 
-  - (a) the residential improvement on the qualifying property
+  - (a) the residential improvement on the qualifying property was constructed or placed on the property and, on the registration date, either of the following applies:
 
-(i) was constructed or placed on the property, and
+(i) the residential improvement has not been used as a dwelling since the construction of the residential improvement began or since the residential improvement was placed on the property, as the case may be;
 
-(ii) on the registration date, has not been used as a dwelling since the construction of the residential improvement began or since the residential improvement was placed on the property, as the case may be,
+(ii) since the construction of the residential improvement began or since the residential improvement was placed on the qualifying property, as the case may be,
+
+(A) one or more apartments in the residential improvement have been rented on a monthly or longer-term basis,
+
+(B) the residential improvement has not been used as a dwelling other than by a tenant of an apartment rented on a monthly or longer-term basis, and
+
+(C) not more than 24 months have elapsed since the date that the term of the first monthly or longer-term rental of an apartment in the residential improvement began,
 
   - (b) the application is the first application for registration in respect of the qualifying property since the residential improvement was completed or since the residential improvement was placed on the property, as the case may be, and
 
@@ -1175,7 +1193,7 @@ but does not include a transaction that may reasonably be considered to have bee
 
   - (a) an apartment contained in the residential improvement ceases to be rented or offered for rent only on a monthly or longer-term basis;
 
-  - (b) an improvement that was, on the registration date, the residential improvement ceases to be classified, in whole or in part, under section 19 of the Assessment Act as property used for residential purposes;
+  - (b) an improvement that was, on the registration date, the residential improvement ceases to be classified, in whole or in part, as property used for residential purposes;
 
   - (c) an improvement that was, on the registration date, the residential improvement ceases to contain at least 4 apartments;
 
@@ -1795,7 +1813,7 @@ but does not include a transaction that may reasonably be considered to have bee
 
   - (f) a sibling of a parent of the person's spouse;
 
-"farm land" means land classified under the Assessment Act as farm land;
+"farm land" means land classified as farm land;
 
 "principal residence" means a parcel of land
 
@@ -1803,7 +1821,7 @@ but does not include a transaction that may reasonably be considered to have bee
 
   - (b) on which there are improvements that are designed to accommodate and that are used only to accommodate 3 or fewer families,
 
-  - (c) on which all the improvements are classified under section 19 of the Assessment Act as property used for residential purposes, and
+  - (c) on which all the improvements are classified as property used for residential purposes, and
 
   - (d) that is not larger than 0.5 ha in area;
 
@@ -1815,7 +1833,7 @@ but does not include a transaction that may reasonably be considered to have bee
 
 (ii) if an exemption is claimed under subsection (3) (c) or (d) or subsection (4) (p.21) (iii) (B), the settlor or the deceased usually resided on a seasonal basis for recreational purposes,
 
-  - (b) that has been classified as residential land under the Assessment Act,
+  - (b) that has been classified as residential land,
 
   - (c) that is not larger than 5 ha in area, and
 
@@ -2189,9 +2207,9 @@ but does not include a transaction that may reasonably be considered to have bee
 
   - (b) the parcel involved in the taxable transaction is larger than 0.5 ha in area;
 
-"non-residential improvements" means improvements that are not classified under section 19 of the Assessment Act as property used for residential purposes;
+"non-residential improvements" means improvements that are not classified as property used for residential purposes;
 
-"residential improvements" means improvements that are classified under section 19 of the Assessment Act as property used for residential purposes;
+"residential improvements" means improvements that are classified as property used for residential purposes;
 
 "residential property value" means residential property value as determined under section 3.01 (3).
 
@@ -2387,7 +2405,7 @@ but does not include a transaction that may reasonably be considered to have bee
 
   - (c) a refusal by the administrator to grant an application under section 12.11, 12.12, 16 (7) or 20;
 
-  - (d) the imposition of a penalty under section 12 or 34.2.
+  - (d) the imposition of a penalty under section 12, 34.2 or 34.3.
 
   (3) The notice of appeal must contain the reasons for the appeal and must state all relevant facts, including an estimate of the fair market value if the person appealing considers that estimate to be relevant to the appeal.
 
@@ -3081,9 +3099,7 @@ and, for the purposes of subsections (2) and (3), "official" includes a designat
 ## Limitation
 
 
-**35(1)** Subject to subsection (2), an information or complaint in respect of an offence against this Act must be laid or made within one year of the time when the matter of the information or complaint arose.
-
-  (2) An information or complaint in respect of an offence in relation to the tax imposed under section 2.02 must be laid or made within 6 years after the date that the matter of the information or complaint arose.
+**35** An information or complaint in respect of an offence against this Act must be laid or made within 6 years after the date that the matter of the information or complaint arose.
 
 
 ## Administrator's certificate
@@ -3111,7 +3127,9 @@ and, for the purposes of subsections (2) and (3), "official" includes a designat
 
   - (f) providing for the method of calculating and ascertaining fair market value for the purposes of the definition of "fair market value";
 
-  - (f.1) providing for the method of determining the value of residential property for the purposes of the description of "VRP" in section 3.01 (3) (b);
+  - (f.1) providing for alternative methods of determining the taxable amount of a taxable transaction to which section 2.02 (3) applies for the purposes of section 2.03;
+
+  - (f.2) providing for alternative methods of determining the value of a residential property for the purposes of section 3.01 (3);
 
   - (g) providing for the method of calculating and ascertaining fair market value for the purposes of section 15;
 

@@ -1174,7 +1174,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) that notice is withdrawn under section 36 (a) or 73 (4) (a) (ii) of that Act, or
 
-  - (b) in the case of notice of intent to commence proceedings, the 30 day period referred to in section 73 (4) (a) of that Act expires and no proceedings are commenced under section 3 of that Act in relation to the thing seized.
+  - (b) in the case of notice of intent to commence proceedings, the 60 day period referred to in section 73 (4) (a) of that Act expires and no proceedings are commenced under section 3 of that Act in relation to the thing seized.
 
   (2) An application under this section may be made as follows:
 

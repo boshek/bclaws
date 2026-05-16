@@ -19,7 +19,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 - **1** Interpretation
 - **2** Application to public sector pension plans
-- **3** Application to plans for connected persons
+- **3** Application to plans for specified individuals
 - **3.1** Definition
 - **4** Appointment and duties of Superintendent of Pensions
 - **5** Superintendent's authority to extend time limits
@@ -536,10 +536,10 @@ and "terminate active membership" has a corresponding meaning;
   - (b) if there is a conflict between this Act, or a regulation made under this Act, and another enactment establishing or referring to a public sector pension plan, this Act, or the regulation made under this Act, prevails.
 
 
-## Application to plans for connected persons
+## Application to plans for specified individuals
 
 
-**3** Except as provided in the regulations, this Act and the regulations do not apply in respect of a pension plan if all of the members of the plan are connected with the participating employer within the meaning of section 8500 (3) of the Income Tax Regulations (Canada).
+**3** Except as provided for in the regulations, this Act and the regulations do not apply in respect of a pension plan if all of the members of the plan are specified individuals within the meaning of section 8515 (4) (a) or (b), or both, of the Income Tax Regulations (Canada).
 
 
 ## Definition
@@ -1702,6 +1702,12 @@ and "terminate active membership" has a corresponding meaning;
   - (c) was signed by the spouse, not more than 90 days before the member makes the election, in the presence of a witness and outside the presence of the member.
 
   (6) In the event of a conflict between this section and section 145 of the Family Law Act, section 145 of the Family Law Act applies.
+
+  (7) If the plan text document of a pension plan contains a target benefit provision and a person who is entitled to receive a benefit under subsection (1) or (3) elects to receive the benefit, the person is entitled to the product of
+
+  - (a) the commuted value of that benefit, and
+
+  - (b) the target benefit funded ratio, as calculated in accordance with the regulations, that is set out in the actuarial valuation report that has most recently been filed in relation to the plan.
 
 
 ## No disposition or attachment of benefits and money
@@ -3099,7 +3105,7 @@ and includes amendments to that Act and subordinate legislation;
 
   (2) Without limiting subsection (1), the Lieutenant Governor in Council may make regulations as follows:
 
-  - (a) applying all or any portion of this Act and the regulations to pension plans of which all of the members are connected with the participating employer within the meaning of section 8500 (3) of the Income Tax Regulations (Canada);
+  - (a) applying all or any portion of this Act and the regulations to pension plans of which all of the members are specified individuals within the meaning of section 8515 (4) (a) or (b), or both, of the Income Tax Regulations (Canada);
 
   - (b) respecting fees, including, without limitation,
 

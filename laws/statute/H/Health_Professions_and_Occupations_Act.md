@@ -575,13 +575,89 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **1** In this Act:
 
+"accreditation standards" means accreditation standards as defined in section 7 (2) [types of standards];
+
+"actionable conduct" has the meaning given to it in section 11 (1) [misconduct and actionable conduct];
+
+"administrative matter" means a matter referred to in section 107 [what are administrative matters];
+
 "anti-discrimination measures" means measures taken, including implementing processes, for the purposes of conducting regulatory processes or providing health services in a manner that is consistent with one or more of the objectives referred to in section 15 [anti-discrimination measures];
+
+"aspect of practice" means an activity, other than a restricted activity, that
+
+  - (a) is part of providing a health service that is within the scope of practice of a designated health profession, and
+
+  - (b) requires professional knowledge, skills, ability and judgment;
+
+"assessment", in the context of an assessment by a regulated health practitioner of a patient or of a respondent undergoing a capacity evaluation, means to apply a clinical judgment for the purposes of evaluating the patient's or respondent's physical or mental condition to determine the following:
+
+  - (a) in the case of a patient, whether the condition can be improved or resolved by the provision of health services that the regulated health practitioner is authorized to provide;
+
+  - (b) in the case of a respondent, the matters referred to in section 141 (1) (b) [assessments and reports];
+
+"authorization", in the context of a designated health occupation, means an authorization, in the form of a permit, letter or other type of written record, to practise the designated health occupation, issued or renewed by the health occupation director of the applicable regulatory program;
 
 "board" means a board of a regulatory college;
 
+"bylaw" means a bylaw of a regulatory college, made by the board;
+
+"capacity", except in section 343 (3) [corporate matters], means capacity to be fit to practise a designated health profession, as described in section 39 (3) [fit to practise];
+
+"capacity evaluation" means an evaluation of a respondent's capacity, conducted as part of an investigation and further to an order made under section 140 [initiating capacity evaluation];
+
+"capacity officer" means a person retained or employed under section 363 [officers] to exercise the powers and perform the duties of a capacity officer;
+
+"capacity record" has the meaning given to it in section 390 [disciplinary and capacity records];
+
+"capacity summary" means the summary described in section 390 (2) (b);
+
+"citation" means a citation for a discipline hearing, issued by the director of discipline;
+
+"competence" means competence to be fit to practise a designated health profession, as described in section 39 (2);
+
+"competence assessment" means an assessment of a respondent's competence, conducted as part of an investigation and further to an order made under section 132 [competence assessments];
+
 "conflict of interest" includes actual, potential and perceived conflicts of interest;
 
+"continuing practice order" means an order made under section 146 [continuing practice order];
+
+"continuing professional development" means an activity or program undertaken for the purpose of ensuring that professional knowledge, skills and abilities remain current;
+
+"corporation" has the same meaning as in the Business Corporations Act;
+
+"credential" means a certificate or other record that is evidence of the holder's education, training, experience or other qualifications;
+
+"criminal record check" has the same meaning as "criminal record check" or "criminal record check verification", as applicable in the context, in the Criminal Records Review Act;
+
+"criminal record check authorization" has the same meaning as in the Criminal Records Review Act;
+
+"designated health occupation" means a health occupation that is designated under Part 2 [Designation and Model of Regulation] as a designated health occupation;
+
+"designated health profession" means a health profession that is designated under Part 2 as a designated health profession;
+
+"designated profession or occupation" means a designated health profession or designated health occupation;
+
+"designation assessment" means an assessment conducted under Division 1 [Designation] of Part 2;
+
+"designation regulation" means a regulation of the minister that designates a health profession or health occupation as a designated profession or occupation;
+
+"diagnose" means to identify a disease, disorder or condition as the cause of the signs expressed or symptoms exhibited by an individual;
+
 "director of discipline" means the person appointed under section 444 [director of discipline] as the person responsible for the management of the discipline tribunal;
+
+"disciplinary order" means the following:
+
+  - (a) an order that
+
+(i) is or may be made against a respondent for the purpose of disposing of an administrative matter, regulatory complaint or citation, and
+
+(ii) is described in section 268 [restorative processes], 269 [orders not affecting practice authority], 270 [orders affecting practice authority] or 271 [monetary penalties and refunds];
+
+  - (b) an order made against a respondent by a discipline panel in the course of a discipline hearing;
+
+"disciplinary record" has the meaning given to it in section 390;
+
+"discipline hearing" means a hearing before a discipline panel of the discipline tribunal;
 
 "discipline panel" means a discipline panel appointed under section 169 [appointing discipline panels] to conduct a discipline hearing;
 
@@ -589,7 +665,41 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "discipline tribunal" means the discipline tribunal established under section 443 [establishment of discipline tribunal];
 
+"disclose" includes all of the following:
+
+  - (a) to give, under this Act, information or a record to a person;
+
+  - (b) to publish information, a record or a registry;
+
+  - (c) to include information in a registry, if the information will be publicly accessible;
+
 "discrimination" means discrimination as defined in section 9 [discrimination];
+
+"eligibility standards" means eligibility standards as defined in section 7 (2);
+
+"employee" means the following:
+
+  - (a) an employee, agent or volunteer;
+
+  - (b) a person acting under contract;
+
+  - (c) a person holding hospital privileges;
+
+"ethics standards" means ethics standards as defined in section 7 (2);
+
+"extrajurisdictional practitioner" means a person who is or was authorized to practise a health profession or health occupation in a jurisdiction other than British Columbia;
+
+"extrajurisdictional regulator" means a body that is responsible, under an enactment of a jurisdiction other than British Columbia, for governing the practice of a health profession or health occupation in that jurisdiction;
+
+"family member" means a spouse, child, parent, sibling or a person within a prescribed class of persons;
+
+"fit to practise" has the meaning given to it in section 39;
+
+"govern", in relation to a designated profession or occupation, includes
+
+  - (a) to regulate the designated profession or occupation, and
+
+  - (b) to superintend the practice of the designated profession or occupation;
 
 "governance activity" means an activity of a regulator with respect to the following:
 
@@ -600,6 +710,28 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 (i) the administration and operation of a regulatory college or regulatory program, or
 
 (ii) the governing of a designated profession or occupation;
+
+"health care facility" means a hospital, clinic, institution or other type of facility at or through which health services are provided;
+
+"health occupation" has the meaning given to it in section 6 (2) [health professions and occupations];
+
+"health occupation director" means a person responsible under this Act for administering one or more regulatory programs;
+
+"health profession" has the meaning given to it in section 6 (1);
+
+"health profession corporation" means a corporation that holds a health profession corporation permit;
+
+"health profession corporation permit" means a permit issued or renewed in accordance with Divisions 2 [Making Licence or Permit Applications] and 4 [Health Profession Corporation Permits], as applicable, of Part 3;
+
+"Health Professions Review Board" means the Health Professions Review Board continued under section 308 [Health Professions Review Board continued];
+
+"health service" means anything that is done to a patient for a therapeutic, preventive, palliative, assessment, diagnostic, cosmetic or other purpose related to health;
+
+"hospital" has the same meaning as "hospital" or "private hospital" in the Hospital Act;
+
+"hospital privileges" means a permit to practise a designated health profession in a hospital;
+
+"identity protection order" means an order made under section 239 [identity protection orders] to partially or fully protect a person's identity;
 
 "Indigenous governing body" has the same meaning as in the Declaration on the Rights of Indigenous Peoples Act;
 
@@ -613,7 +745,81 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) a combination of traditional and contemporary Indigenous practices;
 
+"information and production order" means an order described in section 257 [information and production orders];
+
+"investigation" means an investigation of the following, as applicable in the context:
+
+  - (a) whether a licensee is fit to practise or has committed an act of misconduct;
+
+  - (b) whether a regulated health service provider has committed an act of actionable conduct;
+
+  - (c) whether a person other than a regulated health practitioner has contravened this Act or the regulations, bylaws or rules;
+
+"investigation committee" means the committee established by a regulatory college for the purposes of directing the regulatory college's investigation program;
+
+"investigator" means a person retained or employed to exercise the powers and perform the duties of an investigator under
+
+  - (a) section 363, in the case of an investigation of a licensee, or
+
+  - (b) section 368 [investigators and others], in the case of an investigation of a regulated health service provider;
+
+"licence" means a licence issued or renewed in accordance with Divisions 2 and 3 [Licences], as applicable, of Part 3;
+
+"licence committee" means the committee established by a regulatory college for the purposes of directing the regulatory college's licence program;
+
+"licensee" means a person who holds a licence;
+
+"medical health officer" has the same meaning as in the Public Health Act;
+
+"misconduct" has the meaning given to it in section 11;
+
+"patient" means a person to whom health services are provided;
+
 "performance standards" means the performance standards referred to in section 456 [performance standards];
+
+"permit committee" means the committee established by a regulatory college for the purposes of directing the regulatory college's health profession corporation permit program;
+
+"personal information" has the same meaning as in the Freedom of Information and Protection of Privacy Act;
+
+"practice authority" means the following:
+
+  - (a) in the case of a licensee, the licensee's licence;
+
+  - (b) in the case of a regulated health service provider,
+
+(i) the regulated health service provider's registration or authorization, or both, if required under a designation regulation, or
+
+(ii) if registration or an authorization is not required, the regulated health service provider's authority, according to the requirements, limits and conditions set under a designation regulation, to practise a designated health occupation;
+
+"practice directive" means a rule of practice or procedure made by the director of discipline for the purposes of conducting discipline hearings;
+
+"practice standards" means practice standards as defined in section 7 (2);
+
+"provincial health officer" has the same meaning as in the Public Health Act;
+
+"quality assurance assessment" means an assessment of a licensee conducted for a purpose referred to in section 98 (1) [purposes of quality assurance program];
+
+"quality assurance assessor" means a person retained or employed under section 363 to exercise the powers and perform the duties of a quality assurance assessor;
+
+"quality assurance information" has the meaning given to it in section 102 (1) [protecting confidentiality];
+
+"quality assurance officer" means the following:
+
+  - (a) a quality assurance assessor;
+
+  - (b) another person within a class of persons who, under a bylaw, is authorized to obtain or disclose information with respect to a quality assurance program or a quality assurance assessment;
+
+"registrar" means a person appointed under section 359 (1) (a) [registrar and other persons] as the registrar of a regulatory college;
+
+"registry" means a registry of regulated health practitioners who practise a designated profession or occupation
+
+  - (a) established or continued under section 395 [keeping a registry] for a regulatory college, or
+
+  - (b) established as required under a designation regulation for a regulatory program;
+
+"regulated health practitioner" means a person who is a licensee or regulated health service provider;
+
+"regulated health service provider" means a person who is authorized in accordance with a designation regulation to practise a designated health occupation;
 
 "regulator" means the following, as applicable in the context:
 
@@ -622,6 +828,12 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   - (b) a health occupation director who is administering a regulatory program;
 
 "regulatory college" has the meaning given to it in section 342 [regulatory colleges];
+
+"regulatory complaint" means an allegation
+
+  - (a) that a licensee is not fit to practise or has committed an act of misconduct, made under section 119 [regulatory complaints by registrar] or 120 [regulatory complaints by others], or
+
+  - (b) that a regulated health service provider has committed an act of actionable conduct, made under section 222 [regulatory complaints by health occupation director] or 223 [regulatory complaints by others];
 
 "regulatory performance" means the extent to which a regulator is conducting governance activities in accordance with the performance standards and best practices referred to in section 456;
 
@@ -635,9 +847,83 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) a process conducted by the minister, superintendent, director of discipline or a discipline panel in the performance of duties or the exercise of powers under this Act;
 
+"regulatory program" means a program of regulation that applies under a designation regulation for the purposes of governing a designated health occupation;
+
+"regulatory report" means a report made under Division 6 [Duties to Report Licensees] of Part 3;
+
+"relevant offence" means an act that
+
+  - (a) is in the nature of sexual misconduct, sexual abuse or discrimination, or
+
+  - (b) includes violence, fraud, breach of trust or a prescribed type of conduct;
+
+"representative of the public", in relation to a regulator or a discipline panel, means a person
+
+  - (a) who, at the time of the person's appointment as a board member or discipline panel member,
+
+(i) did not exercise powers or perform duties for the regulator or the discipline tribunal, or
+
+(ii) was not an employee of, and did not otherwise provide services to, the regulator or the discipline tribunal, and
+
+  - (b) who does not practise the designated profession or occupation that is governed by the regulator or that is the subject of the hearing before the discipline panel;
+
+"respondent" means
+
+  - (a) a licensee who is the subject of an assessment under section 108 [assessment and action], or
+
+  - (b) a regulated health practitioner who is the subject of a regulatory complaint or an investigation began under section 124 [initiating investigation without regulatory complaint];
+
+"restricted activity" means an activity that
+
+  - (a) is performed in the course of providing a health service, and
+
+  - (b) is prescribed by the minister as a restricted activity;
+
+"revocation order" means an order made under section 147 [revocation order];
+
+"risk assessment" means a risk assessment as described in section 21 [risk assessment];
+
+"risk under the Criminal Records Review Act" means risk under the Criminal Records Review Act as defined in section 12 [risk under Criminal Records Review Act] of this Act;
+
+"rule", except in sections 335 (2) [limits on authorizations, modifications and waivers] and 533 [incorporation by reference authorized], means a rule for a regulatory program, made by a health occupation director;
+
+"sexual abuse" has the meaning given to it in section 8 (3) [sexual misconduct and sexual abuse];
+
+"sexual misconduct" has the meaning given to it in section 8 (1) and (2);
+
+"spouse" means a person who
+
+  - (a) is married to another person, or
+
+  - (b) has lived with another person in a marriage-like relationship and has done so for a continuous period of at least 2 years;
+
+"summary dismissal order" means an order described in section 258 [summary dismissal orders];
+
+"summary protection order" means an order described in section 259 [summary protection orders];
+
 "superintendent" means the person appointed under section 436 (2) [members of superintendent's office] as the superintendent;
 
-"superintendent's office" means the Office of the Superintendent of Health Profession and Occupation Oversight established under section 435 (1) [establishment of superintendent's office].
+"superintendent's office" means the Office of the Superintendent of Health Profession and Occupation Oversight established under section 435 (1) [establishment of superintendent's office];
+
+"support program" means a support program as defined in section 276 [definitions];
+
+"suspension order" means an order described in section 263 (1) [suspension and termination orders];
+
+"termination order" means an order described in section 263 (2);
+
+"title" includes
+
+  - (a) an abbreviation of a title, and
+
+  - (b) an equivalent, in another language, of a title or an abbreviation of a title;
+
+"vary" includes all of the following:
+
+  - (a) to vary the limits or conditions imposed on, or to change the class of, a licence, registration or authorization;
+
+  - (b) to vary the limits or conditions imposed on a health profession corporation permit;
+
+  - (c) to vary the limits or conditions imposed under an order.
 
 
 ## IfAdministrative Tribunals Actapplies

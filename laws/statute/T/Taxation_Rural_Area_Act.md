@@ -753,11 +753,11 @@ and, for the purposes of subsections (2) and (3), "official" includes a designat
 
 (i) one or more First Nations or a person who holds the shares in trust for the sole benefit of one or more First Nations;
 
-(ii) a corporation that is
+(ii) one or more corporations that are
 
-(A) an eligible corporation under subparagraph (i), or
+(A) eligible corporations under subparagraph (i), or
 
-(B) a wholly owned subsidiary of an eligible corporation referred to in clause (A);
+(B) wholly owned subsidiaries of eligible corporations referred to in clause (A);
 
 (iii) any combination of the persons referred to in subparagraphs (i) and (ii), and
 
@@ -765,7 +765,9 @@ and, for the purposes of subsections (2) and (3), "official" includes a designat
 
 (i) a partner in a partnership, unless every other partner in the partnership is a First Nation referred to in paragraph (a) (i) or an eligible corporation;
 
-(ii) a trustee of a trust, unless the trust is for the sole benefit of a First Nation referred to in paragraph (a) (i).
+(ii) a trustee of a trust, unless the trust is for the sole benefit of a First Nation or, in the case of more than one First Nation, all of the First Nations, referred to in paragraph (a) (i).
+
+  (7) If multiple corporations are eligible corporations under subsection (6) (a) (i) in relation to the same property, they are deemed to be a single eligible corporation for the purposes of subsection (6) (a) (ii) (B).
 
 
 ## Levy if land in more than one district

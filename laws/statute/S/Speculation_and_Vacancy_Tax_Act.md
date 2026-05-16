@@ -2810,7 +2810,9 @@ but does not include a transaction that may reasonably be considered to have bee
 
   - (a) in relation to an assessment made under any of the following provisions:
 
-(i) section 67 (1) (a) (i) [assessments — failure to file declaration], except in relation to the administrator's determination that a person is an owner for the purposes of the Act;
+(i) section 66 (1) (b) [examination of declaration and resulting assessment];
+
+(i.1) section 67 (1) (a) (i) [assessments — failure to file declaration], except in relation to the administrator's determination that a person is an owner for the purposes of the Act;
 
 (ii) section 71 [consequential reassessments after appeal];
 
