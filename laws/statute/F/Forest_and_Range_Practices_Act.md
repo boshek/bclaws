@@ -81,11 +81,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **20.2** Definitions for Part 2.1
 - **20.21** Compliance with forest operations plans
 - **20.22** Compliance with forest stewardship plans and woodlot licence plans
-- **20.23** Plans that apply to issued permits and licences
+- **20.23** Plans that apply to issued permits, licences and authorizations
 - **20.24** Exemption from requirement to amend operational plan
 - **20.25** Planning documents made available to the public
 - **20.26** Additional parties to plans
-- **20.27** Roads constructed by the minister for accessing timber sale licences
+- **20.27** Roads constructed by minister for accessing timber sale licences and contract logging authorizations
 - **21** Repealed
 - **21.1** Definitions for Division 2
 - **22** Restriction on use, construction, maintenance and deactivation of roads
@@ -811,9 +811,11 @@ and includes the eggs and juvenile stages of these vertebrates, invertebrates an
 
   - (a) invite applications for, or enter into, a timber sale licence that grants rights to harvest timber on the land;
 
-  - (b) issue to the holder of a timber sale licence a road permit to construct a road on the land;
+  - (b) issue to the holder of a timber sale licence or contract logging authorization a road permit to construct a road on the land;
 
-  - (c) construct a road on the land for access to an area to be harvested under a timber sale licence.
+  - (c) construct a road on the land for access to an area to be harvested under a timber sale licence or contract logging authorization;
+
+  - (d) issue a contract logging authorization.
 
   (4) The holder of an agreement is exempt from subsection (2) (c) and (d) if the holder harvests timber or constructs roads in an area of land that is subject to a cutting permit or road permit issued before
 
@@ -879,7 +881,11 @@ and includes the eggs and juvenile stages of these vertebrates, invertebrates an
 
   - (c) the location of each area that is subject to a timber sale licence;
 
-  - (d) the location of each existing road that has been constructed for access to an area that is subject to a timber sale licence.
+  - (d) the location of each existing road that has been constructed for access to an area that is subject to a timber sale licence or contract logging authorization;
+
+  - (e) the approximate location of each proposed area to be subject to contract logging authorizations that the timber sales manager intends to issue during the term of the forest operations plan;
+
+  - (f) the location of each area that is subject to a contract logging authorization.
 
   (4) For the purposes of complying with subsection (1) (b), a forest operations plan may incorporate by reference a requirement described in a planning guideline that applies to the forest operations plan.
 
@@ -975,7 +981,7 @@ and includes the eggs and juvenile stages of these vertebrates, invertebrates an
 ## Limited protection of certain roads and cutblocks
 
 
-**2.41(1)** A proposed forest operations plan or an amendment to a forest operations plan must be considered to have received the minister's approval under section 2.39 for the parts of the plan, if any, that relate to a cutting permit, road permit or timber sale licence that is in effect on the date on which the proposed forest operations plan is submitted for approval.
+**2.41(1)** A proposed forest operations plan or an amendment to a forest operations plan must be considered to have received the minister's approval under section 2.39 for the parts of the plan, if any, that relate to a cutting permit, road permit, timber sale licence or contract logging authorization that is in effect on the date on which the proposed forest operations plan is submitted for approval.
 
   (2) In prescribed circumstances, a forest operations plan or amendment must be considered to have received the minister's approval under section 2.39 for the parts of the plan that relate to prescribed matters or things.
 
@@ -1059,7 +1065,11 @@ and includes the eggs and juvenile stages of these vertebrates, invertebrates an
 
 **2.46(1)** On or before December 31 of each calendar year, the holder of a forest operations plan, other than a timber sales manager, must make publicly available, in accordance with the regulations, a forest development schedule that shows each location in the forest operations area where the holder intends to start harvesting timber or constructing roads in the next calendar year.
 
-  (2) On or before December 31 of each calendar year, a timber sales manager who holds a forest operations plan must publish on a ministry website a forest development schedule that shows each location in the forest operations area that will be included in timber sale licences for which the timber sales manager intends to invite applications in the next calendar year.
+  (2) On or before December 31 of each calendar year, a timber sales manager who holds a forest operations plan must publish on a ministry website a forest development schedule that shows each location in the forest operations area that will be included in either of the following:
+
+  - (a) a timber sale licence for which the timber sales manager intends to invite applications in the next calendar year;
+
+  - (b) a contract logging authorization that the timber sales manager intends to issue in the next calendar year.
 
   (3) A forest development schedule must be consistent with the forest operations plan to which the schedule relates.
 
@@ -1289,9 +1299,11 @@ and includes the eggs and juvenile stages of these vertebrates, invertebrates an
 
   - (a) invite applications for, or enter into, a timber sale licence that grants rights to harvest timber on the land;
 
-  - (b) issue to the holder of a timber sale licence a road permit to construct a road on the land;
+  - (a.1) issue a contract logging authorization;
 
-  - (c) construct a road on the land for access to an area to be harvested under a timber sale licence.
+  - (b) issue to the holder of a timber sale licence or contract logging authorization a road permit to construct a road on the land;
+
+  - (c) construct a road on the land for access to an area to be harvested under a timber sale licence or contract logging authorization.
 
   (3) [Repealed 2008-4-15.]
 
@@ -1611,17 +1623,21 @@ but does not include an objective referred to in section 13 (3).
 
 (i) shows the approximate locations of cutblocks that are to be harvested under timber sale licences for which the timber sales manager intends to invite applications during the operating period,
 
-(ii) shows the approximate locations of roads that the timber sales manager intends to construct during the operating period in order to access timber to be harvested under timber sale licences, and
+(ii) shows the approximate locations of areas that are to be subject to contract logging authorizations that the timber sales manager intends to issue during the operating period,
 
-(iii) conforms to prescribed requirements;
+(iii) shows the approximate locations of roads that the timber sales manager intends to construct during the operating period in order to access timber to be harvested under timber sale licences or contract logging authorizations, and
+
+(iv) conforms to prescribed requirements;
 
   - (b) make the forest operations map publicly available, in accordance with the regulations, for review and comment.
 
   (3) Nothing in this section is intended to limit the authority of a timber sales manager
 
-  - (a) to invite applications for or issue a timber sale licence, or
+  - (a) to invite applications for or issue a timber sale licence,
 
-  - (b) to construct a road.
+  - (b) to issue a contract logging authorization, or
+
+  - (c) to construct a road.
 
 
 ## Exemption from requirement to publish a forest operations map
@@ -1794,7 +1810,7 @@ but does not include an objective referred to in section 13 (3).
   (5) For the purposes of an obligation that continues under subsection (2), a result, strategy or other provision referred to in subsection (1) may be amended as if the forest stewardship plan or woodlot licence plan had not expired.
 
 
-## Plans that apply to issued permits and licences
+## Plans that apply to issued permits, licences and authorizations
 
 
 **20.23(1)** If a forest operations plan, forest stewardship plan or woodlot licence plan applies to a portion of the permit area of a cutting permit or road permit on the following date, the plan, as it read on that date, continues to apply in relation to the activities carried out under the permit in the portion despite any subsequent amendment, replacement or expiration of the plan:
@@ -1805,6 +1821,12 @@ but does not include an objective referred to in section 13 (3).
 
   (2) If a forest operations plan or forest stewardship plan applies to the licence area of a timber sale licence on the date the licence is advertised, the plan, as it read on that date, continues to apply to the licence area despite any subsequent amendment, replacement or expiration of the plan.
 
+  (3) If a forest operations plan or forest stewardship plan applies to a portion of an area that is subject to a contract logging authorization on either of the following dates, as applicable, the plan, as it read on the applicable date, continues to apply in relation to the activities carried out under the authorization in the portion despite any subsequent amendment, replacement or expiration of the plan:
+
+  - (a) unless paragraph (b) applies, the date on which the authorization is issued;
+
+  - (b) if the portion was added to the area by an amendment to the authorization, the date on which the authorization was amended.
+
 
 ## Exemption from requirement to amend operational plan
 
@@ -1813,9 +1835,11 @@ but does not include an objective referred to in section 13 (3).
 
   - (a) the portion is
 
-(i) a permit area of a cutting permit or road permit, or
+(i) a permit area of a cutting permit or road permit,
 
-(ii) a licence area of a timber sale licence,
+(ii) a licence area of a timber sale licence, or
+
+(iii) an area subject to a contract logging authorization,
 
   - (b) a road referred to in section 20.27 exists on the portion, or
 
@@ -1852,10 +1876,10 @@ but does not include an objective referred to in section 13 (3).
   (3) A woodlot licence plan may be held only by the holder of the woodlot licence to which the plan relates.
 
 
-## Roads constructed by the minister for accessing timber sale licences
+## Roads constructed by minister for accessing timber sale licences and contract logging authorizations
 
 
-**20.27** An approval or refusal to approve a forest operations plan, a forest stewardship plan or an amendment to a forest operations plan or forest stewardship plan does not affect the minister's discretion under section 121 of the Forest Act to construct a road to provide access to an area to be harvested under a timber sale licence.
+**20.27** An approval or refusal to approve a forest operations plan, a forest stewardship plan or an amendment to a forest operations plan or forest stewardship plan does not affect the minister's discretion under section 121 of the Forest Act to construct a road to provide access to an area to be harvested under a timber sale licence or contract logging authorization.
 
 
 ## Repealed
@@ -5501,7 +5525,7 @@ but does not include an objective referred to in section 13 (3).
 
 (ii) roads that will be constructed to access timber to be harvested under forestry licences to cut that are entered into with a timber sales manager, and,
 
-  - (g) exempting a timber sales manager from section 15.2 (2) if the timber sales manager makes the information referred to in section 15.2 (2) (a) (i) and (ii) publicly available for review and comment by means other than a forest operations map.
+  - (g) exempting a timber sales manager from section 15.2 (2) if the timber sales manager makes the information referred to in section 15.2 (2) (a) (i) to (iii) publicly available for review and comment by means other than a forest operations map.
 
 
 ## Dispute resolution — forest landscape plans

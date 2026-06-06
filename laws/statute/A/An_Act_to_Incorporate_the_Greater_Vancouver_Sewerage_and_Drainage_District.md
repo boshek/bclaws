@@ -961,7 +961,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Definitions
 
 
-**58.1** In sections 58.1 to 58.6:
+**58.1(1)** In sections 58.1 to 58.6:
 
 "capital costs" includes
 
@@ -985,11 +985,15 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (d) a development that is designed to result in a low environmental impact;
 
+  - (e) a category prescribed under subsection (2);
+
 "sewerage area" means a sewerage and drainage area established under section 31;
 
 "sewerage facility" means any work, service or plant of the Corporation for conveying, disposing of or treating sewage or waste water.
 
-1996-16-2; 2000-7-203; 2008-23-2.
+  (2) The Lieutenant Governor in Council may make regulations prescribing categories for the purposes of paragraph (e) of the definition of "eligible development" in subsection (1).
+
+1996-16-2; 2000-7-203; 2008-23-2; 2026-15-11.
 
 
 ## Corporation may impose development cost charges

@@ -38,6 +38,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **19** Corporate liability
 - **20** Effect of imposing administrative penalty
 - **21** Limitation period
+- **21.1** Interest on unpaid fees
+- **21.2** Recovery of administration expenses and interest
 - **22** Service under this Act
 - **23** Regulations
 - **24** Commencement
@@ -51,6 +53,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 **1** In this Act:
 
 "administrator" means the administrator designated under section 3 or, if none is designated, the minister;
+
+"fee" means a fee or other charge imposed under section 23 (2.1) [regulations respecting administration expenses];
 
 "fuel data" means
 
@@ -423,6 +427,34 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (2) A document purporting to have been issued by the administrator, certifying the date on which the administrator became aware of the facts on which the information is based, is proof of the certified facts.
 
 
+## Interest on unpaid fees
+
+
+**21.1(1)** If a fee is payable under this Act by a person and the person fails to pay the fee as required under this Act, the person must pay to the government interest on the amount unpaid from the date the fee was payable until the date of payment.
+
+  (2) Interest payable under subsection (1) must be calculated at the prescribed rate and in the prescribed manner.
+
+
+## Recovery of administration expenses and interest
+
+
+**21.2(1)** A fee payable under this Act, and any interest payable in relation to the fee, may be recovered as a debt due to the government.
+
+  (2) If a person fails to pay a fee as required under this Act, or any interest in relation to the fee, the administrator may file a certificate in a court that has jurisdiction and, upon filing, the certificate has the same force and effect, and all proceedings may be taken on it, as if it were a judgment of the court with which it is filed.
+
+  (3) A certificate under subsection (2) must
+
+  - (a) be signed by the administrator, and
+
+  - (b) contain the following information:
+
+(i) the name of the person who is liable to pay the fee and any related interest;
+
+(ii) the particulars of the matter in relation to which the fee is imposed;
+
+(iii) the amount of the fee and any related interest.
+
+
 ## Service under this Act
 
 
@@ -491,6 +523,30 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 (iv) prescribing time limits for paying administrative penalties, and
 
 (v) prescribing the consequences of failing to pay an administrative penalty, which may include, but are not limited to, imposing additional penalties.
+
+  (2.1) Without limiting subsection (1) or (2), the Lieutenant Governor in Council may, for the purpose of recovering the expenses arising out of the administration of this Act in a fiscal year, make regulations as follows:
+
+  - (a) authorizing the administrator, by order of the administrator, to
+
+(i) set fees,
+
+(ii) require payment of the fees in a specific manner or at a specific time, and
+
+(iii) exempt a responsible person or a class of responsible persons from the payment of a fee;
+
+  - (b) authorizing the administrator to collect fees from responsible persons, a class of responsible person or a particular responsible person;
+
+  - (c) requiring the administrator, before setting a fee under paragraph (a) (i), to hold a hearing;
+
+  - (d) providing for the manner in which a hearing required under paragraph (c) is to be held and authorizing the administrator to make rules respecting the hearing;
+
+  - (e) prescribing interest rates and the manner of calculating interest for the purposes of section 21.1 (2) [interest on unpaid fees].
+
+  (2.2) In setting a fee under subsection (2.1) (a) (i) for a fiscal year, the administrator may take into consideration any factor the administrator considers appropriate.
+
+  (2.3) An order made under subsection (2.1) (a) in a fiscal year may be retroactive to the extent necessary to recover the expenses of administering this Act in the fiscal year.
+
+  (2.4) In making an order under subsection (2.1) (a), the administrator may make different orders in relation to different persons and different classes of persons, things, circumstances or other matters.
 
   (3) In making a regulation under this Act, the Lieutenant Governor in Council may do any of the following:
 
