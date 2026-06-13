@@ -27,7 +27,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **8** Power to refuse relief
 - **9** Defects in form, technical irregularities
 - **10** Interim order
-- **11** No time limit for applications
+- **11** Repealed
 - **12** No writ to issue
 - **13** Summary disposition of proceedings
 - **14** Sufficiency of application
@@ -39,6 +39,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **20** References in other enactments
 - **21** Application of Act in relation to laws of treaty first nations
 - **22** Application of Act in relation to consent of Indigenous governing body
+- **23** Disclosure of confidence of Executive Council
 
 ---
 
@@ -175,14 +176,10 @@ and includes the powers of the Provincial Court;
 **10** On an application for judicial review, the court may make an interim order it considers appropriate until the final determination of the application.
 
 
-## No time limit for applications
+## Repealed
 
 
-**11** An application for judicial review is not barred by passage of time unless
-
-  - (a) an enactment otherwise provides, and
-
-  - (b) the court considers that substantial prejudice or hardship will result to any other person affected by reason of delay.
+**11** [Repealed 2026-15-1.]
 
 
 ## No writ to issue
@@ -275,3 +272,21 @@ and includes the powers of the Provincial Court;
   - (d) service, if required to be made on the Indigenous governing body, is effectively made by a person if made in accordance with the agreement relating to the consent of the Indigenous governing body before the exercise of the statutory power, as if the person were a party to the agreement.
 
   (2) If under an enactment the consent of an Indigenous governing body is required to be sought or obtained in accordance with an agreement entered into under section 7 of the Declaration on the Rights of Indigenous Peoples Act before the exercise of a statutory power of decision, this Act applies in relation to the decision whether to give consent as if that decision were a statutory power of decision.
+
+
+## Disclosure of confidence of Executive Council
+
+
+**23(1)** In this section:
+
+"cabinet secretary" means the deputy minister appointed under the Public Service Act with the title of cabinet secretary;
+
+"secretary to the Treasury Board" means the person appointed as secretary under section 3 (2) of the Financial Administration Act.
+
+  (2) A minister, the cabinet secretary or the deputy cabinet secretary may certify in writing that information is a confidence of the Executive Council or any of its committees.
+
+  (3) Without limiting subsection (2), the secretary to the Treasury Board or the deputy secretary may certify in writing that information is a confidence of the Treasury Board.
+
+  (4) Subsections (2) and (3) apply in relation to a power, duty or function delegated to the chair or vice chair of the Treasury Board under section 4 of the Financial Administration Act as if the power, duty or function were exercised or performed by the Treasury Board.
+
+  (5) A person may not be compelled to disclose in an application for judicial review information certified as a confidence under subsection (2) or (3).

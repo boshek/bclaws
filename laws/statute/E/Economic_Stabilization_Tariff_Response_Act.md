@@ -24,12 +24,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **9** Indemnification for legal proceedings
 - **10** General powers respecting directives
 - **11** Consequential Amendment
-- **12** Definition for this Part
-- **13** Tolls, fees and charges
-- **14** Certificate proceedings
-- **15** Rights, powers and advantages of minister
-- **16** Collection and disclosure of personal information
-- **17** Power to make regulations
+- **12-17** Repealed
 - **18** Application ofOffence Act
 - **19** General powers respecting regulations
 - **20** Reporting
@@ -43,7 +38,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Not in force
 
 
-**1-5** [Not in force.]
+**1-5** [Not in force. Repealed 2025-11-22.]
 
 
 ## Definitions for this Part
@@ -124,90 +119,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (2) A directive issued on or before June 30, 2025 under this Part may be made retroactive to February 1, 2025 or a later date and, if made retroactive, is deemed to have been issued on the specified date.
 
 
-## Definition for this Part
+## Repealed
 
 
-**12** In this Part, "provincial undertaking" means the following:
-
-  - (a) a provincial public undertaking as defined in the Transportation Act;
-
-  - (b) a ferry to which the Coastal Ferry Act applies;
-
-  - (c) ferry terminal properties as defined in section 30 of the Coastal Ferry Act.
-
-
-## Tolls, fees and charges
-
-
-**13(1)** The Lieutenant Governor in Council may, by regulation, establish a system of tolls, fees or charges to be paid to the government in respect of the use of a provincial undertaking.
-
-  (2) If a system of tolls, fees or charges has been established under this section in respect of the use of a provincial undertaking, the toll, fee or charge payable by a person who is liable under the system, and any interest payable in relation to the toll, fee or charge, is a debt due to the government.
-
-
-## Certificate proceedings
-
-
-**14** If a person fails to pay an amount in accordance with the system of tolls, fees or charges established under this Part,
-
-  - (a) the amount that must be paid may be recovered as a debt due to the government,
-
-  - (b) the minister may file a certificate in a court of competent jurisdiction specifying the amount owed and the name of the person who owes it, and
-
-  - (c) on filing, the certificate has the same force and effect, and all proceedings may be taken on it, as if it were a judgment of the court with which it is filed.
-
-
-## Rights, powers and advantages of minister
-
-
-**15** The minister charged with the administration of the Transportation Act may exercise the rights, powers and advantages under section 2 (1) (e) of that Act in relation to a system of tolls, fees or charges established under this Part.
-
-
-## Collection and disclosure of personal information
-
-
-**16(1)** The minister charged with the administration of the Transportation Act may, directly or indirectly, collect personal information for the purposes of this Part.
-
-  (2) The minister charged with the administration of the Transportation Act may disclose personal information for the purposes of this Part.
-
-
-## Power to make regulations
-
-
-**17(1)** The Lieutenant Governor in Council may make regulations as follows:
-
-  - (a) respecting the system of tolls, fees or charges referred to in section 13;
-
-  - (b) respecting the payment, collection and enforcement of tolls, fees and charges;
-
-  - (c) respecting exemptions from the payment of tolls, fees or charges;
-
-  - (d) prescribing interest rates and the manner of calculating interest payable for the purposes of this Part.
-
-  (2) Without limiting subsection (3), in making a regulation establishing a system of tolls, fees or charges, the Lieutenant Governor in Council may do one or more of the following:
-
-  - (a) designate provincial undertakings or portions of a provincial undertaking for a toll, fee or charge;
-
-  - (b) establish terms and conditions for the system;
-
-  - (c) establish different amounts for tolls, fees or charges based on one or more of the following:
-
-(i) dates, days or times of use of the provincial undertaking or portion of a provincial undertaking;
-
-(ii) extent of use of the provincial undertaking or portion of a provincial undertaking;
-
-(iii) class of user of the provincial undertaking or portion of a provincial undertaking;
-
-(iv) ownership or registration of a vehicle;
-
-(v) characteristics or class of a vehicle;
-
-  - (d) establish rules respecting the administration of the system of tolls, fees or charges.
-
-  (3) In making a regulation under this Part, the Lieutenant Governor in Council may do one or more of the following:
-
-  - (a) establish or define classes of users, operators, owners, vehicles or provincial undertakings;
-
-  - (b) make different regulations in relation to different users, operators, owners, vehicles or provincial undertakings, or different classes of users, operators, owners, vehicles or provincial undertakings.
+**12-17** [Repealed 2025-11-22.]
 
 
 ## Application ofOffence Act

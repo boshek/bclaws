@@ -1681,9 +1681,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (2) A decision or an order of the director may be reviewed only on one or more of the following grounds:
 
-  - (a) a party was unable to attend the original hearing or part of the original hearing because of circumstances that could not be anticipated and were beyond the party's control;
+  - (a) a party was unable to attend the original dispute resolution proceeding or part of the original dispute resolution proceeding because of circumstances that could not be anticipated and were beyond the party's control;
 
-  - (b) a party has new and relevant evidence that was not available at the time of the original hearing and that materially affects the decision;
+  - (b) a party has new and relevant evidence that was not available at the time of the original dispute resolution proceeding and that materially affects the decision;
 
   - (b.1) a party, because of circumstances that could not be anticipated and were beyond the party's control, submitted material evidence after the applicable time period expired but before the original dispute resolution proceeding, and that evidence was not before the director at the original dispute resolution proceeding;
 
@@ -1926,6 +1926,12 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 (vi) any economic benefit derived by the person from the contravention;
 
 (vii) the person's efforts to correct the contravention.
+
+  (2.1) The director may admit as evidence, whether or not it would be admissible under the laws of evidence, any oral or written testimony or any record or thing that the director considers to be
+
+  - (a) necessary and appropriate, and
+
+  - (b) relevant to the imposition and review of administrative penalties under this Part.
 
   (3) A penalty imposed under this section must be paid within the prescribed time.
 

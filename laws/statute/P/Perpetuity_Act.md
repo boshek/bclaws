@@ -101,7 +101,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (e) and (f) [Repealed 2002-25-62.]
 
-  - (g) property held by a corporation or other person as trustee and designated by regulation of the Lieutenant Governor in Council under section 8.1 (8) (d) of the Ministry of Lands, Parks and Housing Act as held on trust for the preservation of land and buildings for affordable housing purposes.
+  - (g) property held by a corporation or other person as trustee and designated by regulation of the Lieutenant Governor in Council under section 8.1 (8) (d) of the Ministry of Lands, Parks and Housing Act as held on trust for the preservation of land and buildings for affordable housing purposes;
+
+  - (h) a settlement trust established under
+
+(i) a tax treatment agreement, or
+
+(ii) the Taxation Agreement as defined in section 6.1 of the Nisg̱a'a Final Agreement Act.
 
 
 ## Application to the government
