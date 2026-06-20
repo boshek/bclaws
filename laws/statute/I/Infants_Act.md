@@ -28,11 +28,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **9** Disabled plaintiff
 - **10** Costs of proceedings by Public Guardian and Trustee
 - **11** Repealed
-- **12** Public Guardian and Trustee has powers for maintenance and          education
+- **12** Repealed
 - **13** Use of money in court for infant's benefit
 - **14** Use of trust money for infant's benefit
 - **15** Solicitor's costs
-- **16** Termination of guardianship
+- **16** Repealed
 - **17** Consent of infant to medical treatment
 - **18** Definition for Part
 - **19** When infants' contract enforceable
@@ -52,7 +52,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **34** New leases to be on same terms
 - **35** Renewal of leases by infants
 - **36** Lease of land belonging to infants
-- **37** Renewal of leases if person bound to renew out of          jurisdiction
+- **37** Renewal of leases if person bound to renew out of jurisdiction
 - **38** Duties before renewal signed
 - **39** Renewal: if money to go
 - **40** Power of guardian to enter into agreements
@@ -66,7 +66,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **48** Service if proceeding brought against infant
 - **49** Notice of proceeding to Public Guardian and Trustee
 - **50** Repealed
-- **51** If child has no guardian
+- **51** Repealed
 
 ---
 
@@ -191,11 +191,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 **11** [Repealed RS1996 (Supp)-223-2.]
 
 
-## Public Guardian and Trustee has powers for maintenance and
-          education
+## Repealed
 
 
-**12** If the Public Guardian and Trustee is the property guardian of an infant, the Public Guardian and Trustee may, for any money or other property of the infant held by the Public Guardian and Trustee or to the Public Guardian and Trustee's account, exercise for the benefit of the infant the powers conferred on trustees by section 24 of the Trustee Act and, without obtaining leave of the court, by section 25 of that Act.
+**12** [Repealed 2025-25-23.]
 
 
 ## Use of money in court for infant's benefit
@@ -222,30 +221,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 **15** If the Public Guardian and Trustee employs a barrister or solicitor in a proceeding about the property of an infant, the barrister or solicitor is entitled to receive from the infant's property, through the Public Guardian and Trustee, or otherwise, costs for the barrister's or solicitor's services that are usually allowed in a proceeding of a similar nature in the court.
 
 
-## Termination of guardianship
+## Repealed
 
 
-**16(1)** Subject to subsection (3), on termination of the Public Guardian and Trustee's guardianship of a ward because of the ward reaching 19 years of age, the Public Guardian and Trustee, after deducting any commission and settling the claims and liability of the property arising or accruing due before the ward's majority, must
-
-  - (a) pay or transfer the property of the ward to the ward on receiving the ward's release, or
-
-  - (b) if the ward requests, pass the Public Guardian and Trustee's accounts as a guardian under the Supreme Court Civil Rules.
-
-  (2) On termination of the Public Guardian and Trustee's guardianship of an infant for any other reason, the Public Guardian and Trustee, after deducting any commission, must pass the Public Guardian and Trustee's accounts under the Supreme Court Civil Rules.
-
-  (3) If a ward
-
-  - (a) who was, until reaching 19 years of age, in the continuing custody of the director under the Child, Family and Community Service Act and had the Public Guardian and Trustee acting as property guardian,
-
-  - (b) who was, until reaching 19 years of age, under the property guardianship of the Public Guardian and Trustee under section 51 of the Infants Act, or
-
-  - (b.1) who was, until reaching 19 years of age, under the property guardianship of the Public Guardian and Trustee in accordance with an agreement entered into under section 51.1 of the Child, Family and Community Service Act
-
-  reaches 19 years of age and enters into an agreement with the Public Guardian and Trustee under section 6 (b) (v) of the Public Guardian and Trustee Act, subsection (1) does not apply until the earlier of the following:
-
-  - (c) the date the former ward terminates that agreement;
-
-  - (d) the date the former ward reaches 27 years of age.
+**16** [Repealed 2025-25-23.]
 
 
 ## Consent of infant to medical treatment
@@ -522,8 +501,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   - (d) a copy executed by each party must be deposited for safe custody in a district registry of the court until the infant reaches 19 years of age, with liberty to proper parties to use them, if required, to enforce the covenants in them.
 
 
-## Renewal of leases if person bound to renew out of
-          jurisdiction
+## Renewal of leases if person bound to renew out of jurisdiction
 
 
 **37(1)** If a person who, under a covenant or agreement in writing, if within the jurisdiction and subject to the process of the court, might be compelled to execute a renewal of a lease, is not within the jurisdiction or not amenable to the court's process, the court, by order made on the petition of a person entitled to the renewal, whether or not the person is under disability, may direct a person the court thinks proper to accept a surrender of the subsisting lease, and make a new lease in the name of the person who ought to have renewed it.
@@ -687,19 +665,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 **50** [Repealed 2011-25-372.]
 
 
-## If child has no guardian
+## Repealed
 
 
-**51(1)** If a child has no guardian or if the guardian appointed is dead, refuses or is incompetent at law to act,
-
-  - (a) a director under the Child, Family and Community Service Act is the personal guardian of the child,
-
-  - (b) the Public Guardian and Trustee is the property guardian of the child, or
-
-  - (c) paragraphs (a) and (b) both apply,
-
-  as circumstances require, unless a tribunal of competent jurisdiction otherwise orders.
-
-  (2) If a director under the Child, Family and Community Service Act is the personal guardian of a child, the director has all the powers that a guardian, as a guardian of the person of a child appointed by will or otherwise, had on May 19, 1917 in England under Acts 12, Charles the Second, chapter 24, and 49 and 50 Victoria, chapter 27, section 4.
-
-  (3) If the Public Guardian and Trustee is the property guardian of a child, the Public Guardian and Trustee has all powers that a guardian, as a guardian of the estate appointed by will or otherwise, had over the estate of a child on May 19, 1917 in England under Acts 12, Charles the Second, chapter 24, and 49 and 50 Victoria, chapter 27, section 4.
+**51** [Repealed 2025-25-23.]

@@ -104,11 +104,7 @@ that operates or intends to operate an independent school;
 
 "former Act" means the School Support (Independent) Act, R.S.B.C. 1979, c. 378;
 
-"guardian" means
-
-  - (a) a guardian within the meaning of the Family Law Act, or
-
-  - (b) a personal guardian within the meaning of the Infants Act;
+"guardian" means a guardian within the meaning of the Family Law Act;
 
 "independent school" means a school, including an online learning independent school, that is, or is to be, maintained and operated in British Columbia by an authority and
 

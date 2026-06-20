@@ -106,7 +106,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) an island or group of islands in the trust area that is designated as a local trust area by regulation,
 
-and includes those islands, if any, within boundaries surrounding an island or group of islands referred to in paragraphs (a) and (b) that may be specified by regulation, but does not include land in a municipality, all or part of which is in the trust area;
+and includes those islands, if any, within boundaries surrounding an island or group of islands referred to in paragraphs (a) and (b) that may be specified by regulation, but does not include
+
+  - (c) land in a municipality, all or part of which is in the trust area, or
+
+  - (d) treaty lands of a treaty first nation if the final agreement of the treaty first nation provides that the treaty lands do not form part of the trust area;
 
 "local trust committee" means,
 
@@ -122,7 +126,7 @@ and includes those islands, if any, within boundaries surrounding an island or g
 
 "trust" means the Islands Trust continued under section 2 (1);
 
-"trust area" means the land located within the boundaries described in Schedule A;
+"trust area" means the land located within the boundaries described in Schedule A but does not include treaty lands of a treaty first nation if the final agreement of the treaty first nation provides that the treaty lands do not form part of the trust area;
 
 "trust council" means the Islands Trust Council referred to in section 5;
 
@@ -302,15 +306,17 @@ and includes those islands, if any, within boundaries surrounding an island or g
 
   - (e) a First Nation.
 
-  (2) An agreement under subsection (1) is subject to the approval of the minister.
+  (1.1) For the purpose of carrying out the object of the trust, the trust council may enter into, on its own behalf or on behalf of one or more local trust committees, agreements with a treaty first nation as provided for in the final agreement of the treaty first nation.
 
-  (3) If there is a conflict between an agreement under subsection (1) and a bylaw or agreement of a local trust committee, the agreement under subsection (1) prevails.
+  (2) An agreement under subsection (1) or (1.1) is subject to the approval of the minister.
+
+  (3) If there is a conflict between an agreement under subsection (1) or (1.1) and a bylaw or agreement of a local trust committee, the agreement under subsection (1) or (1.1) prevails.
 
 
 ## Delegation of powers
 
 
-**10** The trust council may, by bylaw adopted by at least 2/3 of its members present at the meeting at which the vote on adoption takes place, delegate its powers under sections 8 (1) (d) and (f) and (2) (a) to (f) and 9 (1), subject to any restrictions or conditions specified in the bylaw.
+**10** The trust council may, by bylaw adopted by at least 2/3 of its members present at the meeting at which the vote on adoption takes place, delegate its powers under sections 8 (1) (d) and (f) and (2) (a) to (f) and 9 (1) and (1.1), subject to any restrictions or conditions specified in the bylaw.
 
 
 ## Procedures to be followed by local trust committees

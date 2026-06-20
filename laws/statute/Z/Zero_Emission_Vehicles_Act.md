@@ -24,9 +24,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **4** Classification of ZEV units
 - **5** Application — prescribed class of suppliers
 - **6** Definitions
-- **7** Provincial targets
-- **8** Provincial targets report
-- **9** Prohibition in 2035 and subsequent years
+- **7** Provincial target
+- **8** Provincial target report
+- **9** Repealed
 - **10** Supply of ZEVs
 - **11** Compliance ratio reductions
 - **12** Offsetting credits and debits
@@ -212,7 +212,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **5(1)** Subject to subsection (2), this Act, other than the following provisions, does not apply in relation to a supplier in a prescribed class of suppliers:
 
-  - (a) Part 2 [Provincial Targets];
+  - (a) Part 2 [Provincial Target];
 
   - (b) section 22 (1) [information requests] and Parts 4 [Compliance and Enforcement], 5 [Appeals to Environmental Appeal Board] and 6 [General] as they relate to section 22 (1).
 
@@ -239,22 +239,20 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 "specified motor vehicle" means a new motor vehicle with a gross vehicle weight rating of 4 536 kg or less.
 
 
-## Provincial targets
+## Provincial target
 
 
-**7** The following targets are established for the purpose of reducing greenhouse gas emissions in British Columbia:
+**7** The following target is established for the purpose of reducing greenhouse gas emissions in British Columbia:
 
-  - (a) in 2026 and in each subsequent year, at least 26% of all specified motor vehicles sold or leased in British Columbia must be zero-emission vehicles;
+  - (a) and (b) [Repealed 2026-15-8.]
 
-  - (b) in 2030 and in each subsequent year, at least 90% of all specified motor vehicles sold or leased in British Columbia must be zero-emission vehicles;
-
-  - (c) in 2035 and in each subsequent year, 100% of all specified motor vehicles sold or leased in British Columbia must be zero-emission vehicles.
+  - (c) in 2035 and in each subsequent year, 75% of all specified motor vehicles sold or leased in British Columbia must be zero-emission vehicles.
 
 
-## Provincial targets report
+## Provincial target report
 
 
-**8(1)** On or before April 30 in each year, the director must publish a report respecting the zero-emission vehicle targets described in section 7 that meets the requirements set out in subsection (2).
+**8(1)** On or before April 30 in each year, the director must publish a report respecting the zero-emission vehicle target described in section 7 that meets the requirements set out in subsection (2).
 
   (2) A report under subsection (1) must
 
@@ -269,10 +267,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   - (c) include any other prescribed information.
 
 
-## Prohibition in 2035 and subsequent years
+## Repealed
 
 
-**9** On or after January 1, 2035, a person must not make a consumer sale in British Columbia of a specified motor vehicle that is not a zero-emission vehicle.
+**9** [Repealed 2026-15-10.]
 
 
 ## Supply of ZEVs
@@ -730,7 +728,7 @@ amount of penalty = deficit × penalty rate
 
 **30(1)** A person who contravenes any of the following provisions commits an offence:
 
-  - (a) section 9 [prohibition in 2035 and subsequent years];
+  - (a) [Repealed 2026-15-10.]
 
   - (b) section 17 (2) [model year report];
 

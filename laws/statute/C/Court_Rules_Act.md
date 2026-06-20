@@ -48,7 +48,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (e) the establishment and payment of fees and allowances payable to witnesses, including witnesses for the Crown, jurors and other persons for services performed or attendances made in any of the courts in British Columbia;
 
-  - (f) all matters arising under the Adult Guardianship Act, Part 1 of the Infants Act, the Land Title Inquiry Act, the Patients Property Act, Parts 2 and 3 of the Power of Attorney Act, and the Wills, Estates and Succession Act;
+  - (f) all matters arising under the Adult Guardianship Act, Part 1 of the Infants Act, the Land Title Inquiry Act, the Patients Property Act, Parts 2 and 3 of the Power of Attorney Act, the Public Guardian and Trustee Act, and the Wills, Estates and Succession Act;
 
   - (g) all matters arising under the Enforcement of Canadian Judgments and Decrees Act, including cancellation of the registration of a judgment;
 

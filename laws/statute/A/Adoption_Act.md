@@ -289,13 +289,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Self-government principle
 
 
-**3.2** This Act, to the extent the provisions of this Act relate to the adoption of Indigenous children
-
-  - (a) who are in the continuing custody of a director of child protection, or
-
-  - (b) in respect of whom a director of child protection is the personal guardian under section 51 of the Infants Act,
-
-  must be interpreted and administered in accordance with the principle that Indigenous peoples have an inherent right of self-government, including self-determination, that is recognized and affirmed by section 35 of the Constitution Act, 1982 and by the United Nations Declaration on the Rights of Indigenous Peoples.
+**3.2** This Act, to the extent the provisions of this Act relate to the adoption of Indigenous children who are in the continuing custody of a director of child protection, must be interpreted and administered in accordance with the principle that Indigenous peoples have an inherent right of self-government, including self-determination, that is recognized and affirmed by section 35 of the Constitution Act, 1982 and by the United Nations Declaration on the Rights of Indigenous Peoples.
 
 
 ## Who may place a child for adoption
@@ -315,11 +309,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (d) a parent or other guardian related to the child, if the child is placed with a relative of the child.
 
-  (2) In addition to the authority under subsection (1) (a), a director may, at the request of a director of child protection, place a child for adoption with the person or persons selected by the director of child protection, if
-
-  - (a) the child is in the continuing custody of the director of child protection, or
-
-  - (b) the director of child protection is the child's personal guardian under section 51 of the Infants Act.
+  (2) In addition to the authority under subsection (1) (a), a director may, at the request of a director of child protection, place a child for adoption with the person or persons selected by the director of child protection, if the child is in the continuing custody of the director of child protection.
 
 
 ## Who may receive a child for adoption
@@ -397,11 +387,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (e) any other applicable Indigenous governing body.
 
-  (2) Subsection (1) does not apply in relation to an Indigenous child
-
-  - (a) who is in the continuing custody of a director of child protection, or
-
-  - (b) in respect of whom a director of child protection is the personal guardian under section 51 of the Infants Act.
+  (2) Subsection (1) does not apply in relation to an Indigenous child who is in the continuing custody of a director of child protection.
 
 
 ## Before a direct placement
@@ -499,7 +485,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) is named by the child's birth mother as the child's father.
 
-  (3) If the child is in the continuing custody of a director of child protection, or a director of child protection is the child's personal guardian under section 51 of the Infants Act, the only consents required are
+  (3) If the child is in the continuing custody of a director of child protection, the only consents required are
 
   - (a) the director of child protection's consent, and
 

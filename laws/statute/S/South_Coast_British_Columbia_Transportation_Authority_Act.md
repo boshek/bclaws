@@ -2031,7 +2031,7 @@ but does not include
 ## Development for which charges may be waived or reduced
 
 
-**34.24(1)** In this section, "eligible development" means a development that is eligible in accordance with an applicable bylaw or regulation under this section as being for one or more of the following categories:
+**34.24(1)** In this section, "eligible development" means a development that is eligible in accordance with an applicable bylaw under subsection (4) or an applicable regulation under subsection (5) as being for one or more of the following categories:
 
   - (a) not-for-profit rental housing, including supportive living housing;
 
@@ -2039,7 +2039,9 @@ but does not include
 
   - (c) a subdivision of small lots that is designed to result in low greenhouse gas emissions;
 
-  - (d) a development that is designed to result in a low environmental impact.
+  - (d) a development that is designed to result in a low environmental impact;
+
+  - (e) a category prescribed by regulation of the Lieutenant Governor in Council.
 
   (2) Except as authorized under this section, the authority must not waive or reduce a development cost charge.
 
@@ -2062,6 +2064,8 @@ but does not include
   - (c) establishing criteria for determining
 
   what constitutes an eligible development or a class of eligible development for the purposes of one or more categories of eligible development described in subsection (1).
+
+  (6) The Lieutenant Governor in Council may make regulations prescribing categories for the purposes of paragraph (e) of the definition of "eligible development" in subsection (1).
 
 
 ## Amount of development cost charges to be specified in bylaw

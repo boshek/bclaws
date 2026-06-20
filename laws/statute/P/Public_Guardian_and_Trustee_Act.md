@@ -25,9 +25,21 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **6** Powers as executor, administrator, trustee or attorney
 - **6.1** Litigation representative of deceased
 - **6.2** Director of company
-- **7** Powers as guardian of financial or legal affairs of young person
-- **7.1** Use of trust money for young adult's benefit
+- **6.3** Best interests of child
+- **6.4** Circumstances for property guardianship
+- **6.5** Property guardianship by agreement with Indigenous authority
+- **6.6** Property guardianship if no other guardian or if guardian is dead, refuses or is incompetent to act
+- **6.7** Powers, duties and functions when property guardian for children
+- **7** Powers as guardian of financial or legal affairs of child
+- **7.1** Repealed
 - **8** Duty to comply withTrustee Act
+- **8.1** Powers for maintenance and education
+- **8.2** Use of trust money
+- **8.3** Disclosure and collection of information
+- **8.4** Evidence of authority
+- **8.5** When property guardianship terminates
+- **8.6** Payment or transfer of property after termination before child reaches age of majority
+- **8.7** Payment or transfer of property after termination when child reaches age of majority
 - **9** Public Guardian and Trustee Trust Fund Account
 - **10** Investment advisory committee
 - **11** Investment powers and duties
@@ -59,27 +71,37 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Definitions
 
 
-**1** In this Act:
+**1(1)** In this Act:
 
 "adult" means anyone who has reached 19 years of age;
+
+"child" means a person under 19 years of age;
 
 "court" means the Supreme Court;
 
 "enduring power of attorney" means an enduring power of attorney made under Part 2 of the Power of Attorney Act;
 
-"guardian" means, except in sections 7 and 8, a committee under the Patients Property Act;
+"Indigenous authority" has the same meaning as in section 1 (1) of the Child, Family and Community Service Act;
+
+"Indigenous child" has the same meaning as in section 1 (1) of the Child, Family and Community Service Act;
+
+"Indigenous child and family services" has the same meaning as in section 1 (1) of the Child, Family and Community Service Act;
+
+"Indigenous law" has the same meaning as in section 1 (1) of the Child, Family and Community Service Act;
 
 "operating account" means the Public Guardian and Trustee Operating Account established under section 24;
 
 "power of attorney" means a power of attorney other than an enduring power of attorney;
 
+"property guardian", in respect of a child, means the role of the Public Guardian and Trustee with respect to the management and protection of the child's legal and financial interests;
+
 "representation agreement" means an agreement made under the Representation Agreement Act;
 
 "representative" means a representative authorized to act under a representation agreement;
 
-"trust fund account" means the Public Guardian and Trustee Trust Fund Account established under section 9;
+"trust fund account" means the Public Guardian and Trustee Trust Fund Account established under section 9.
 
-"young person" means anyone under 19 years of age.
+  (2) For the purposes of sections 6.2, 17 and 18 of this Act, "guardian" has the same meaning as "committee" in section 1 (1) of the Patients Property Act.
 
 
 ## Corporate identity and appointment of Public Guardian and Trustee
@@ -188,38 +210,212 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 (ii) wind up or dissolve the company.
 
 
-## Powers as guardian of financial or legal affairs of young person
+## Best interests of child
 
 
-**7(1)** If appointed under a court order or enactment as a young person's property guardian, the Public Guardian and Trustee is a trustee of all property that comes into the control of, or is held by, the Public Guardian and Trustee on behalf of the young person.
+**6.3(1)** When the Public Guardian and Trustee exercises the powers and performs the duties and functions as a child's property guardian, the Public Guardian and Trustee must consider the best interests of the child, including the following factors:
 
-  (2) If a young person's property guardian, the Public Guardian and Trustee may act as litigation guardian for the young person in making or defending claims brought for or against the young person as the Public Guardian and Trustee considers advisable and in the young person's best interests.
+  - (a) the care, maintenance and educational needs of the child;
 
-  (3) If a litigation guardian is required for a young person under the Court Rules Act and is not otherwise provided for by the Infants Act, the Public Guardian and Trustee must act as litigation guardian for the young person if the Public Guardian and Trustee considers it is in the young person's best interests to do so.
+  - (b) the effect on the child's well-being, living arrangements and significant relationships that may arise from litigation or other proceedings in relation to the child, including resolving or settling matters or claiming benefits;
+
+  - (c) the child's views and preferences, unless it would be inappropriate to consider them.
+
+  (2) If the child is an Indigenous child, in addition to the factors that the Public Guardian and Trustee must consider under subsection (1), the Public Guardian and Trustee must also consider the following factors:
+
+  - (a) the customs, culture and traditions of the child's Indigenous community;
+
+  - (b) the importance of the child belonging to the child's Indigenous community;
+
+  - (c) any applicable Indigenous laws.
 
 
-## Use of trust money for young adult's benefit
+## Circumstances for property guardianship
 
 
-**7.1** If acting as trustee under section 6 (b) (v) for an adult
+**6.4** The Public Guardian and Trustee is a child's property guardian in the following circumstances:
 
-  - (a) who has not yet reached 27 years of age, and
+  - (a) when appointed by a court order, including a court order under section 58 of the Child, Family and Community Service Act;
 
-  - (b) who, until reaching 19 years of age,
+  - (b) when appointed or otherwise authorized under an enactment, including the following:
 
-(i) was in the continuing custody of the director under the Child, Family and Community Service Act and had the Public Guardian and Trustee acting as property guardian,
+(i) section 24 of the Adoption Act;
 
-(ii) was under the property guardianship of the Public Guardian and Trustee under section 51 of the Infants Act, or
+(ii) section 50 (1) of the Child, Family and Community Service Act;
 
-(iii) was under the property guardianship of the Public Guardian and Trustee in accordance with an agreement entered into under section 51.1 of the Child, Family and Community Service Act,
+  - (c) when property guardianship in respect of an Indigenous child results from an agreement entered into with an Indigenous authority
 
-  the Public Guardian and Trustee may, during the term of the trusteeship, authorize payment of all or part of the trust money for the maintenance, education or benefit of the adult.
+(i) to continue property guardianship under section 51.1 (2) of the Child, Family and Community Service Act, or
+
+(ii) as described in section 6.5 (2) of this Act;
+
+  - (d) when property guardianship in respect of a child results from the circumstances described in section 6.6 of this Act.
+
+
+## Property guardianship by agreement with Indigenous authority
+
+
+**6.5(1)** The Public Guardian and Trustee may, in circumstances other than those set out in section 51.1 of the Child, Family and Community Service Act, enter into an agreement with an Indigenous authority in relation to the Public Guardian and Trustee acting as property guardian for Indigenous children for whom the Indigenous authority has jurisdiction to provide, and is providing, Indigenous child and family services under Indigenous law.
+
+  (2) If the Public Guardian and Trustee has entered into an agreement with an Indigenous authority under subsection (1), the Public Guardian and Trustee is an Indigenous child's property guardian when, in accordance with the agreement, confirmation is provided in writing by the Public Guardian and Trustee and the Indigenous authority.
+
+
+## Property guardianship if no other guardian or if guardian is dead, refuses or is incompetent to act
+
+
+**6.6(1)** Unless otherwise ordered by the court under subsection (2), the Public Guardian and Trustee is a child's property guardian, as circumstances require, when a child has no other guardian responsible for legal and financial interests or if the guardian appointed for that purpose is dead, refuses or is incompetent at law to act.
+
+  (2) In the case of property guardianship described in subsection (1), if there is a dispute or any uncertainty as to whether the Public Guardian and Trustee is or is not the property guardian in respect of a child, the court may make an order declaring whether or not the Public Guardian and Trustee is the property guardian of the child on application by
+
+  - (a) the Public Guardian and Trustee, or
+
+  - (b) a parent or guardian of the child.
+
+  (3) The fact that, in respect of a child, the Public Guardian and Trustee does not apply to the court for a declaration
+
+  - (a) does not affect the authority of the Public Guardian and Trustee as the child's property guardian, and
+
+  - (b) is not evidence that the Public Guardian and Trustee is not the child's property guardian.
+
+
+## Powers, duties and functions when property guardian for children
+
+
+**6.7(1)** When the Public Guardian and Trustee is a child's property guardian, the Public Guardian and Trustee has the powers, duties and functions under this Act and any other applicable enactment in respect of property guardianship.
+
+  (2) The powers, duties and functions of the Public Guardian and Trustee under subsection (1) include, with respect to a child,
+
+  - (a) authority with respect to the following responsibilities listed as parental responsibilities in section 41 (k) of the Family Law Act:
+
+(i) starting, defending, compromising or settling any proceeding relating to the child;
+
+(ii) identifying, advancing and protecting the child's legal and financial interests, and
+
+  - (b) to the extent necessary to facilitate the exercise of the responsibilities described in paragraph (a) (i) and (ii) of this subsection, the following responsibilities listed as parental responsibilities in section 41 (h), (i) and (j) of the Family Law Act:
+
+(i) giving, refusing or withdrawing consent for the child, if consent is required;
+
+(ii) receiving and responding to any notice that a parent or guardian is entitled or required by law to receive;
+
+(iii) requesting and receiving from third parties health, education or other information respecting the child.
+
+  (3) For certainty, this section does not affect the powers, duties or functions of a child's personal guardian.
+
+
+## Powers as guardian of financial or legal affairs of child
+
+
+**7(1)** The Public Guardian and Trustee, when exercising the powers and performing the duties and functions as a child's property guardian, is a trustee of all property that comes into the control of, or is held by, the Public Guardian and Trustee on behalf of the child.
+
+  (2) If a child's property guardian, the Public Guardian and Trustee may act as litigation guardian for the child in making or defending claims brought for or against the child as the Public Guardian and Trustee considers advisable and in the child's best interests.
+
+  (3) If a litigation guardian is required for a child under the Court Rules Act and is not otherwise provided for by the Infants Act, the Public Guardian and Trustee must act as litigation guardian for the child if the Public Guardian and Trustee considers it is in the child's best interests to do so.
+
+
+## Repealed
+
+
+**7.1** [Repealed 2025-25-8.]
 
 
 ## Duty to comply withTrustee Act
 
 
-**8** If acting as trustee under section 6 (b) or as a young person's property guardian under section 7 (1), the Public Guardian and Trustee must comply with the Trustee Act unless this Act, the regulations, a court order or an instrument that provides for the Public Guardian and Trustee's appointment as trustee or guardian provides otherwise.
+**8** If acting as trustee under section 6 (b) or as a child's property guardian under section 7 (1), the Public Guardian and Trustee must comply with the Trustee Act unless this Act, the regulations, a court order or an instrument that provides for the Public Guardian and Trustee's appointment as trustee or guardian provides otherwise.
+
+
+## Powers for maintenance and education
+
+
+**8.1** If the Public Guardian and Trustee is the property guardian of a child, the Public Guardian and Trustee may, for any money or other property of the child held by the Public Guardian and Trustee or to the Public Guardian and Trustee's account, exercise for the benefit of the child the powers conferred on trustees by section 24 of the Trustee Act and, without obtaining leave of the court, by section 25 of that Act.
+
+
+## Use of trust money
+
+
+**8.2** If the Public Guardian and Trustee is acting as trustee under section 6 (b) (v) for a person who has not yet reached 27 years of age and in respect of whom the Public Guardian and Trustee was property guardian when the person reached 19 years of age, the Public Guardian and Trustee may, during the term of the trusteeship, authorize payment of all or part of the trust money for the maintenance, education or benefit of that person.
+
+
+## Disclosure and collection of information
+
+
+**8.3(1)** Any person or public body may disclose information in the custody or control of the person or public body to the Public Guardian and Trustee that is necessary to enable the Public Guardian and Trustee
+
+  - (a) to exercise the powers and perform the duties and functions as a child's property guardian, or
+
+  - (b) to assess whether the circumstances for property guardianship referred to in section 6.6 are present.
+
+  (2) The Public Guardian and Trustee may collect information from any person or public body that the Public Guardian and Trustee considers necessary
+
+  - (a) to facilitate the exercise of the powers and performance of the duties and functions as a child's property guardian in all circumstances in which property guardianship arises, or
+
+  - (b) to assess whether the circumstances for property guardianship referred to in section 6.6 are present.
+
+
+## Evidence of authority
+
+
+**8.4(1)** If the authority of the Public Guardian and Trustee as a child's property guardian arises from a source other than an appointment by court order, a letter signed by an authorized signatory of the Public Guardian and Trustee indicating that the Public Guardian and Trustee is the child's property guardian is conclusive proof of the Public Guardian and Trustee's authority in respect of a child's property guardianship.
+
+  (2) The source of the authority for the property guardianship must be specified in a letter under subsection (1).
+
+  (3) For certainty, if an appointment by court order is the source of the authority of the Public Guardian and Trustee as a child's property guardian, the court order is evidence of that authority.
+
+
+## When property guardianship terminates
+
+
+**8.5** Property guardianship in respect of a child terminates on the earliest of the following, as applicable:
+
+  - (a) in accordance with a court order;
+
+  - (b) when a court order declares that the Public Guardian and Trustee is not the property guardian of the child;
+
+  - (c) when an enactment provides for termination of property guardianship;
+
+  - (d) in accordance with any terms or conditions that provide for termination of property guardianship in an agreement
+
+(i) to continue property guardianship under section 51.1 (2) of the Child, Family and Community Service Act, or
+
+(ii) described in section 6.5 (1) or (2) of this Act;
+
+  - (e) the date that the child reaches 19 years of age.
+
+
+## Payment or transfer of property after termination before child reaches age of majority
+
+
+**8.6** On termination of a child's property guardianship before the child reaches 19 years of age, the Public Guardian and Trustee, after deducting any fees, commissions or other amounts payable, must pass the Public Guardian and Trustee's accounts under the Supreme Court Civil Rules.
+
+
+## Payment or transfer of property after termination when child reaches age of majority
+
+
+**8.7(1)** In this section:
+
+"individual" means an individual who is under property guardianship when the individual reaches 19 years of age;
+
+"relevant date" means the applicable of the following:
+
+  - (a) in the case that the individual has entered into an agreement as described in subsection (3), the earlier of the following dates:
+
+(i) the date that the individual terminates the agreement;
+
+(ii) the date that the individual reaches 27 years of age;
+
+  - (b) in any other case, the date that the individual reaches 19 years of age.
+
+  (2) Subject to this section, if the Public Guardian and Trustee is the property guardian of the individual when the individual reaches 19 years of age, the Public Guardian and Trustee, after deducting any fees, commissions or other amounts payable and settling the claims and liability of the property arising or accruing due before the relevant date, must
+
+  - (a) pay or transfer to the individual the individual's property on receiving a release from the individual, or
+
+  - (b) if the individual requests, pass the Public Guardian and Trustee's accounts as a guardian under the Supreme Court Civil Rules.
+
+  (3) If the individual enters into an agreement with the Public Guardian and Trustee under section 6 (b) (v), subsection (2) of this section does not apply until the earlier of the following dates:
+
+  - (a) the date that the individual terminates the agreement;
+
+  - (b) the date that the individual reaches 27 years of age.
 
 
 ## Public Guardian and Trustee Trust Fund Account
@@ -357,7 +553,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) a trust, a beneficiary of which is or may be
 
-(i) a young person,
+(i) a child,
 
 (ii) an adult who has a guardian, or
 
@@ -371,13 +567,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (e) a guardian,
 
-  if the Public Guardian and Trustee has reason to believe that the interest in the trust, or the assets of the young person or adult, may be at risk, or that the representative, guardian or attorney has failed to comply with the duties of the representative, guardian or attorney.
+  if the Public Guardian and Trustee has reason to believe that the interest in the trust, or the assets of the child or adult, may be at risk, or that the representative, guardian or attorney has failed to comply with the duties of the representative, guardian or attorney.
 
   (2) In addition, the Public Guardian and Trustee may investigate the personal care and health care decisions made by a representative or guardian, if the Public Guardian and Trustee has reason to believe the representative or guardian has failed to comply with the duties of the representative or guardian.
 
   (3) Despite the Freedom of Information and Protection of Privacy Act, the Public Guardian and Trustee must not disclose or be compelled to disclose the identity of a person who makes a report resulting in an investigation or audit under this section.
 
-  (4) Nothing in subsection (1) of this section requires the Public Guardian and Trustee to investigate and audit the affairs, dealings and accounts of a guardian who receives property on behalf of a young person under section 178 (2) (a) (ii) of the Family Law Act.
+  (4) Nothing in subsection (1) of this section requires the Public Guardian and Trustee to investigate and audit the affairs, dealings and accounts of a guardian who receives property on behalf of a child under section 178 (2) (a) (ii) of the Family Law Act.
 
 
 ## Production of accounts and records
@@ -391,7 +587,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 (i) require the trustee, attorney, representative or guardian to produce any accounts, securities or other records, and
 
-(ii) require a person, institution or other body having records relating to the financial affairs, business or assets of the young person or adult to produce any accounts, securities or other records
+(ii) require a person, institution or other body having records relating to the financial affairs, business or assets of the child or adult to produce any accounts, securities or other records
 
   - the Public Guardian and Trustee considers necessary for the investigation or audit, including any report or information relevant to the incapability of an adult;
 
@@ -427,19 +623,19 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **19(1)** In this section, "adult" means an adult who is apparently abused or neglected, as defined in the Adult Guardianship Act.
 
-  (2) If the Public Guardian and Trustee has reason to believe that the financial affairs, business or assets of a young person or an adult are in need of immediate protection, the Public Guardian and Trustee may do one or more of the following:
+  (2) If the Public Guardian and Trustee has reason to believe that the financial affairs, business or assets of a child or an adult are in need of immediate protection, the Public Guardian and Trustee may do one or more of the following:
 
-  - (a) instruct any institution where the young person or the adult has an account that no funds are to be withdrawn from or paid out of that account until further notice;
+  - (a) instruct any institution where the child or the adult has an account that no funds are to be withdrawn from or paid out of that account until further notice;
 
-  - (b) direct any source of income for the young person or the adult to send the income to the Public Guardian and Trustee or to a person named by the Public Guardian and Trustee
+  - (b) direct any source of income for the child or the adult to send the income to the Public Guardian and Trustee or to a person named by the Public Guardian and Trustee
 
-(i) to be held in trust for the young person or adult, or
+(i) to be held in trust for the child or adult, or
 
-(ii) to be used to protect or maintain the health or safety of the young person or adult;
+(ii) to be used to protect or maintain the health or safety of the child or adult;
 
-  - (c) halt any disposition of real or personal property belonging to the young person or adult;
+  - (c) halt any disposition of real or personal property belonging to the child or adult;
 
-  - (d) take any other step that is necessary to protect the financial affairs, business or assets of the young person or adult and that is reasonable in the circumstances.
+  - (d) take any other step that is necessary to protect the financial affairs, business or assets of the child or adult and that is reasonable in the circumstances.
 
   (3) A step taken under subsection (2) remains in effect for 30 days or a shorter period set by the Public Guardian and Trustee.
 
