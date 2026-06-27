@@ -2856,13 +2856,9 @@ but does not include a caregiver, prospective adoptive parent or director;
 ## Placement of child for adoption
 
 
-**50.1(1)** Subject to section 50.06, a director may request a director of adoption to place a child for adoption if
+**50.1(1)** Subject to section 50.06, a director may request a director of adoption to place a child for adoption if the child is in the continuing custody of the director.
 
-  - (a) the child is in the continuing custody of the director, or
-
-  - (b) the director is the child's personal guardian under section 51 of the Infants Act.
-
-  (2) A request under subsection (1) (a) must not be made unless
+  (2) A request under subsection (1) must not be made unless
 
   - (a) the continuing custody order was made by consent,
 
@@ -2874,7 +2870,7 @@ but does not include a caregiver, prospective adoptive parent or director;
 ## Role of Public Guardian and Trustee
 
 
-**51** If the Public Guardian and Trustee is the child's property guardian under this Act, the Public Guardian and Trustee has the duties and powers with respect to the management of the child's property and the protection of the child's legal interests that are given by law to the Public Guardian and Trustee, including the duties and powers given by section 7 of the Public Guardian and Trustee Act and sections 12, 14 and 16 of the Infants Act.
+**51** If the Public Guardian and Trustee is the child's property guardian under this Act, the Public Guardian and Trustee has the duties and powers with respect to the management of the child's property and the protection of the child's legal interests that are given by law to the Public Guardian and Trustee, including the duties and powers under Division 2 of Part 2 of the Public Guardian and Trustee Act and section 14 of the Infants Act.
 
 
 ## Role of Public Guardian and Trustee — Indigenous authority
@@ -2892,7 +2888,7 @@ but does not include a caregiver, prospective adoptive parent or director;
 
 (ii) a continuing custody order is cancelled under section 50.04 (2) (b).
 
-  (3) For the purposes of section 7 (1) of the Public Guardian and Trustee Act, the continuation of property guardianship by the Public Guardian and Trustee in accordance with an agreement described in subsection (2) of this section is deemed to be an appointment as property guardian under this Act.
+  (3) [Repealed 2025-25-19.]
 
   (4) When an agreement entered into under subsection (2) terminates, the Public Guardian and Trustee ceases to be the child's property guardian.
 
@@ -3752,15 +3748,15 @@ but does not include a caregiver, prospective adoptive parent or director;
 
   - (g.2) made in order to release a report, or part of a report, finalized under section 93.2 (2) (b), in accordance with a regulation made under section 103 (2) (r.1) (ii),
 
-  - (h) necessary to enable the Public Guardian and Trustee to perform duties and exercise powers as a child's property guardian under this Act,
+  - (h) necessary to enable the Public Guardian and Trustee
+
+(i) to perform duties and exercise powers as a child's property guardian under this Act or in other circumstances referred to in section 6.4 of the Public Guardian and Trustee Act, or
+
+(ii) to assess whether the circumstances for property guardianship referred to in section 6.6 of the Public Guardian and Trustee Act are present,
 
   - (h.1) made to another director,
 
-  - (h.2) made to a director of adoption to facilitate the adoption of a child if
-
-(i) the child is in the continuing custody of a director, or
-
-(ii) a director is the child's personal guardian under section 51 of the Infants Act,
+  - (h.2) made to a director of adoption to facilitate the adoption of a child if the child is in the continuing custody of a director,
 
   - (i) made to a director's legal counsel,
 
