@@ -45,6 +45,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **24** Corrections Work Program Account
 - **25** Work release and work program
 - **26** Earned remission
+- **26.1** Investigation and Standards Office
 - **27** Inspections
 - **28** Investigations
 - **28.1** Power to compel persons to answer questions and order            disclosure
@@ -254,9 +255,21 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) to prevent an inmate from escaping;
 
-  - (d) to maintain custody and control of an inmate.
+  - (d) to maintain custody and control of an inmate;
+
+  - (e) to assist a treatment provider to give treatment to an inmate.
 
   (2) A device used to physically restrain an inmate may only be used in prescribed circumstances and in accordance with prescribed procedures.
+
+  (3) In subsection (1) (e):
+
+"treatment" means treatment
+
+  - (a) within the meaning of the Mental Health Act, and
+
+  - (b) that is authorized by the director under that Act to be given to an inmate, including treatment described in a consent to treatment form signed under section 8 (a) of that Act;
+
+"treatment provider" means a medical practitioner, nurse practitioner or other person who is authorized to provide treatment.
 
 
 ## Search of inmates
@@ -582,34 +595,46 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 **26** An inmate who is serving a sentence for civil contempt or for an offence under an enactment may be credited with earned remission in accordance with the regulations.
 
 
+## Investigation and Standards Office
+
+
+**26.1(1)** The minister must maintain the Investigation and Standards Office.
+
+  (2) The director may delegate in writing one or more of the director's powers and duties to an employee of the Investigation and Standards Office.
+
+  (3) An employee to whom a power or duty is delegated under subsection (2) may not delegate that power or duty to another person.
+
+
 ## Inspections
 
 
-**27(1)** The minister must provide for the inspection of each correctional centre on a periodic basis that the minister considers appropriate in the circumstances.
+**27(1)** The director must provide for the inspection of each correctional centre on a periodic basis that the director considers appropriate in the circumstances.
 
-  (2) The minister or a person conducting an inspection under this section may at any time
+  (2) The director or a person conducting an inspection under this section may at any time
 
   - (a) enter a correctional centre, and
 
   - (b) access any part of the correctional centre.
 
-  (3) The minister or person conducting the inspection may examine any thing or any record, except a medical record of an inmate, in the correctional centre.
+  (3) The director or person conducting the inspection may examine any thing or any record, except a medical record of an inmate, in the correctional centre.
+
+  (4) As soon as practicable after completing an inspection, the director must report the findings of the inspection to the minister and the public.
 
 
 ## Investigations
 
 
-**28(1)** The minister must maintain the Investigation and Standards Office.
+**28(1)** [Repealed 2026-15-31.]
 
   (2) The director
 
-  - (a) may delegate in writing one or more of the director's powers and duties to an employee of the Investigation and Standards Office,
+  - (a) [Repealed 2026-15-31.]
 
   - (b) must investigate a matter respecting the administration of this Act on the written request of the minister,
 
   - (c) may investigate a matter respecting the administration of this Act on the director's own motion,
 
-  - (d) must, subject to subsection (3), investigate complaints about the administration of this Act as it affects the complainant, on receiving a written complaint from
+  - (d) may investigate complaints about the administration of this Act as it affects the complainant, on receiving a complaint from
 
 (i) an inmate,
 
@@ -629,9 +654,17 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 (iii) a file or document under the custody and control of the ministry.
 
-  (3) The director may refuse to investigate a complaint or may stop or postpone investigation of a complaint if the director considers that the complaint is frivolous, vexatious or trivial or is not made in good faith.
+  (3) For the purposes of subsection (2) (d), the director may refuse to investigate a complaint or may stop or postpone investigation of a complaint if, in the opinion of the director, any of the following apply:
 
-  (4) An employee to whom a power or duty is delegated under subsection (2) (a) may not delegate that power or duty to another person.
+  - (a) having regard to all the circumstances, the complaint has already been addressed adequately and further investigation is not necessary;
+
+  - (b) the law or an existing administrative procedure provides a remedy adequate in the circumstances, and, if the complainant has not used the remedy, there is no reasonable justification for the failure to do so;
+
+  - (c) in the circumstances, investigation would not benefit the complainant;
+
+  - (d) the complaint is frivolous, vexatious, not made in good faith or concerns a trivial matter.
+
+  (4) [Repealed 2026-15-31.]
 
 
 ## Power to compel persons to answer questions and order
@@ -680,9 +713,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Offence of obstructing inspections or investigations
 
 
-**29(1)** A person must not obstruct or impede or refuse to admit the minister or a person conducting an inspection under section 27 or a person conducting an investigation under section 28.
+**29(1)** A person must not obstruct or impede or refuse to admit the director or a person conducting an inspection under section 27 or a person conducting an investigation under section 28.
 
-  (2) A person must not aid or assist a person in obstructing or impeding or refusing to admit the minister or a person conducting an inspection under section 27 or a person conducting an investigation under section 28.
+  (2) A person must not aid or assist a person in obstructing or impeding or refusing to admit the director or a person conducting an inspection under section 27 or a person conducting an investigation under section 28.
 
   (3) A person who contravenes subsection (1) or (2) commits an offence.
 

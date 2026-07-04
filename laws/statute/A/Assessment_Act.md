@@ -686,6 +686,14 @@ used to manufacture, process, repair or convey a product;
 
   (6) The duration of the interest of a holder or occupier of land and improvements referred to in subsection (5), or the right of the owner of the fee to terminate that interest, is not a restriction within the meaning of that subsection.
 
+  (6.1) Subject to subsections (5) and (7), in determining actual value, the assessor is not required to consider any restriction placed on the use of the land and improvements by a person other than
+
+  - (a) the Crown,
+
+  - (b) a local government, as defined in the Schedule to the Local Government Act, or
+
+  - (c) a local trust committee, as defined in the Islands Trust Act.
+
   (7) In determining actual value, the assessor must give consideration to any terms or conditions contained, as applicable,
 
   - (a) in a covenant registered under section 219 of the Land Title Act,

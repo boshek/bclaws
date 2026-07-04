@@ -117,7 +117,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) the office of the Information and Privacy Commissioner,
 
-  - (d) the office of the merit commissioner,
+  - (d) [Repealed 2026-5-13.]
 
   - (e) the office of the police complaint commissioner,
 
