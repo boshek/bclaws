@@ -22,14 +22,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **3** Application of Act
 - **4** Consultation process
 - **5** BC Public Service Agency
-- **5.01** Appointment of merit commissioner
-- **5.1** Merit commissioner — merit principle
-- **5.11** Merit commissioner — dismissal process review
-- **5.12** Dismissals eligible for review
-- **5.13** Information for merit commissioner
-- **5.14** Scope of reviews by merit commissioner
+- **5.01–5.14** Repealed
 - **5.2** Annual report of merit commissioner
-- **5.3** Expenses of merit commissioner
+- **5.3** Repealed
 - **6** Delegation
 - **7** Access to facilities and records
 - **8** Appointments on merit
@@ -44,19 +39,17 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **17** Request for feedback on staffing decision
 - **18** Inquiry into staffing decision
 - **19** Review by merit commissioner
-- **20** Power to compel persons to answer questions and order disclosure
-- **20.01** Contempt proceeding for uncooperative person
+- **20–20.01** Repealed
 - **20.02** Repealed
 - **20.1** Decision final
 - **21** Oaths
 - **22** Dismissal and suspension of employees
 - **22.1** Immunity protection
-- **22.2** Inadmissibility
-- **22.3** Merit commissioner not to be compelled
+- **22.2–22.3** Repealed
 - **23** Repealed
 - **24** Annual report
 - **25** Power to make regulations
-- **25.1** Review of dismissal review process
+- **25.1** Repealed
 - **26** Transitional — deputy ministers' pensions
 
 ---
@@ -79,19 +72,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) subject to section 14, a person who by an Act or by an order in council under that section is declared to have the status of a deputy minister;
 
-"dismissal file" means the records of a ministry or a board, commission, agency or organization of the government to which this Act applies that are relevant in relation to a reviewable dismissal;
-
-"eligible dismissal" means a reviewable dismissal that is eligible for review under section 5.12 (1);
-
 "employee" means a person appointed under this Act other than a person appointed under section 15;
 
-"merit commissioner" means the merit commissioner appointed under section 5.01;
-
-"reviewable dismissal" means a dismissal that
-
-  - (a) takes place on or after April 1, 2018, and
-
-  - (b) is, or was initially, a dismissal under section 22 (2).
+"merit commissioner" means the agency head in the agency head's capacity as the merit commissioner referred to in section 5 (2).
 
 
 ## Purposes of Act
@@ -139,7 +122,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **5(1)** The division of the government known as the Public Service Employee Relations Commission is continued as the BC Public Service Agency under the administration of the minister.
 
-  (2) The Lieutenant Governor in Council must appoint, under section 12, an individual to be the agency head.
+  (2) The Lieutenant Governor in Council must appoint, under section 12, an individual to be the agency head and to hold office as the merit commissioner under this Act.
 
   (2.1) to (2.5) [Repealed 2005-35-36.]
 
@@ -176,168 +159,26 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (4) Subject to this Act and the regulations and on the recommendation of the agency head, the minister may issue policies respecting the matters referred to in subsection (3).
 
 
-## Appointment of merit commissioner
+## Repealed
 
 
-**5.01(1)** The Lieutenant Governor in Council, on the recommendation of the Legislative Assembly, must appoint an individual to hold office as the merit commissioner under this Act.
-
-  (2) The merit commissioner is an officer of the Legislature and must
-
-  - (a) faithfully, honestly and impartially exercise the powers and perform the duties of the office, and
-
-  - (b) not divulge any information received under this Act, except if permitted by this Act.
-
-  (3) The Legislative Assembly must not recommend an individual to be appointed under subsection (1) unless a special committee of the Legislative Assembly has unanimously recommended to the Legislative Assembly that the individual be appointed.
-
-  (4) The merit commissioner is to be appointed for a term of 3 years and may be reappointed in the manner provided in this section for further 3 year terms.
-
-  (5) The merit commissioner is entitled
-
-  - (a) to be paid, out of the consolidated revenue fund, compensation as may be fixed by the Lieutenant Governor in Council, and
-
-  - (b) to be reimbursed for reasonable travelling and out of pocket expenses personally incurred in performing the duties of the office.
-
-  (6) The Lieutenant Governor in Council may appoint an acting commissioner if
-
-  - (a) the office of commissioner is or becomes vacant when the Legislative Assembly is not sitting,
-
-  - (b) the commissioner is suspended when the Legislative Assembly is not sitting,
-
-  - (c) the commissioner is removed or suspended or the office becomes vacant when the Legislative Assembly is sitting, but no recommendation is made by the Legislative Assembly under subsection (1) before the end of the session, or
-
-  - (d) the commissioner is temporarily absent because of illness or for another reason.
-
-  (7) An acting commissioner holds office until
-
-  - (a) a person is appointed under subsection (1),
-
-  - (b) the suspension of the commissioner ends,
-
-  - (c) the Legislative Assembly has sat for 30 days after the date of the acting commissioner's appointment, or
-
-  - (d) the commissioner returns to office after a temporary absence,
-
-  whichever is the case and whichever occurs first.
-
-
-## Merit commissioner — merit principle
-
-
-**5.1(1)** The merit commissioner is responsible for monitoring the application of the merit principle under this Act by
-
-  - (a) conducting random audits of appointments to and from within the public service to assess whether
-
-(i) the recruitment and selection processes were properly applied to result in appointments based on merit, and
-
-(ii) the individuals when appointed possessed the required qualifications for the positions to which they were appointed, and
-
-  - (b) reporting the audit results to the deputy ministers or other persons having overall responsibility for the ministries, boards, commissions, agencies or organizations, as the case may be, in which the appointments were made.
-
-  (2) The merit commissioner, in carrying out the merit commissioner's responsibilities under this section, must not conduct audits or issue reports in respect of the period before June 5, 2001.
-
-  (3) [Repealed 2005-35-38.]
-
-
-## Merit commissioner — dismissal process review
-
-
-**5.11** The merit commissioner is responsible for monitoring the application of government practices, policies and standards to eligible dismissals by the following by conducting reviews of eligible dismissals in accordance with sections 5.12 to 5.14:
-
-  - (a) the agency;
-
-  - (b) ministries;
-
-  - (c) boards, commissions, agencies and organizations of the government to which this Act applies.
-
-
-## Dismissals eligible for review
-
-
-**5.12(1)** A reviewable dismissal becomes eligible for review as follows:
-
-  - (a) if no grievance procedure under a collective agreement or proceeding before a court or a judicial or quasi-judicial tribunal in relation to the reviewable dismissal has been commenced, 12 months after the date of the dismissal;
-
-  - (b) if a grievance procedure under a collective agreement or a proceeding before a court or a judicial or quasi-judicial tribunal in relation to the reviewable dismissal has been commenced, 6 months after the date on which the grievance procedure or the proceeding and all related proceedings are complete.
-
-  (2) The agency head must notify the merit commissioner as soon as practicable after the agency head becomes aware that a dismissal about which information was provided to the merit commissioner under section 5.13 (1) is the subject of a grievance procedure under a collective agreement or a proceeding before a court or a judicial or quasi-judicial tribunal.
-
-  (3) If the merit commissioner
-
-  - (a) receives a notification under subsection (2) and is conducting a review of the dismissal that is referred to in the notification, or
-
-  - (b) otherwise becomes aware that the merit commissioner is conducting a review of a dismissal that is the subject of a grievance procedure under a collective agreement or a proceeding before a court or a judicial or quasi-judicial tribunal,
-
-  the merit commissioner must defer the review until the date that is 6 months after the date on which the grievance procedure or the proceeding and all related proceedings are complete.
-
-
-## Information for merit commissioner
-
-
-**5.13(1)** The agency head must, at least once every 6 months, provide the merit commissioner with information about reviewable dismissals and eligible dismissals, including, without limitation,
-
-  - (a) the name of the employee who was dismissed,
-
-  - (b) the position or title of the employee who was dismissed,
-
-  - (c) the name of the ministry, board, commission, agency or organization that employed the employee who was dismissed,
-
-  - (d) the date of the dismissal, and
-
-  - (e) any other prescribed information.
-
-  (2) The agency head must provide the merit commissioner with the dismissal file for a reviewable dismissal as soon as practicable after the dismissal becomes eligible for review under section 5.12 (1).
-
-
-## Scope of reviews by merit commissioner
-
-
-**5.14(1)** The merit commissioner may review only dismissals eligible for review under section 5.12 (1).
-
-  (2) The merit commissioner may determine which eligible dismissals to review.
-
-  (3) For the purposes of a review, the merit commissioner may review the dismissal file and any other information the merit commissioner considers relevant.
-
-  (4) When conducting a review of an eligible dismissal, the merit commissioner must not make a determination whether the dismissal met the legal standard for a just cause dismissal.
+**5.01–5.14** [Repealed 2026-5-16.]
 
 
 ## Annual report of merit commissioner
 
 
-**5.2(1)** The merit commissioner must report annually, no later than May 31, to the Legislative Assembly concerning the merit commissioner's activities under this Act since the last report was made under this section.
+**5.2(1)** The merit commissioner must report annually, no later than May 31, to the minister concerning the merit commissioner's activities under this Act since the last report was made under this section.
 
-  (2) The Speaker must lay each annual report before the Legislative Assembly as soon as practicable, if it is in session.
+  (2) The merit commissioner must, as soon as practicable, post each annual report on a publicly accessible website maintained by or on behalf of the agency.
 
-  (3) If the Legislative Assembly is not in session on the date of the annual report, or within 10 days after that date, the annual report must be promptly filed with the Clerk of the Legislative Assembly.
-
-  (4) The report of the merit commissioner under this section,
-
-  - (a) in relation to monitoring the application of the merit principle, must not disclose
-
-(i) personal information, as defined in Schedule 1 of the Freedom of Information and Protection of Privacy Act, relating to individuals who applied for or were appointed to positions in the public service, or
-
-(ii) the identity of persons who participated on behalf of the ministries, boards, commissions, agencies or organizations, as the case may be, in the selection of the individuals appointed to positions in the public service, and
-
-  - (b) in relation to monitoring the application of government practices, policies and standards respecting eligible dismissals,
-
-(i) may include
-
-(A) references to particular instances of non-compliance with government practices, policies and standards,
-
-(B) identification of persistent patterns of non-compliance with government practices, policies and standards, and
-
-(C) recommendations in relation to dismissals, including recommendations for changes to government practices, policies and standards and how to eliminate patterns of non-compliance with government practices, policies and standards, and
-
-(ii) must not disclose
-
-(A) personal information, as defined in Schedule 1 of the Freedom of Information and Protection of Privacy Act, in relation to a particular instance or a persistent pattern of non-compliance with government practices, policies and standards respecting eligible dismissals, or
-
-(B) the identity of a ministry, board, commission, agency or organization in relation to a particular instance or a persistent pattern of non-compliance with government practices, policies and standards respecting eligible dismissals.
+  (3) and (4) [Repealed 2026-5-17.]
 
 
-## Expenses of merit commissioner
+## Repealed
 
 
-**5.3** The merit commissioner may make a special report to the Legislative Assembly if the merit commissioner believes that the amounts and establishment provided for the office of merit commissioner in the estimates are inadequate for fulfilling the duties of the office.
+**5.3** [Repealed 2026-5-18.]
 
 
 ## Delegation
@@ -347,7 +188,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) delegate any of the agency head's powers, duties or functions under this Act to an employee of the agency,
 
-  - (b) with respect to employees of a ministry or a board, commission, agency or organization to which this Act applies, delegate any of the agency head's powers, duties or functions under this Act to
+  - (b) with respect to employees of a ministry or a board, commission, agency or organization to which this Act applies, delegate any of the agency head's powers, duties or functions under this Act, other than those as the merit commissioner, to
 
 (i) a deputy minister or other employee of the ministry, or
 
@@ -367,7 +208,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Access to facilities and records
 
 
-**7** For the purposes of carrying out their duties under this Act, the agency head and merit commissioner are entitled to access to
+**7** For the purposes of carrying out the agency head's duties under this Act as agency head and merit commissioner, the agency head is entitled to access to
 
   - (a) ministries,
 
@@ -443,7 +284,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (2) An associate deputy minister has all the powers of a deputy minister.
 
-  (3) Sections 5.1, 8 and 18 do not apply to appointments under this section.
+  (3) Sections 8 and 18 do not apply to appointments under this section.
 
 
 ## Deputy ministers' pensions
@@ -540,34 +381,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (7) This section does not apply with respect to an appointment to the public service that is referred to in section 10.
 
 
-## Power to compel persons to answer questions and order disclosure
+## Repealed
 
 
-**20(1)** For the purposes of a review under section 19, the merit commissioner may make an order requiring a person to do either or both of the following:
-
-  - (a) attend, in person or by electronic means, before the merit commissioner to answer questions on oath or affirmation, or in any other manner;
-
-  - (b) produce for the merit commissioner a record or thing in the person's possession or control.
-
-  (2) The merit commissioner may apply to the Supreme Court for an order
-
-  - (a) directing a person to comply with an order made under subsection (1), or
-
-  - (b) directing any directors and officers of a person to cause the person to comply with an order made under subsection (1).
-
-
-## Contempt proceeding for uncooperative person
-
-
-**20.01** The failure or refusal of a person subject to an order under section 20 to do any of the following makes the person, on application to the Supreme Court by the merit commissioner, liable to be committed for contempt as if in breach of an order or judgment of the Supreme Court:
-
-  - (a) attend before the merit commissioner;
-
-  - (b) take an oath or make an affirmation;
-
-  - (c) answer questions;
-
-  - (d) produce records or things in the person's possession or control.
+**20–20.01** [Repealed 2026-5-22.]
 
 
 ## Repealed
@@ -601,27 +418,17 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **22.1(1)** Subject to subsection (2), no legal proceeding for damages lies or may be commenced or maintained against the merit commissioner, or a person acting on behalf of or under the direction of the merit commissioner, because of anything done or omitted
 
-  - (a) in the performance or intended performance of any duty under sections 5.11, 5.12, 5.14 and 19, or
+  - (a) in the performance or intended performance of any duty under section 19, or
 
-  - (b) in the exercise or intended exercise of any power under sections 5.11, 5.12, 5.14 and 19 to 20.1.
+  - (b) in the exercise or intended exercise of any power under sections 19 and 20.1.
 
   (2) Subsection (1) does not apply to a person referred to in that subsection in relation to anything done or omitted by that person in bad faith.
 
 
-## Inadmissibility
+## Repealed
 
 
-**22.2** The following are inadmissible in evidence in any grievance procedure under a collective agreement or proceeding before a court or a judicial or quasi-judicial tribunal in relation to a dismissal that is, or was initially, a dismissal under section 22 (2):
-
-  - (a) an annual report under section 5.2;
-
-  - (b) any findings or records of the merit commissioner, or a person acting on behalf of or under the direction of the merit commissioner, respecting reviews of eligible dismissals or the preparation of an annual report under section 5.2.
-
-
-## Merit commissioner not to be compelled
-
-
-**22.3** The merit commissioner, and a person acting on behalf of or under the direction of the merit commissioner, must not be compelled to give evidence in a grievance procedure under a collective agreement or proceeding before a court or a judicial or quasi-judicial tribunal in relation to a dismissal that is, or was initially, a dismissal under section 22 (2).
+**22.2–22.3** [Repealed 2026-5-24.]
 
 
 ## Repealed
@@ -674,14 +481,10 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   (5) [Repealed 2003-88-12.]
 
 
-## Review of dismissal review process
+## Repealed
 
 
-**25.1** A special committee of the Legislative Assembly must,
-
-  - (a) within 5 years after the date this section comes into force, begin a review of this Act in relation to dismissal process reviews by the merit commissioner, and
-
-  - (b) within one year after the date of the appointment of the special committee, submit a report to the Legislative Assembly respecting this Act in relation to dismissal process reviews by the merit commissioner.
+**25.1** [Repealed 2026-5-24.]
 
 
 ## Transitional — deputy ministers' pensions
