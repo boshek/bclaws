@@ -89,6 +89,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **38.01** Definitions
 - **38.02** Independent investigations office established
 - **38.03** Appointment of chief civilian director
+- **38.031** Deputy chief civilian director
+- **38.032** Acting chief civilian director
 - **38.04** Responsibilities of chief civilian director
 - **38.05** Remuneration, expenses and application ofPublic Sector Pension Plans Act
 - **38.06** Independent investigations office staff and investigators
@@ -1525,7 +1527,15 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (d) the investigation of a matter under section 177.1 [duty of police complaint commissioner to notify IIO] on receiving notice from the police complaint commissioner under that section.
 
-  (2) The independent investigations office consists of a chief civilian director, who is in charge of the independent investigations office, and IIO investigators selected by the chief civilian director.
+  (2) The independent investigations office consists of
+
+  - (a) a chief civilian director, who is in charge of the independent investigations office,
+
+  - (b) a deputy chief civilian director, if one is appointed under section 38.031 [deputy chief civilian director],
+
+  - (c) employees appointed by the chief civilian director under section 38.06 (1) [independent investigations office staff and investigators], and
+
+  - (d) IIO investigators appointed by the chief civilian director under section 38.06 (2).
 
 
 ## Appointment of chief civilian director
@@ -1539,9 +1549,31 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) on being appointed to a first term, for 5 years, and
 
-  - (b) if appointed for a 2nd term, for a period of up to 5 years as specified in the reappointment.
+  - (b) if appointed for a second term, for a period of up to 5 years as specified in the reappointment.
 
-  (4) A person must not be appointed under subsection (1) for a 3rd or subsequent term.
+  (4) A person must not be appointed under subsection (1) for a third or subsequent term.
+
+
+## Deputy chief civilian director
+
+
+**38.031(1)** The Lieutenant Governor in Council may appoint a person as the deputy of the chief civilian director.
+
+  (2) A person who is a current or former member of a police service or the Royal Canadian Mounted Police may not be appointed under subsection (1).
+
+  (3) The chief civilian director may, in writing, delegate to a person appointed as the deputy of the chief civilian director a power or duty of the chief civilian director, subject to terms and conditions the chief civilian director considers appropriate, except the power to delegate under this subsection.
+
+
+## Acting chief civilian director
+
+
+**38.032(1)** If the chief civilian director is temporarily absent because of illness or another reason, or if there is no chief civilian director, the Lieutenant Governor in Council may appoint an acting chief civilian director to exercise the powers and perform the duties of the chief civilian director until, as applicable,
+
+  - (a) the chief civilian director returns to office after the temporary absence, or
+
+  - (b) a chief civilian director is appointed.
+
+  (2) A person who is a current or former member of a police service or the Royal Canadian Mounted Police may not be appointed under subsection (1).
 
 
 ## Responsibilities of chief civilian director
@@ -1563,13 +1595,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Remuneration, expenses and application ofPublic Sector Pension Plans Act
 
 
-**38.05(1)** The chief civilian director is entitled
+**38.05(1)** The chief civilian director and a person appointed as the deputy of the chief civilian director are entitled
 
-  - (a) to be paid a salary specified by the Lieutenant Governor in Council in the chief civilian director's appointment or reappointment, and
+  - (a) to be paid a salary specified by the Lieutenant Governor in Council, and
 
-  - (b) to be reimbursed for reasonable travelling and out-of-pocket expenses personally incurred in exercising the powers and performing the duties of the chief civilian director under this Act.
+  - (b) to be reimbursed for reasonable travelling and out-of-pocket expenses personally incurred in exercising powers and performing duties under this Act.
 
-  (2) The public service plan as defined in section 1 (1) of the Public Sector Pension Plans Act applies to the chief civilian director.
+  (2) The public service plan as defined in section 1 (1) of the Public Sector Pension Plans Act applies to the chief civilian director and a person appointed as the deputy of the chief civilian director.
 
 
 ## Independent investigations office staff and investigators
@@ -1605,7 +1637,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Jurisdiction of chief civilian director and IIO investigators
 
 
-**38.07(1)** The chief civilian director and each IIO investigator have
+**38.07(1)** The chief civilian director, a person appointed as the deputy of the chief civilian director and each IIO investigator have
 
   - (a) all of the powers, duties and immunities of a peace officer and constable at common law or under any Act, and
 
@@ -1619,13 +1651,13 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **38.08(1)** The chief civilian director may appoint a person who is not a current or former member of a police service in British Columbia or the Royal Canadian Mounted Police to review and assess the integrity of a specific investigation in accordance with this section and the terms of reference, if any, established by the chief civilian director in the appointment.
 
-  (2) Before beginning to exercise powers and perform duties, a civilian monitor appointed under subsection (1) must take an oath before the chief civilian director
+  (2) Before beginning to exercise powers and perform duties, a civilian monitor appointed under subsection (1) must take an oath before the chief civilian director or a person appointed as the deputy of the chief civilian director
 
-  - (a) to faithfully and impartially review and assess the integrity of the independent investigations office investigation in accordance with this section and the terms of reference, if any, established by the chief civilian director in the appointment, and
+  - (a) to faithfully and impartially review and assess the integrity of the independent investigations office investigation in accordance with this section and the terms of reference, if any, established in the appointment, and
 
   - (b) not to divulge any information obtained as civilian monitor, except in accordance with this section.
 
-  (3) For the purposes of subsection (2), the chief civilian director is a commissioner for taking affidavits in British Columbia.
+  (3) For the purposes of subsection (2), the chief civilian director and a person appointed as the deputy of the chief civilian director are commissioners for taking affidavits in British Columbia.
 
   (4) A civilian monitor is not entitled to participate in, attend or conduct an independent investigations office investigation under this Part, but the civilian monitor
 
@@ -1683,7 +1715,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **38.101** An officer must cooperate fully with
 
-  - (a) the chief civilian director in the chief civilian director's exercise of powers or performance of duties under this Act, and
+  - (a) the chief civilian director in the chief civilian director's exercise of powers or performance of duties under this Act,
+
+  - (a.1) a person appointed as the deputy of the chief civilian director in the exercise of the person's powers or performance of duties under this Act, including powers and duties delegated to the person by the chief civilian director, and
 
   - (b) an IIO investigator in the IIO investigator's exercise of powers or performance of duties under this Act.
 
@@ -1867,7 +1901,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) the training of persons to become officers or IIO investigators;
 
-  - (b) the training and retraining of officers, IIO investigators or the chief civilian director;
+  - (b) the training and retraining of officers, IIO investigators, the chief civilian director or a person appointed as the deputy of the chief civilian director;
 
   - (c) the use of force;
 
@@ -6729,7 +6763,7 @@ that, to the member's knowledge, is false or misleading;
 
   - (h.1) prescribing requirements for the purposes of section 177.3 (2) (c) [list of persons qualified to be discipline authorities];
 
-  - (i) respecting the handling of complaints against IIO investigators, the chief civilian director or officers other than municipal constables, the investigation of those complaints and the discipline of those persons, including, without limitation, making all or any part of Part 11 applicable, with any changes that the Lieutenant Governor in Council considers necessary or advisable, to the IIO investigators, the chief civilian director or a class of officers other than municipal constables;
+  - (i) respecting the handling of complaints against IIO investigators, the chief civilian director, a person appointed as the deputy of the chief civilian director or officers other than municipal constables, the investigation of those complaints and the discipline of those persons, including, without limitation, making all or any part of Part 11 applicable, with any changes that the Lieutenant Governor in Council considers necessary or advisable, to the IIO investigators, the chief civilian director, a person appointed as the deputy of the chief civilian director or a class of officers other than municipal constables;
 
   - (j) respecting the implementation, use, maintenance, repair and upgrading of a contemporaneous file monitoring system by a law enforcement service under section 183;
 
@@ -6743,7 +6777,7 @@ that, to the member's knowledge, is false or misleading;
 
 (iii) specified law enforcement services in specified geographical areas of British Columbia.
 
-  (2.1) For the purposes of subsection (2) (i), the Lieutenant Governor in Council may make regulations respecting the powers, duties and functions of the police complaint commissioner, or of other persons, entities, boards or bodies, in relation to the IIO investigators, the chief civilian director or officers other than municipal constables, including, without limitation, regulations that do any of the following:
+  (2.1) For the purposes of subsection (2) (i), the Lieutenant Governor in Council may make regulations respecting the powers, duties and functions of the police complaint commissioner, or of other persons, entities, boards or bodies, in relation to the IIO investigators, the chief civilian director, a person appointed as the deputy of the chief civilian director or officers other than municipal constables, including, without limitation, regulations that do any of the following:
 
   - (a) authorize a person, entity, board or other body to impose any or all of the disciplinary or corrective measures referred to in section 126 (1) [imposition of disciplinary or corrective measures in relation to members];
 

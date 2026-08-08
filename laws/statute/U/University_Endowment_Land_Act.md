@@ -32,8 +32,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **13** Variation of bylaw provisions
 - **14** Enforcement of bylaws
 - **15** Administration of the University Endowment Land
+- **15.01** Prosecution by enforcement officer
 - **15.1** Minister's delegation
-- **16** Offence and penalty
+- **16** Repealed
 - **17** Restrictive covenants
 - **18** Appropriation
 - **19** Power to make regulations
@@ -86,7 +87,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) the amounts derived from payments made to the government on account of local improvements under agreements entered into by the purchasers and lessees of the subdivided land in respect of them and the local improvement charges, collected under section 2 (3);
 
-  - (d) the amounts derived from the maintenance or operation of any work or service for the convenience or use of the occupants of the subdivided land, including all fees, rates and tolls payable under the regulations and the bylaws under this Act.
+  - (d) the amounts derived from the maintenance or operation of any work or service for the convenience or use of the occupants of the subdivided land, including all fees, fines, rates and tolls payable under the regulations and the bylaws under this Act.
 
   - (e) [Repealed 2006-3-23.]
 
@@ -256,6 +257,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (g) imposing one or more of specified fines, costs or other penalties for the contravention of a bylaw;
 
+  - (g.01) for the purposes of enforcing bylaws made under this Act;
+
   - (g.1) modifying the requirement set out in subsection (5) by providing for alternative means of publishing a notice;
 
   - (h) establishing procedures for appeals under section 15 (2);
@@ -278,7 +281,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (3) For the purposes of subsection (1) (i), the minister has the authority that would be required to enact the validated bylaw under this section.
 
-  (4) Provisions in a bylaw under subsection (1) may
+  (4) Subject to subsection (4.1), provisions in a bylaw under subsection (1) may
 
   - (a) be made applicable to all or part of the University Endowment Land,
 
@@ -291,6 +294,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 (ii) different buildings or classes of buildings, and
 
 (iii) different structures or classes of structures.
+
+  (4.1) A bylaw imposing a fine, cost or other penalty may not vary under subsection (4) (b).
 
   (5) Subject to subsection (5.1), not more than 60 days and not less than 30 days before making an order under subsection (1), the minister must publish a notice at least once a week for 2 consecutive weeks in a newspaper distributed in the University Endowment Land stating all of the following:
 
@@ -350,7 +355,21 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) section 57 [note against land title that building regulations contravened];
 
-  - (c) section 58 [cancellation of note against land title].
+  - (c) section 58 [cancellation of note against land title];
+
+  - (d) Division 3 [Ticketing for Bylaw Offences] of Part 8 [Bylaw Enforcement and Related Matters].
+
+  (3) For the purposes of this section,
+
+  - (a) a reference in section 265 (1) [penalties in relation to ticket offences] of the Community Charter to a bylaw under section 260 (1) [enforcement powers] of that Act must be read as a reference to a bylaw under section 12 (1) (g.01) of this Act,
+
+  - (b) a reference in section 416 (1.1) of the Local Government Act to a bylaw under section 413 (1) [bylaw enforcement: fines and other penalties] of that Act must be read as a reference to a bylaw under section 12 (1) (g.01) of this Act,
+
+  - (c) a reference in section 28 (2) [service on individual] of the Offence Act to a bylaw enforcement officer appointed under section 36 of the Police Act must be read as a bylaw enforcement officer designated under this Act, and
+
+  - (d) a reference in section 28 (3) of the Offence Act to a bylaw of a municipality or regional district must be read as a reference to a bylaw under section 12 (1) (g.01) of this Act.
+
+  (4) A fine, cost or other penalty imposed under a bylaw made under this Act constitutes a debt due to the government and may be recovered as such in any court of competent jurisdiction.
 
 
 ## Administration of the University Endowment Land
@@ -362,23 +381,29 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) authorize a person appointed under paragraph (a) to decide on applications and other matters that require decision under this Act, including the issue of variance permits under section 13.
 
-  (2) A person who is affected by a decision made under subsection (1) (b) may appeal the decision to the minister.
+  (2) A person who is affected by a decision made under subsection (1) (b), other than a decision relating to the enforcement of a bylaw, may appeal the decision to the minister.
 
   (3) Section 738 (2) and (3) of the Local Government Act, as it applies to an employee of a municipality, applies to a person performing or intending to perform a duty or exercising a power under this Act and, if section 738 (2) and (3) of the Local Government Act applies, section 738 (4) of the Local Government Act applies to the employer of the person.
+
+
+## Prosecution by enforcement officer
+
+
+**15.01(1)** A bylaw enforcement officer may appear as, and may exercise the powers and perform the functions of, a prosecutor in relation to a ticket under this Act whether or not the bylaw enforcement officer is a member of the Law Society of British Columbia.
+
+  (2) Section 15 (1) [authority to practise law] of the Legal Profession Act does not apply in respect of anything authorized under this section.
 
 
 ## Minister's delegation
 
 
-**15.1** Subject to section 15 (1), the minister may delegate in writing, on terms and conditions the minister considers appropriate, any of the minister's powers and functions under this Act, except the powers and functions under section 12, to any person or category of persons.
+**15.1** Subject to section 15 (1), the minister may delegate in writing, on terms and conditions the minister considers appropriate, any of the minister's powers and duties under this Act, except the powers and duties under section 12, to any person or category of persons.
 
 
-## Offence and penalty
+## Repealed
 
 
-**16(1)** A person must not pick, cut, damage or remove the whole or any part of any flower, plant, shrub or tree on any part of the University Endowment Land, or remove any material from any part of the lot, or place any material on any part of the lot unless the person has the right of possession of the part or has authority to do so from the person having the right of possession.
-
-  (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a penalty of not less than $10 and not more than $100.
+**16** [Repealed 2026-15-24.]
 
 
 ## Restrictive covenants
