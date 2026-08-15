@@ -113,11 +113,12 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **74** Complaint and time limit
 - **75** If complainant requests identity be kept confidential
 - **76** Review and investigation of complaints
+- **76.1** Complaint resolution process during investigation
 - **77** Opportunity to respond
 - **77.1** Oral hearing not required
 - **78** Settlement agreements
-- **78.1** Written report
-- **78.2** Director must consider written report and responses
+- **78.1** Report may be prepared and served
+- **78.2** Repealed
 - **79** Determinations and consequences
 - **80** Limit on amount of wages required to be paid
 - **81** Notifying others of determination
@@ -196,7 +197,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) in relation to an employee's shift that continues over midnight, the 24 hour period beginning at the start of the employee's shift;
 
-"determination" means any decision made by the director under section 30 (2), 66, 68 (3), 73, 74 (5), 76 (1.1) or (3), 79, 80 (3), 100 or 119;
+"determination" means any decision made by the director under section 30 (2), 66, 68 (3), 73, 74 (5), 76 (2), (3) or (8), 79, 80 (3), 100 or 119;
 
 "director" means the Director of Employment Standards appointed under the Public Service Act and, in relation to a function, duty or power that the director has under section 117 of this Act delegated to another person, "director" includes that other person;
 
@@ -680,7 +681,7 @@ but does not include
 
   (3) The director's receipt for wages is proof that the employer's liability for payment of the wages is discharged to the extent of the amount stated in the receipt.
 
-  (4) If the director cannot locate an employee within one year after receiving the employee's wages under this section, the director must transfer the wages to the administrator in accordance with the transfer schedule set by the administrator.
+  (4) If the director cannot locate an employee after receiving the employee's wages under this section, the director must transfer the wages to the administrator in accordance with the transfer schedule set by the administrator.
 
   (5) Money transferred to the administrator under subsection (4) is deemed to be an unclaimed money deposit under the Unclaimed Property Act.
 
@@ -2200,49 +2201,103 @@ but does not include
 ## Review and investigation of complaints
 
 
-**76(1)** Subject to subsection (1.1), the director must accept a complaint made under section 74.
+**76(1)** Subject to subsection (2), the director must accept a complaint made under section 74.
 
-  (1.1) The director must refuse to accept a complaint if the complaint is not made within the applicable time period required by section 74 (3) or (4), or any extension of the applicable time period granted under section 74 (5).
+  (2) The director must refuse to accept a complaint if the complaint is not made within the time period under section 74 (3), (4) or (5), as applicable.
 
-  (1.2) On accepting a complaint under subsection (1), the director must review the complaint and make a decision about whether any of the circumstances described in subsection (3) (b) to (i) apply to the complaint.
+  (3) On accepting a complaint under subsection (1), the director must review the complaint and decide whether any of the following circumstances apply:
 
-  (1.3) If the director takes no action under subsection (3), the director must investigate the complaint, and this investigation may involve an alternative dispute resolution process.
+  - (a) this Act does not apply to the complaint;
 
-  (1.4) Despite subsection (1.3) but subject to subsection (3), if the director decides that the complaint may relate to employees other than the employee who made the complaint, the director may
+  - (b) the complaint is frivolous, vexatious or trivial or is not made in good faith;
+
+  - (c) a proceeding relating to the subject matter of the complaint has been commenced before a court, tribunal, arbitrator or mediator;
+
+  - (d) a court, tribunal or arbitrator has made a decision or award relating to the subject matter of the complaint;
+
+  - (e) the dispute that caused the complaint may be dealt with under section 3 (7);
+
+  - (f) the complaint has been resolved
+
+(i) by way of a settlement agreement made under section 78,
+
+(ii) by way of payment to the complainant of unpaid wages claimed by the complainant, or
+
+(iii) in any other manner that the director considers to be satisfactory.
+
+  (4) If the director decides that none of the circumstances under subsection (3) apply, the director must investigate the complaint.
+
+  (5) If the director decides that any of the circumstances under subsection (3) apply, the director may
+
+  - (a) refuse to investigate the complaint, or
+
+  - (b) investigate the complaint.
+
+  (6) If the director decides at any time that the complaint may relate to an employee other than the employee who made the complaint, the director may
 
   - (a) refuse to investigate the complaint or stop or postpone investigating the complaint, and
 
   - (b) conduct a broader investigation that addresses the subject matter of the complaint.
 
-  (1.5) Despite subsection (1.4) but subject to subsection (3), the director must investigate the complaint if the director
+  (7) If the director conducts but does not complete the broader investigation under subsection (6) (b), or if that broader investigation does not resolve the issues raised in the complaint, the director must, subject to subsection (8), investigate the complaint.
 
-  - (a) does not complete the broader investigation referred to in subsection (1.4) (b), or
+  (8) The director may stop or postpone investigating a complaint at any time if the director is satisfied that
 
-  - (b) the broader investigation does not resolve the issues raised in the complaint.
+  - (a) this Act does not apply to the complaint,
 
-  (2) [Repealed 2019-27-25.]
+  - (b) the complaint is frivolous, vexatious or trivial or is not made in good faith,
 
-  (3) The director may stop or postpone reviewing or investigating a complaint or refuse to investigate a complaint if the director is satisfied that
+  - (c) there is not enough evidence to prove the complaint,
 
-  - (a) [Repealed 2019-27-25.]
+  - (d) despite the director's attempt to arrange for the complainant's participation in a review or investigation or to obtain information from the complainant, the complainant failed to participate in the review or investigation or to provide information,
 
-  - (b) this Act does not apply to the complaint,
+  - (e) a proceeding relating to the subject matter of the complaint has been commenced before a court, tribunal, arbitrator or mediator,
 
-  - (c) the complaint is frivolous, vexatious or trivial or is not made in good faith,
+  - (f) a court, tribunal or arbitrator has made a decision or award relating to the subject matter of the complaint,
 
-  - (d) [Repealed 2019-27-25.]
+  - (g) the dispute that caused the complaint may be dealt with under section 3 (7), or
 
-  - (e) there is not enough evidence to prove the complaint,
+  - (h) the complaint has been resolved
 
-  - (e.1) despite the director's attempt to arrange for the complainant's participation in a review or investigation or to obtain information from the complainant, the complainant failed to participate in the review or investigation or to provide information,
+(i) by way of a settlement agreement made under section 78,
 
-  - (f) a proceeding relating to the subject matter of the complaint has been commenced before a court, a tribunal, an arbitrator or a mediator,
+(ii) by way of payment to the complainant of unpaid wages claimed by the complainant, or
 
-  - (g) a court, a tribunal or an arbitrator has made a decision or an award relating to the subject matter of the complaint,
+(iii) in any other manner that the director considers to be satisfactory.
 
-  - (h) the dispute that caused the complaint may be dealt with under section 3 (7), or
 
-  - (i) the complaint has been resolved, including by way of a settlement agreement made under section 78.
+## Complaint resolution process during investigation
+
+
+**76.1(1)** In this section, "party", in relation to a complaint made under section 74 (1), means the following:
+
+  - (a) the complainant;
+
+  - (b) the person against whom the complaint was made.
+
+  (2) If the director investigates a complaint, the director may
+
+  - (a) require the parties to participate in a complaint resolution process conducted by the director as part of the investigation, and
+
+  - (b) specify the manner in which the parties must participate in that process.
+
+  (3) The director may
+
+  - (a) excuse a party from the requirement to participate in a complaint resolution process if that party gives a reason the director considers satisfactory, and
+
+  - (b) continue to investigate the complaint after excusing a party under paragraph (a).
+
+  (4) If a party fails to participate in a complaint resolution process as required under subsection (2), the director may
+
+  - (a) continue to investigate the complaint, or
+
+  - (b) stop investigating the complaint and, subject to section 78.1, proceed to make a determination under section 79.
+
+  (5) Evidence, submissions and other information provided to the director by a party during a complaint resolution process
+
+  - (a) may be considered by the director when making a determination under section 79, whether or not one or both of the parties participated in the complaint resolution process, and
+
+  - (b) are part of the record referred to in section 112 (5).
 
 
 ## Opportunity to respond
@@ -2270,7 +2325,7 @@ but does not include
 
 **78(1)** The director may do one or more of the following:
 
-  - (a) assist in settling a matter investigated under section 73.1 or a complaint made under section 74;
+  - (a) assist in settling a matter investigated under section 73.1 or a complaint made under section 74, whether or not that assistance is provided as part of a complaint resolution process under section 76.1;
 
   - (b) arrange that a person pay directly to an employee or other person any amount to be paid as a result of a settlement agreement under paragraph (a);
 
@@ -2285,28 +2340,26 @@ but does not include
   (5) The application and operation of a settlement agreement under this section must not be interpreted as a waiver described in section 4.
 
 
-## Written report
+## Report may be prepared and served
 
 
-**78.1(1)** After completing the investigation of a complaint, the director must
+**78.1(1)** The director may, before making a determination under section 79, prepare a written report for the purpose of providing to the persons referred to in subsection (2) of this section the opportunity to respond to the director before the determination is made.
 
-  - (a) summarize the director's findings of the investigation in a written report, and
+  (2) If the director prepares a report under subsection (1), the director must serve a copy of the report on
 
-  - (b) serve a copy of the written report on the following:
+  - (a) the complainant,
 
-(i) the person who made the complaint;
+  - (b) the person against whom the complaint was made, and
 
-(ii) the person against whom the complaint was made;
+  - (c) any other person who the director considers should have the opportunity to provide a response.
 
-(iii) any person the director considers should have the opportunity to respond to the report.
-
-  (2) A person referred to in subsection (1) (b) may, within a period set by the director, provide to the director a written response to the report.
+  (3) A person on whom a report is served under subsection (2) may, within a period of time specified by the director, provide to the director a written response to the report.
 
 
-## Director must consider written report and responses
+## Repealed
 
 
-**78.2** In making a determination of a complaint, other than a decision under section 76 (1.1) or (3), the director must consider the written report referred to in section 78.1 (1) (a) and all responses provided to the director under section 78.1 (2).
+**78.2** [Repealed 2026-10-7.]
 
 
 ## Determinations and consequences
@@ -2594,7 +2647,7 @@ but does not include
 
   (4) Subsection (1) applies whether or not the wages or other amount became payable before this section comes into force, but the date from which the interest is calculated must not be earlier than the date this section comes into force.
 
-  (5) An amount collected under this Part, or deposited under section 113, earns interest at the prescribed rate, payable by the minister charged with the administration of the Financial Administration Act, from the date the amount is deposited in a savings institution to the date of payment to the person entitled.
+  (5) An amount collected under this Part, or deposited under section 112 or 113, earns interest at the prescribed rate, payable by the minister charged with the administration of the Financial Administration Act, from the date the amount is deposited in a savings institution to the date of payment to the person entitled.
 
   (6) Subsection (5) does not apply to any security provided or bond posted under section 100.
 
@@ -3026,21 +3079,31 @@ but does not include
 
   (2) A person who wishes to appeal a determination to the tribunal under subsection (1) must, within the appeal period established under subsection (3),
 
-  - (a) deliver to the office of the tribunal
+  - (a) deliver to the director the deposit amount specified in subsection (3.1), if applicable,
+
+  - (a.1) deliver to the office of the tribunal
 
 (i) a written request specifying the grounds on which the appeal is based under subsection (1),
 
-(i.1) a copy of the director's written reasons for the determination, and
+(i.1) a copy of the director's written reasons for the determination,
 
 (ii) payment of the appeal fee, if any, prescribed by regulation, and
 
-  - (b) deliver a copy of the request under paragraph (a) (i) to the director.
+(iii) if a deposit is delivered to the director under paragraph (a), written confirmation from the director respecting delivery of the deposit, and
+
+  - (b) deliver a copy of the request under paragraph (a.1) (i) to the director.
 
   (3) The appeal period referred to in subsection (2) is the period that starts on the date the determination was served under section 122 and ends 30 days after that date.
 
+  (3.1) If the determination in respect of which a person wishes to make an appeal includes a requirement that the person pay an amount of money to one or more employees, the person must deliver to the director a deposit equal to
+
+  - (a) the total amount that the person is required to pay under the determination, or
+
+  - (b) a smaller amount that the tribunal considers adequate in the circumstances.
+
   (4) If, after an appeal is made by a person in accordance with subsections (2) and (3), the determination that is the subject of the appeal is varied by the director under section 86, the person, within 7 days of being notified of the variation,
 
-  - (a) may amend the request for appeal under subsection (2) (a) (i) and deliver it to the tribunal, and
+  - (a) may amend the request for appeal under subsection (2) (a.1) (i) and deliver it to the tribunal, and
 
   - (b) if the request for appeal is amended, must deliver a copy of the amended request to the director.
 
@@ -3058,11 +3121,7 @@ but does not include
 
 **113(1)** A person who appeals a determination may request the tribunal to suspend the effect of the determination.
 
-  (2) The tribunal may suspend the determination for the period and subject to the conditions it thinks appropriate, but only if the person who requests the suspension deposits with the director either
-
-  - (a) the total amount, if any, required to be paid under the determination, or
-
-  - (b) a smaller amount that the tribunal considers adequate in the circumstances of the appeal.
+  (2) The tribunal may, if requested to do so under subsection (1), suspend a determination for the period and subject to the conditions it considers appropriate.
 
 
 ## After an appeal is requested
@@ -3092,6 +3151,8 @@ but does not include
 
   - (b) recommend that an attempt be made to settle the matter.
 
+  (2.1) Section 76.1 does not apply in respect of a matter referred back to the director for further investigation under subsection (2) (a) of this section.
+
   (3) If the tribunal dismisses all or part of an appeal under subsection (1), the tribunal must inform the parties of its decision in writing and give reasons for that decision.
 
 
@@ -3105,6 +3166,8 @@ but does not include
   - (b) refer the matter back to the director.
 
   (2) [Repealed 2004-45-93.]
+
+  (3) Section 76.1 applies in respect of a matter referred back to the director for further investigation under subsection (1) of this section.
 
 
 ## Reconsideration of orders and decisions
@@ -3130,7 +3193,7 @@ but does not include
 ## Director's power to delegate
 
 
-**117(1)** Subject to subsection (2), the director may delegate to any person any of the director's functions, duties or powers under this Act, except the power to delegate under this section.
+**117(1)** The director may delegate to any person any of the director's functions, duties or powers under this Act, except the power to delegate under this section.
 
   (2) and (3) [Repealed 2002-42-63.]
 
@@ -3138,7 +3201,7 @@ but does not include
 
   - (a) may be cancelled,
 
-  - (b) does not, subject to subsection (3), prevent the director carrying out the delegated function, duty or power, and
+  - (b) does not prevent the director carrying out the delegated function, duty or power, and
 
   - (c) may be made subject to the terms the director considers appropriate.
 
@@ -3206,7 +3269,7 @@ but does not include
 ## Service of determinations, demands, notices and reports
 
 
-**122(1)** A determination or demand, a notice under section 30.1 (2) or a written report referred to in section 78.1 (1) (a) that is required under this Act to be served on a person is deemed to have been served if it is
+**122(1)** A determination or demand, a notice under section 30.1 (2) or a written report referred to in section 78.1 (1) that is required under this Act to be served on a person is deemed to have been served if it is
 
   - (a) sent by ordinary mail or registered mail to the person's last known address according to the records of the director,
 
@@ -3216,9 +3279,9 @@ but does not include
 
   - (d) sent, transmitted or delivered by any prescribed method of service.
 
-  (2) If service is by ordinary mail or registered mail, then the determination or demand, the notice under section 30.1 (2) or the written report referred to in section 78.1 (1) (a) is deemed to have been served 8 days after it is mailed.
+  (2) If service is by ordinary mail or registered mail, then the determination or demand, the notice under section 30.1 (2) or the written report referred to in section 78.1 (1) is deemed to have been served 8 days after it is mailed.
 
-  (3) If service is by email or fax, then the determination or demand, the notice under section 30.1 (2) or the written report referred to in section 78.1 (1) (a) is deemed to have been served 3 days after it is transmitted.
+  (3) If service is by email or fax, then the determination or demand, the notice under section 30.1 (2) or the written report referred to in section 78.1 (1) is deemed to have been served 3 days after it is transmitted.
 
 
 ## Irregularities
@@ -3338,7 +3401,7 @@ but does not include
 
 (ii) provide for greater penalties for a second contravention and for third or subsequent contraventions in a 3 year period or any other period that may be prescribed;
 
-  - (n.1) prescribing an appeal fee for the purposes of section 112 (2) (a) (ii);
+  - (n.1) prescribing an appeal fee for the purposes of section 112 (2) (a.1) (ii);
 
   - (o) providing for appeals from determinations to a person or body other than the tribunal in cases involving the tribunal as an employer and providing for the enforcement of decisions on those appeals;
 
