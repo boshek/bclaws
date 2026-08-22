@@ -21,6 +21,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 - **2** What this Act applies to
 - **3** Act applies to tenancy agreement with a minor
 - **4** What this Act does not apply to
+- **4.1** Interpretation and application: supportive housing
+- **4.2** Supportive housing rental units
+- **4.3** Amendments to tenancy agreements:terms and standard terms for supportive housing
 - **5** This Act cannot be avoided
 - **5.1** Application ofAdministrative Tribunals Act
 - **6** Enforcing rights and obligations of landlords and tenants
@@ -206,6 +209,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "generated notice" means an approved form obtained from the authorized internet site in accordance with section 53.1 [generated notices for ending certain tenancies];
 
+"housing stability support" has the prescribed meaning;
+
 "landlord", in relation to a rental unit, includes any of the following:
 
   - (a) the owner of the rental unit, the owner's agent or another person who, on behalf of the landlord,
@@ -310,6 +315,12 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) that specifies the date on which the tenancy under the sublease agreement ends;
 
+"supportive housing" means living accommodation in supportive housing rental units;
+
+"supportive housing operator" means a prescribed person or organization;
+
+"supportive housing rental unit" means a rental unit described in section 4.2 [supportive housing rental units];
+
 "tenancy" means a tenant's right to possession of a rental unit under a tenancy agreement;
 
 "tenancy agreement" means an agreement, whether written or oral, express or implied, between a landlord and a tenant respecting possession of a rental unit, use of common areas and services and facilities, and includes a licence to occupy a rental unit;
@@ -318,7 +329,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) the estate of a deceased tenant, and
 
-  - (b) when the context requires, a former or prospective tenant.
+  - (b) when the context requires, a former or prospective tenant;
+
+"transitional housing", subject to the regulations, means living accommodation that is provided in prescribed circumstances, but does not include supportive housing.
 
 
 ## What this Act applies to
@@ -377,6 +390,58 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
   - (j) tenancy agreements to which the Manufactured Home Park Tenancy Act applies, or
 
   - (k) prescribed tenancy agreements, rental units or residential property.
+
+
+## Interpretation and application: supportive housing
+
+
+**4.1(1)** In this Division:
+
+"landlord" means a landlord of a supportive housing rental unit;
+
+"residential property" means a residential property where a supportive housing rental unit is located;
+
+"tenancy agreement" means a tenancy agreement in relation to a supportive housing rental unit;
+
+"tenant" means a tenant of a supportive housing rental unit.
+
+  (2) This Division applies to tenancy agreements for supportive housing rental units and residential property.
+
+  (3) For certainty, nothing in this Division affects the exemptions established under section 4 [what this Act does not apply to] or 97 (2) (a) [power to make regulations].
+
+
+## Supportive housing rental units
+
+
+**4.2(1)** For the purposes of this Act, a rental unit is a supportive housing rental unit if all of the following apply:
+
+  - (a) the rental unit is located on a residential property that is operated by a supportive housing operator;
+
+  - (b) the rental unit is rented to a tenant who has been assessed
+
+(i) as experiencing homelessness or as being at risk of experiencing homelessness, and
+
+(ii) as a person who would benefit from housing stability support;
+
+  - (c) housing stability support is available to at least one tenant of the rental unit;
+
+  - (d) the rental unit is not provided on a temporary basis.
+
+  (2) The assessment of a tenant for the purposes of paragraph (b) (i) or (ii) of subsection (1) in relation to homelessness or housing stability support, as applicable, is based on the following:
+
+  - (a) the prescribed assessment criteria;
+
+  - (b) if no assessment criteria have been prescribed, the assessment criteria set by the supportive housing operator.
+
+
+## Amendments to tenancy agreements:terms and standard terms for supportive housing
+
+
+**4.3(1)** The Lieutenant Governor in Council may, by regulation, provide that, if a landlord is not required under this Act to include a standard term in a tenancy agreement, the landlord may amend an existing tenancy agreement to change or remove that standard term.
+
+  (2) The Lieutenant Governor in Council may, in respect of a tenancy agreement, prescribe exceptions to the requirement under section 14 (2) [amendments to tenancy agreement] that both the landlord and the tenant agree to the amendment of the tenancy agreement to add, remove or change a term other than a standard term.
+
+  (3) For the purposes of this section, the Lieutenant Governor in Council may, by regulation, establish requirements, conditions, restrictions or prohibitions in respect of the amendment of tenancy agreements.
 
 
 ## This Act cannot be avoided
@@ -506,7 +571,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Tenancy agreements include the standard terms
 
 
-**12** The standard terms are terms of every tenancy agreement
+**12** The standard terms are terms of a tenancy agreement
 
   - (a) whether the tenancy agreement was entered into on or before, or after, January 1, 2004, and
 
@@ -694,7 +759,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Condition inspection: start of tenancy or new pet
 
 
-**23(1)** The landlord and tenant together must inspect the condition of the rental unit on the day the tenant is entitled to possession of the rental unit or on another mutually agreed day.
+**23(1)** Subject to the regulations, the landlord and tenant must inspect the condition of the rental unit on the day the tenant is entitled to possession of the rental unit or on another mutually agreed day.
 
   (2) The landlord and tenant together must inspect the condition of the rental unit on or before the day the tenant starts keeping a pet or on another mutually agreed day, if
 
@@ -938,7 +1003,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Condition inspection: end of tenancy
 
 
-**35(1)** The landlord and tenant together must inspect the condition of the rental unit before a new tenant begins to occupy the rental unit
+**35(1)** Subject to the regulations, the landlord and tenant must inspect the condition of the rental unit before a new tenant begins to occupy the rental unit
 
   - (a) on or after the day the tenant ceases to occupy the rental unit, or
 
@@ -2926,6 +2991,8 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) exempting tenancy agreements, rental units or residential property from all or part of this Act;
 
+  - (a.01) prescribing information, including any specific residential property information or address, rental unit or tenancy agreement, for the purposes of the definition of "transitional housing" in section 1 of this Act;
+
   - (a.1) prescribing the circumstances in which a landlord may include in a fixed term tenancy agreement a requirement that the tenant vacate a rental unit at the end of the term;
 
   - (a.2) prescribing the minimum period of time for which a circumstance prescribed under paragraph (a.1) must be satisfied;
@@ -2934,7 +3001,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) respecting tenancy agreements, including prescribing
 
-(i) standard terms that must be included in every tenancy agreement, and
+(i) standard terms that must be included in tenancy agreements, and
 
 (ii) formal requirements for tenancy agreements;
 
@@ -2974,7 +3041,15 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (h) prescribing the following regarding inspections required under sections 23 [condition inspection: start of tenancy] and 35 [condition inspection: end of tenancy]:
 
-(i) the procedures to be followed in conducting the inspection;
+(i) the procedures to be followed in conducting the inspection and other matters relating to inspections;
+
+(i.1) any requirements, criteria or conditions for any prescribed alternative means of participation, including the following means:
+
+(A) attendance by an agent on the tenant's behalf;
+
+(B) electronic or other communication facilities;
+
+(i.2) the circumstances in which a tenant of a supportive housing rental unit may only participate in an inspection by prescribed alternative means of participation;
 
 (ii) the form, content, completion requirements and use as evidence of a condition inspection report;
 
@@ -3058,6 +3133,34 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (q) for any other purpose for which regulations are contemplated by this Act.
 
+  (2.1) The Lieutenant Governor in Council may make regulations in relation to supportive housing for the purposes of Division 2 [Special Provisions for Supportive Housing] of Part 1.1, including regulations doing one or more of the following:
+
+  - (a) specifying how provisions of this Act apply or do not apply, or setting conditions of, or limitations on, the application of provisions of this Act, to the following:
+
+(i) supportive housing, including tenancy agreements for supportive housing rental units;
+
+(ii) in relation to supportive housing rental units, residential properties, supportive housing operators, landlords and tenants;
+
+  - (b) prescribing matters in respect of definitions under section 1 or Division 2 [Special Provisions for Supportive Housing] of Part 1.1 relating to supportive housing, including,
+
+(i) for the purposes of the definition of "housing stability support", by specifying the following matters related to prescribed support:
+
+(A) the location of the support;
+
+(B) the provider of the support;
+
+(C) the funder of the support, whether in whole or in part;
+
+(D) whether use of, or participation in, a support by a tenant is voluntary or mandatory, and
+
+(ii) respecting assessment criteria for the purposes of the description of supportive housing rental unit under section 4.2 [supportive housing rental units];
+
+  - (c) respecting amendments to terms and standard terms in tenancy agreements under which supportive housing rental units are rented;
+
+  - (d) respecting personal property of tenants;
+
+  - (e) respecting restrictions to tenant's access or landlord's entry in respect of residential property.
+
   (3) In making regulations under this Act, the Lieutenant Governor in Council may
 
   - (a) delegate a matter to a person,
@@ -3066,13 +3169,29 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) make different regulations for different rental units, residential property or tenancy agreements or for different classes of rental units, residential property or tenancy agreements,
 
-  - (d) make different regulations for different types or classes of disputes, claims, issues, circumstances or dispute resolution processes, and
+  - (c.1) make different regulations for different personal property or for different types or classes of personal property,
+
+  - (d) make different regulations for different types or classes of disputes, claims, issues, circumstances or dispute resolution processes,
 
   - (e) make different regulations for
 
 (i) different tenancies, lengths or circumstances of tenancies, the ending of tenancies or purposes for giving notice to end tenancies, dispute periods, compensation, circumstances relating to compensation or formulas related to compensation, or
 
-(ii) different classes of tenancies, lengths or circumstances of tenancies, the ending of tenancies or purposes for giving notice to end tenancies, dispute periods, compensation, circumstances relating to compensation or formulas related to compensation.
+(ii) different classes of tenancies, lengths or circumstances of tenancies, the ending of tenancies or purposes for giving notice to end tenancies, dispute periods, compensation, circumstances relating to compensation or formulas related to compensation,
+
+  - (f) make different regulations for different terms or standard terms in tenancy agreements or for different classes of terms or standard terms in tenancy agreements,
+
+  - (g) make different regulations for different persons or for different classes of persons,
+
+  - (h) make different regulations for different records or different classes of records,
+
+  - (i) make different regulations for different circumstances or periods of time or for different classes of circumstances or periods of time,
+
+  - (j) make different regulations for different requirements, conditions, restrictions or prohibitions or for different classes of requirements, conditions, restrictions or prohibitions,
+
+  - (k) make different regulations for different purposes for entering rental units or for different classes of purposes for entering rental units, and
+
+  - (l) make different regulations for different exemptions or exceptions or for different classes of exemptions or exceptions under this Act.
 
   (4) The Lieutenant Governor in Council may make regulations
 

@@ -1033,7 +1033,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (3) This Part applies to the recovery of interest payable under subsection (1).
 
-  (4) An amount collected under this Part, or deposited under section 69 [director's determination may be suspended], earns interest at the prescribed rate, payable by the minister charged with the administration of the Financial Administration Act, from the date the amount is deposited in a savings institution to the date of payment to the person entitled.
+  (4) An amount collected under this Part, or deposited under section 68 [appeal of director's determination] or 69 [director's determination may be suspended], earns interest at the prescribed rate, payable by the minister charged with the administration of the Financial Administration Act, from the date the amount is deposited in a savings institution to the date of payment to the person entitled.
 
   (5) Subsection (4) does not apply to security filed under section 5 (1) (b) [application for licence] or any security provided or bond posted under section 61 [security to ensure compliance].
 
@@ -1287,21 +1287,31 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (2) A person who wishes to appeal, under subsection (1), a determination to the tribunal must, within the appeal period established under subsection (3),
 
-  - (a) deliver to the office of the tribunal
+  - (a) deliver to the director the deposit amount specified in subsection (3.1), if applicable,
+
+  - (a.1) deliver to the office of the tribunal
 
 (i) a written request specifying the grounds on which the appeal under subsection (1) is based,
 
-(ii) a copy of the director's written reasons for the determination, and
+(ii) a copy of the director's written reasons for the determination,
 
 (iii) payment of the appeal fee, if any, prescribed by regulation, and
 
-  - (b) deliver a copy of the request under paragraph (a) (i) to the director.
+(iv) if a deposit is delivered to the director under paragraph (a), written confirmation from the director respecting delivery of the deposit, and
+
+  - (b) deliver a copy of the request under paragraph (a.1) (i) to the director.
 
   (3) The appeal period referred to in subsection (2) is the period that starts on the date the determination was served under section 77 [service of notices, decisions, determinations or demands] and ends 30 days after that date.
 
+  (3.1) If the determination in respect of which a person wishes to make an appeal includes a requirement that the person pay an amount of money to another person, the person who wishes to make the appeal must deliver to the director a deposit equal to
+
+  - (a) the total amount that the person is required to pay under the determination, or
+
+  - (b) a smaller amount that the tribunal considers adequate in the circumstances.
+
   (4) If, after an appeal is made by a person in accordance with subsections (2) and (3), the determination that is the subject of the appeal is varied by the director under section 47 [power to reconsider determination], the person, within 7 days of being notified of the variation,
 
-  - (a) may amend the request for appeal under subsection (2) (a) (i) and deliver it to the tribunal, and
+  - (a) may amend the request for appeal under subsection (2) (a.1) (i) and deliver it to the tribunal, and
 
   - (b) if the request for appeal is amended, must deliver a copy of the amended request to the director.
 
@@ -1317,11 +1327,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **69(1)** A person who appeals a determination may request the tribunal to suspend the effect of the determination.
 
-  (2) The tribunal may suspend the determination for the period and subject to the conditions it thinks appropriate, but only if the person who requests the suspension deposits with the director either
-
-  - (a) the total amount, if any, required to be paid under the determination, or
-
-  - (b) a smaller amount that the tribunal considers adequate in the circumstances of the appeal.
+  (2) The tribunal may, if requested to do so under subsection (1), suspend a determination for the period and subject to the conditions it considers appropriate.
 
 
 ## After an appeal is filed
