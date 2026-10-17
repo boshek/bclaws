@@ -133,7 +133,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) be made in the form and manner required by the registrar,
 
-  - (b) include authorizations for the registrar to carry out the prescribed checks regarding the applicant or permit holder, and
+  - (b) include authorizations for the registrar to
+
+(i) carry out the prescribed checks regarding the applicant or permit holder, and
+
+(ii) collect and use the applicant's or permit holder's fingerprints to verify the results of the prescribed checks, and
 
   - (c) be accompanied by the prescribed fee.
 

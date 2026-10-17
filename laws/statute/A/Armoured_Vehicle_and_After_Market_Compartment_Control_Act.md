@@ -51,9 +51,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 "after-market compartment" means a compartment in a vehicle, which compartment
 
-  - (a) is not part of the manufacturer's design of or equipment for the vehicle, and
+  - (a) is not part of the manufacturer's design of or equipment for the vehicle,
 
-  - (b) is incorporated into the equipment or structure of the vehicle after it has left the factory in which it was manufactured;
+  - (b) is incorporated into the equipment or structure of the vehicle after it has left the factory in which it was manufactured, and
+
+  - (c) conceals, hides or otherwise prevents the discovery of the contents of the compartment;
 
 "armoured car guard service" has the same meaning as in the Security Services Act;
 
@@ -113,7 +115,11 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (a) be made in the form and manner required by the registrar,
 
-  - (b) include authorizations for the registrar to carry out the prescribed checks regarding the applicant or permit holder, and
+  - (b) include authorizations for the registrar to
+
+(i) carry out the prescribed checks regarding the applicant or permit holder, and
+
+(ii) collect and use the applicant's or permit holder's fingerprints to verify the results of the prescribed checks, and
 
   - (c) be accompanied by the prescribed fees.
 
@@ -193,15 +199,23 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **7(1)** A person must not own, operate or use a vehicle that contains an after-market compartment.
 
-  (2) A person who installs an after-market compartment in a vehicle must immediately contact the officer in charge of the nearest Provincial or municipal police office and provide to that officer all of the following information:
+  (2) A person must not install, alter or repair an after-market compartment in a vehicle.
 
-  - (a) the name and address of the owner of the vehicle;
+  (3) Subsection (1) does not apply in respect of a person who owns, operates or uses a vehicle that contains an after-market compartment if any of the following apply:
 
-  - (b) the make, model and year of the vehicle;
+  - (a) the vehicle is operated or used by a peace officer in the exercise of the peace officer's powers or performance of the peace officer's duties;
 
-  - (c) where in the vehicle the compartment has been placed and how the compartment can be opened.
+  - (b) the after-market compartment is in a vehicle that is forfeited to the government and the government owns, operates or uses the vehicle;
 
-  (3) Subsection (1) does not apply in respect of a person who owns, operates or uses a vehicle containing an after-market compartment if the owner of the vehicle is exempt from subsection (1) under the regulations.
+  - (c) the owner of the vehicle is exempt from that subsection under the regulations.
+
+  (4) Subsection (2) does not apply in respect of a person who installs, alters or repairs an after-market compartment in a vehicle if any of the following apply:
+
+  - (a) the vehicle is operated or used by a peace officer in the exercise of the peace officer's powers or performance of the peace officer's duties;
+
+  - (b) the after-market compartment is in a vehicle that is forfeited to the government and the government owns, operates or uses the vehicle;
+
+  - (c) the person is exempt from that subsection under the regulations.
 
 
 ## Armoured vehicle permit cancellation or suspension
@@ -286,7 +300,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) a term or condition of an armoured vehicle permit, including, without limiting this, terms and conditions described in section 6 (a) to (f) [terms and conditions of armoured vehicle permit] and terms and conditions imposed on the armoured vehicle permit by the registrar;
 
-  - (c) section 7 (1) or (2) [prohibition on after-market compartment];
+  - (c) section 7 (1) or (2) [prohibition on after-market compartment and installation of after-market compartment];
 
   - (d) section 8 (3) [armoured vehicle permit cancellation or suspension];
 
@@ -390,9 +404,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (f) prescribing the information that an applicant for an armoured vehicle permit is required to provide;
 
-  - (g) exempting, on any conditions, for any periods of time and in any circumstances that are considered advisable, a class of persons from all or any part of this Act or the regulations;
+  - (g) exempting, on any conditions, for any periods of time and in any circumstances that are considered advisable, a class of persons or the government from all or any part of this Act or the regulations;
 
-  - (h) respecting proof of an exemption referred to in section 7 (3), including without limitation, prescribing the documents that constitute proof of a specific exemption;
+  - (h) respecting proof of an exemption under section 7 (3) or (4), including without limitation, prescribing the documents that constitute proof of a specific exemption;
 
   - (i) establishing an offence for the contravention of a regulation and prescribing a penalty for that offence up to the maximum penalties set out in section 14 [offence penalties].
 
