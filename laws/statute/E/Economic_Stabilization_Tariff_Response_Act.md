@@ -17,7 +17,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 ## Contents
 
-- **1-5** Not in force
+- **1-5** Not in force. Repealed.
 - **6** Definitions for this Part
 - **7** Procurement directives
 - **8** Protection against legal proceedings
@@ -35,7 +35,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ---
 
 
-## Not in force
+## Not in force. Repealed.
 
 
 **1-5** [Not in force. Repealed 2025-11-22.]
@@ -160,7 +160,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 ## Reporting
 
 
-**20** The minister responsible for the administration of a regulation that is made, amended, or repealed under this Act must, as soon as practicable, publish the following on a publicly accessible website maintained by or on behalf of the ministry:
+**20** The minister responsible for the administration of a regulation in relation to Part 3 that is made, amended, or repealed under this Act must, as soon as practicable, publish the following on a publicly accessible website maintained by or on behalf of the ministry:
 
   - (a) a summary of the regulation
 
@@ -178,9 +178,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
 **21(1)** In this section, "select standing committee" means the select standing committee of the Legislative Assembly that is designated for the purposes of this section.
 
-  (2) A regulation made under section 3 (4), 5, 7, 13, 17, or 19 stands referred to the select standing committee.
+  (2) A regulation made under section 13 or 17, or section 19 as it relates to Part 3, stands referred to the select standing committee.
 
-  (3) If a regulation is made under section 3 (4), 5, 7, 13, 17, or 19, a copy of the regulation must be filed as soon as practicable with the select standing committee by the minister charged with the administration of the section under which the regulation is made.
+  (3) If a regulation is made under section 13 or 17, or section 19 as it relates to Part 3, a copy of the regulation must be filed as soon as practicable with the select standing committee by the minister charged with the administration of the section under which the regulation is made.
 
   (4) Within 30 days after the date a regulation is filed under subsection (3), the select standing committee must begin a review of the regulation.
 
@@ -200,7 +200,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) Part 3.
 
-  (2) The Lieutenant Governor in Council may, by regulation, repeal a provision of this Act referred to in subsection (1) (a) or (c) on a date earlier than May 28, 2026.
+  (2) The Lieutenant Governor in Council may, by regulation, repeal a provision of this Act referred to in subsection (1) on a date earlier than May 28, 2026.
 
   (3) [Repealed 2026-5-6.]
 

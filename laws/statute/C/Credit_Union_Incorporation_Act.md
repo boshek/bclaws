@@ -3526,15 +3526,21 @@ and every director or senior officer of a credit union that is itself an insider
 
   - unless 5 years have elapsed since the expiration of the period fixed for suspension of the passing of sentence without sentencing or since a fine was imposed, or the term of imprisonment and probation imposed, if any, was concluded, whichever is the latest, but a person is not disqualified under this paragraph if a pardon was granted or issued, or a record suspension was ordered, under the Criminal Records Act (Canada) and the pardon or record suspension, as the case may be, has not been revoked or ceased to have effect, or
 
-  - (f) a person whose registration in any capacity has been cancelled under
+  - (f) subject to subsection (1.1), a person
 
-(i) the Securities Act by either the British Columbia Securities Commission or the executive director appointed under section 8 of that Act, or
+(i) whose registration in any capacity has been cancelled under the Securities Act by the British Columbia Securities Commission or the executive director, or
 
-(ii) the Mortgage Brokers Act by the Commercial Appeals Commission, the Financial Services Tribunal or the registrar under that Act,
+(ii) whose licence under the Mortgage Services Act has been cancelled by the Superintendent of Mortgage Services.
 
-  - unless the person or body that cancelled the registration otherwise orders at the time of cancellation, or unless 5 years have elapsed since the cancellation of the registration.
+  (1.1) Subsection (1) (f) does not apply in any of the following circumstances:
 
-  (2) An order must not be made under subsection (1) (e) and (f) unless notice of the application for the order is given to the registrar and superintendent, who may appear as a party to the application.
+  - (a) the person or body that cancelled the registration or the licence makes an order to that effect at the time of cancellation;
+
+  - (b) the cancellation is reversed;
+
+  - (c) 5 years have elapsed since the cancellation.
+
+  (2) An order must not be made under subsection (1) (e) or (1.1) (a) unless notice of the application for the order is given to the registrar and superintendent, who may appear as a party to the application.
 
 
 ## Share qualification

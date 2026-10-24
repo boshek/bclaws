@@ -935,7 +935,11 @@ but does not include controlled alien species;
 
   (2) A permit issued under this Act must be issued in a manner and form, if any, and with the conditions, if any, specified by the director.
 
-  (3) If a regional manager issues a permit respecting the use of firearms, the regional manager may exempt a person from the requirements of section 9 of the Firearm Act and may specify the conveyance or type of conveyance for which the permit is limited.
+  (3) If a regional manager issues a permit respecting the use of firearms, the regional manager may
+
+  - (a) exempt a person from section 4 or 5 (1), in whole or in part, of the Firearm Violence Prevention Act, and
+
+  - (b) specify the conveyance or type of conveyance to which the permit is limited.
 
   (4) The regional manager or the person authorized by the regional manager may amend the conditions of a permit as determined by him or her and issued under this section, but the amendment is not effective until the permittee has notice of it.
 
@@ -1025,9 +1029,9 @@ but does not include controlled alien species;
 
   - (b) an offence under subsection (6), (7) or (14) of this section or section 28 with respect to hunting,
 
-  - (c) an offence under section 81 or 82 with respect to a hunting licence or limited entry hunting authorization,
+  - (c) an offence under section 81 or 82 with respect to a hunting licence or limited entry hunting authorization, or
 
-  - (d) an offence under section 3 of the Firearm Act, or
+  - (d) [Repealed 2021-7-96.]
 
   - (e) a second or subsequent offence as prescribed within 2 years.
 
@@ -2111,17 +2115,17 @@ but does not include controlled alien species;
 
   (6.1) In subsections (6.2) to (6.4), "wildlife" includes a part of wildlife.
 
-  (6.2) If a thing, other than wildlife, has been seized in relation to an offence under this Act or the Firearm Act, the court may
+  (6.2) If a thing, other than wildlife, has been seized in relation to an offence under this Act, the court may
 
-  - (a) order the thing forfeited to the government, if the court is satisfied that the thing was used in the commission of the offence or possessed in contravention of this Act, the Firearm Act or their regulations, or
+  - (a) order the thing forfeited to the government, if the court is satisfied that the thing was used in the commission of the offence or possessed in contravention of this Act or the regulations, or
 
   - (b) deal with the thing in accordance with section 24.2 (4) of the Offence Act and for this purpose section 24.2 (2) and (3) of the Offence Act do not apply.
 
-  (6.3) If a person is convicted of an offence under this Act or the Firearm Act, the court must order returned to the government any wildlife seized in relation to that offence that has not already been disposed of under section 97.2, 97.3 or 97.6 if the wildlife was
+  (6.3) If a person is convicted of an offence under this Act, the court must order returned to the government any wildlife seized in relation to that offence that has not already been disposed of under section 97.2, 97.3 or 97.6 if the wildlife was
 
   - (a) obtained by or used in the commission of that offence, or
 
-  - (b) possessed in contravention of this Act, the Firearm Act or their regulations.
+  - (b) possessed in contravention of this Act or the regulations.
 
   (6.4) Wildlife returned to the government under subsection (6.3) is to be disposed of as the minister directs.
 
@@ -2209,7 +2213,11 @@ but does not include controlled alien species;
 
 **85(1)** This section applies if a person
 
-  - (a) fails to pay, within the time required by law, a fine imposed as a result of the person's conviction for an offence under this Act or the Firearm Act, and
+  - (a) fails to pay, within the time required by law, a fine imposed as a result of the person's conviction for an offence under
+
+(i) this Act, or
+
+(ii) a prescribed provision of the Firearm Violence Prevention Act, and
 
   - (b) has been served with notice of this section.
 
@@ -2237,7 +2245,7 @@ but does not include controlled alien species;
 ## Officers exempted
 
 
-**86** The offence provisions of this Act and the regulations and section 9 of the Firearm Act do not apply to an officer engaged in the performance of his or her duties.
+**86** The offence provisions of this Act and the regulations do not apply to an officer engaged in the performance of his or her duties.
 
 
 ## Arrest
@@ -2323,9 +2331,9 @@ but does not include controlled alien species;
 ## Inspection of firearms
 
 
-**90(1)** A person, when requested to do so, for the purposes of this Act or the Firearm Act, by a conservation officer or constable, must immediately produce and permit inspection of a firearm in his or her possession.
+**90(1)** A person, when requested to do so, for the purposes of this Act, by a conservation officer or constable, must immediately produce and permit inspection of a firearm in his or her possession.
 
-  (2) A conservation officer or constable may, for the purposes of this Act or the Firearm Act, inspect a firearm found in or on a vehicle or boat.
+  (2) A conservation officer or constable may, for the purposes of this Act, inspect a firearm found in or on a vehicle or boat.
 
 
 ## Inspection of camps
@@ -2785,7 +2793,7 @@ but does not include controlled alien species;
 ## Disposition of other property seized
 
 
-**98** If property, other than wildlife, that is seized in relation to an offence under this Act or the Firearm Act is ordered returned to a person under section 24.2 (4) (a) or (b) of the Offence Act and the person does not, within 6 months after receiving notice from the responsible official of that order, remove the property from the place specified in the notice, the property is forfeited to the government, to be disposed of as the minister directs.
+**98** If property, other than wildlife, that is seized in relation to an offence under this Act is ordered returned to a person under section 24.2 (4) (a) or (b) of the Offence Act and the person does not, within 6 months after receiving notice from the responsible official of that order, remove the property from the place specified in the notice, the property is forfeited to the government, to be disposed of as the minister directs.
 
 
 ## Detention of other property seized until fine paid
@@ -2793,7 +2801,7 @@ but does not include controlled alien species;
 
 **98.1(1)** This section applies if
 
-  - (a) a person is convicted of an offence under this Act or the Firearm Act,
+  - (a) a person is convicted of an offence under this Act,
 
   - (b) property, other than wildlife, is ordered returned to that person under section 24.2 (4) (a) or (b) of the Offence Act, and
 
@@ -3146,6 +3154,8 @@ but does not include controlled alien species;
   - (c) providing for the conditions for a person or association to organize or carry on an operation for the purpose of hunting wildlife on property owned or controlled by the person or association and regulating the hunting of wildlife on the property of the person or association;
 
   - (d) prescribing the conditions under which boats, aircraft, motor vehicles or snowmobiles may be used for the purpose of hunting, trapping, taking or viewing wildlife or for angling;
+
+  - (d.1) in respect of a regulation under paragraph (d) of this subsection, exempting a person from section 4 or 5 (1), in whole or in part, of the Firearm Violence Prevention Act;
 
   - (e) prescribing open seasons or closed seasons, or both, for
 

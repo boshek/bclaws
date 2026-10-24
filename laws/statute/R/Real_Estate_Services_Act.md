@@ -586,9 +586,9 @@ but does not include an activity excluded by regulation;
 
   - (d) in all cases, the applicant has not
 
-(i) been refused a licence under real estate, insurance, mortgage broker or securities legislation in British Columbia or another jurisdiction,
+(i) been refused a licence under real estate, insurance, mortgage services or securities legislation in British Columbia or another jurisdiction,
 
-(ii) held a licence that was suspended or cancelled under real estate, insurance, mortgage broker, or securities legislation in British Columbia or another jurisdiction,
+(ii) held a licence that was suspended or cancelled under real estate, insurance, mortgage services, or securities legislation in British Columbia or another jurisdiction,
 
 (iii) been disciplined by a professional body, or
 
