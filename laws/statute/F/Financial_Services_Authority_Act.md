@@ -93,7 +93,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (e) Insurance (Captive Company) Act;
 
-  - (f) Mortgage Brokers Act;
+  - (f) Mortgage Services Act;
 
   - (g) Pension Benefits Standards Act;
 
@@ -179,7 +179,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (c) the duty to appoint a chief executive officer,
 
-  - (d) the duty to appoint the Superintendent of Financial Institutions, the Superintendent of Pensions, the Registrar of Mortgage Brokers and the Superintendent of Real Estate,
+  - (d) the duty to appoint the Superintendent of Financial Institutions, the Superintendent of Pensions, the Superintendent of Mortgage Services and the Superintendent of Real Estate,
 
   - (d.1) any power or duty of the Authority under the Financial Institutions Act or the Credit Union Incorporation Act,
 
@@ -209,7 +209,7 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   - (b) the Superintendent of Pensions appointed under section 4 (1) of the Pension Benefits Standards Act;
 
-  - (c) the Registrar of Mortgage Brokers appointed under section 1.1 of the Mortgage Brokers Act;
+  - (c) the Superintendent of Mortgage Services appointed under section 2 of the Mortgage Services Act;
 
   - (d) the Superintendent of Real Estate appointed under section 2.1 (1) of the Real Estate Services Act.
 
@@ -261,7 +261,9 @@ For official versions, visit [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca).
 
   (4) Money received by the Authority under section 116 [administrative penalties] of the Pension Benefits Standards Act may be expended only for the purposes of increasing the understanding of that Act, its regulations and its rules by the public and participants in the pension industry.
 
-  (5) Money received by the Authority under section 8 [registrar's orders — registration and compliance] of the Mortgage Brokers Act may be expended only for the purposes of increasing the understanding of that Act and its regulations by the public and participants in the mortgage industry.
+  (4.1) Money received by the Authority under section 45 (3) (i) or (j) [discipline orders] or 52 (3) (d) or (e) [orders relating to unlicensed persons] of the Mortgage Services Act may be expended only for the purpose referred to in section 46 (3) [enforcement expenses and discipline penalties] of that Act.
+
+  (5) Money received by the Authority under section 59 [administrative penalties] of the Mortgage Services Act may be expended only for the purpose referred to in section 59 (6) of that Act.
 
   (5.1) Money received by the Authority under section 43 (2) (i) or (j) [discipline orders] or 49 (2) (d) or (e) [orders respecting unlicensed activity] of the Real Estate Services Act may be expended only for the purpose referred to in section 44 (3) [enforcement expenses and discipline penalties] of that Act.
 
