@@ -969,6 +969,12 @@ and "terminate active membership" has a corresponding meaning;
 
 (ii) does not, within the prescribed period after receiving that notice, elect in the prescribed manner not to be a member.
 
+  (2.1) The plan text document of a pension plan that contains a defined contribution provision may provide that, as part of the terms and conditions of an employee's employment, the contributions made by an employee who became or becomes a member of the plan in accordance with subsection (2) (b) increase in accordance with a method for determining increases in member contributions set out in the plan text document in relation to the defined contribution provision
+
+  - (a) if the employee or member receives the prescribed notice describing how member contributions increase in accordance with the method for determining increases in member contributions, and
+
+  - (b) if the employee or member does not, within the prescribed period after receiving that notice, elect in the prescribed manner not to be subject to the increase described in the notice.
+
   (3) If an employee is eligible to join 2 or more of their employer's pension plans, the plan text documents of one or more of the plans may limit the employee's eligibility for membership to only one of those plans.
 
   (4) Except in a situation described in the prescribed rules referred to in section 90, a person must not be required, as part of the terms and conditions of the person's employment or prospective employment, to transfer to any pension plan any of the commuted value of a benefit under another plan.
@@ -1721,7 +1727,7 @@ and "terminate active membership" has a corresponding meaning;
 
   - (c) money transferred under
 
-(i) section 57 (4) (b), (c) or (d), 79 (1) (a) (i) or (3) or 89.1,
+(i) section 57 (4) (b), (c) or (d), 79 (1) (a) (i) or 89.1,
 
 (ii) Division 7 of this Part, or
 
@@ -1801,7 +1807,7 @@ and "terminate active membership" has a corresponding meaning;
 
 **72(1)** Assets of a pension plan must not be transferred from the plan to another plan unless
 
-  - (a) the transfer is made under section 57 (4) or 79 (1) or (3), under Division 7 of this Part or under Part 9,
+  - (a) the transfer is made under section 57 (4) or 79 (1), under Division 7 of this Part or under Part 9,
 
   - (b) the transfer is effected under an agreement referred to in section 35 (6) (c), or
 
@@ -1813,7 +1819,7 @@ and "terminate active membership" has a corresponding meaning;
 
   - (b) the written consent of the superintendent is obtained.
 
-  (3) Despite subsection (1), an administrator of a pension plan must not, without the consent of, or without being directed to do so by, the superintendent, transfer assets out of the pension fund under section 79 (1) or (3), under Division 7 of this Part or under Part 9 if the transfer would impair the solvency of the plan.
+  (3) Despite subsection (1), an administrator of a pension plan must not, without the consent of, or without being directed to do so by, the superintendent, transfer assets out of the pension fund under section 79 (1), under Division 7 of this Part or under Part 9 if the transfer would impair the solvency of the plan.
 
   (4) The superintendent may, in writing, consent to or direct a transfer referred to in subsection (3) on terms and conditions the superintendent considers appropriate in the circumstances.
 
@@ -1885,7 +1891,7 @@ and "terminate active membership" has a corresponding meaning;
 
   - (a) subject to paragraph (b), if there is a surviving spouse, the following amounts must be provided as follows:
 
-(i) subject to subsection (3), the pension to which the member was entitled must be provided to the surviving spouse
+(i) subject to section 89 (1) or (2), the pension to which the member was entitled must be provided to the surviving spouse
 
 (A) as a pension, or
 
@@ -1917,7 +1923,7 @@ and "terminate active membership" has a corresponding meaning;
 
   (2) If optional ancillary contributions were made by a member and the member dies before reaching the member's pension commencement date and leaves a surviving spouse, the amount of those contributions may, at the option of the spouse, be applied, in the manner specified by the plan text document of the pension plan, to the optional ancillary benefits selected by the spouse to increase the benefits to which the spouse is entitled under the plan up to the maximum amount allowed by the Income Tax Act (Canada) or the regulations under that Act.
 
-  (3) The plan text document of a pension plan may provide that, if a member dies before reaching the member's pension commencement date, a surviving spouse of the member must make the applicable transfer referred to in Division 7.
+  (3) [Repealed 2023-34-14.]
 
   (4) If a spouse who is entitled to a benefit under subsection (1) (a) dies before the spouse's pension commencement date, the total of the commuted value of the pension referred to in subsection (1) (a) (i) and the value of the benefits referred to in subsection (1) (a) (ii) is payable by way of a lump-sum payment to
 
@@ -2133,13 +2139,13 @@ and "terminate active membership" has a corresponding meaning;
 
 (ii) to a locked-in retirement account on the prescribed conditions, or
 
-(iii) if the plan text document of the plan from which the transfer is to be made so provides, to an insurance company to purchase a deferred annuity that
+(iii) to an insurance company to purchase a deferred annuity that
 
 (A) will not start, in relation to a member, earlier than the date on which the member reaches 50 years of age, and
 
 (B) will be in the form of a pension that is required or allowed by this Act;
 
-  - (b) if the plan text document of the plan from which the transfer is to be made so provides in relation to a deferred member, at any time after the member reaches 50 years of age,
+  - (b) at any time after a member reaches 50 years of age,
 
 (i) to an insurance company to purchase an annuity in the form of a pension that is required or allowed by this Act, or
 
@@ -2179,19 +2185,21 @@ and "terminate active membership" has a corresponding meaning;
 ## Annuity purchases
 
 
-**89.1(1)** Subject to this section and the regulations, the plan text document of a pension plan that contains a defined benefit provision may provide that the administrator of the plan may, if the plan has not been terminated, transfer assets from the portion of the plan that relates to the defined benefit provision
+**89.1(1)** Subject to this section and the regulations, the plan text document of a pension plan that contains a defined benefit provision may provide that the administrator of the plan may, if the plan has not been terminated, transfer assets from the portion of the plan that relates to the defined benefit provision to an insurance company to purchase an annuity in the form of a pension that is required or allowed by this Act in respect of any of the following persons:
 
-  - (a) in respect of a deferred member who is entitled to a benefit under the defined benefit provision, or
+  - (a) a deferred member who is entitled to a benefit under the defined benefit provision;
 
-  - (b) in respect of a person who is receiving a pension under the defined benefit provision
+  - (b) the surviving spouse of a deceased member who is entitled to a benefit under the defined benefit provision and who is not receiving a pension under the defined benefit provision;
 
-  to an insurance company in order to purchase an annuity in the form of a pension that is required or allowed by this Act.
+  - (c) an active member who is entitled to a benefit under the defined benefit provision and has ceased accruing benefits under the defined benefit provision;
+
+  - (d) a person who is receiving a pension under the defined benefit provision.
 
   (2) If an annuity is to be purchased under subsection (1), the administrator must ensure that the annuity,
 
-  - (a) in respect of a deferred member, provides the member with the same benefits as the member would have received from the pension plan had the transfer not been made, and
+  - (a) in respect of a person referred to in subsection (1) (a), (b) or (c), provides the person with the same benefits as the person would have received under the defined benefit provision had the transfer not been made, and
 
-  - (b) in respect of a person who is receiving a pension, provides payments to the person in the same amount and form as the pension that the person would have received from the pension plan had the transfer not been made.
+  - (b) in respect of a person referred to in subsection (1) (d), provides payments to the person in the same amount and form as the pension that the person would have received under the defined benefit provision had the transfer not been made.
 
   (3) When the administrator has complied with this section and the regulations in respect of the purchase of an annuity referred to in subsection (1), the administrator, a participating employer, a former participating employer or another person who is or was required to make contributions to the plan is discharged from further liability to the person in respect of whose benefits the annuity has been purchased.
 
@@ -3117,7 +3125,7 @@ and includes amendments to that Act and subordinate legislation;
 
   - (d) prescribing matters that must be included or dealt with in the plan text document of a pension plan;
 
-  - (e) respecting the notice referred to in section 29 (2) (b), including, without limitation, respecting the form, content, timing and manner of provision of the notice and the person from whom the notice must or may be provided;
+  - (e) respecting the notices referred to in section 29 (2) (b) and (2.1) (a), including, without limitation, respecting the form, content, timing and manner of provision of the notice and the person from whom the notice must or may be provided;
 
   - (f) respecting the benefits and membership of a retired member of a pension plan who returns to work or service in an employment covered by that plan;
 
